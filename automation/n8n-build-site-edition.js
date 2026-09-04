@@ -6,8 +6,8 @@ const selected = Array.isArray(input.selectedItems) ? input.selectedItems : [];
 if (!input.generatedAt && !input.date) {
   throw new Error('generatedAt/date absent du digest n8n');
 }
-if (selected.length === 0) {
-  throw new Error('Aucune actualité sélectionnée pour le site');
+if (selected.length !== 3) {
+  throw new Error(`Le site exige exactement 3 actualités (reçu : ${selected.length})`);
 }
 
 const dateSource = input.generatedAt || input.date;
