@@ -1,0 +1,45 @@
+{
+  "slug": "2026-09-04",
+  "dateLabel": "4 septembre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 126,
+  "readingMinutes": 4,
+  "dek": "OpenAI lance GPT-6 Astra : une IA autonome de piratage classée à risque maximal en cybersécurité",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenAI lance GPT-6 Astra : une IA autonome de piratage classée à risque maximal en cybersécurité",
+      "originalTitle": "OpenAI lance GPT-6, son premier modèle d’IA capable de pirater seul des systèmes informatiques très protégés",
+      "summary": "OpenAI s'apprête à lancer GPT-6 Astra, un modèle d'IA autonome capable de pirater des systèmes informatiques très protégés. L'entreprise a classé cette nouvelle version au niveau de risque maximal en matière de cybersécurité. Elle sera disponible dans les prochains jours pour les abonnés payants de ChatGPT, l'agent conversationnel déjà utilisé par un milliard de personnes chaque semaine.",
+      "source": "Le Monde IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.lemonde.fr/intelligences-artificielles-generatives/article/2026/09/04/openai-lance-gpt-6-son-premier-modele-d-ia-capable-de-pirater-seul-des-systemes-informatiques-tres-proteges_6765321_6191406.html",
+      "publishedAt": "2026-09-04T00:47:42.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia officialise le rachat de Hugging Face, plateforme IA incontournable, pour 12,93 milliards de dollars.",
+      "originalTitle": "C’est officiel, Nvidia rachète Hugging Face et met la main sur la plateforme de référence de l’IA",
+      "summary": "Nvidia a officialisé l'acquisition de Hugging Face pour 12,93 milliards de dollars, confirmant ainsi les rumeurs persistantes. Fondée par trois Français, cette plateforme est passée d'une application ludique en 2017 à un acteur incontournable de l'intelligence artificielle. Le PDG de Nvidia, Jensen Huang, a assuré que Hugging Face maintiendrait sa neutralité malgré ce rachat majeur.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2324401-cest-officiel-nvidia-rachete-hugging-face-et-met-la-main-sur-la-plateforme-de-reference-de-lia.html",
+      "publishedAt": "2026-09-03T12:48:58.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "IA ouverte : la Chine publie, l'Europe assemble, les États-Unis verrouillent l'accès",
+      "originalTitle": "Modèles ouverts, la Chine fournit, l'Europe assemble, l'Amérique verrouille",
+      "summary": "En seulement trois mois, la géopolitique des modèles d'IA ouverts a profondément évolué. La Chine se positionne comme un fournisseur majeur en publiant ses modèles phares, tandis que l'Europe les intègre pour renforcer sa souveraineté technologique. Parallèlement, les États-Unis, notamment via l'acquisition de Hugging Face par Nvidia, semblent restreindre l'accès à leurs propres modèles, soulevant des questions sur la véritable définition de l'ouverture.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/modeles-ouverts-la-chine-fournit-leurope-assemble-lamerique-verrouille/",
+      "publishedAt": "2026-09-02T07:28:44.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1YHC8TQIU8awYmL6qsGVBX01j5Na5Buu4/view",
+  "generatedAt": "2026-09-04T06:01:45.142Z"
+}

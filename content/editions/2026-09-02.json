@@ -1,0 +1,45 @@
+{
+  "slug": "2026-09-02",
+  "dateLabel": "2 septembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 124,
+  "readingMinutes": 4,
+  "dek": "IA en RH : la réglementation anti-discrimination progresse lentement, avec des obligations élargies d'ici fin 2027",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "IA en RH : la réglementation anti-discrimination progresse lentement, avec des obligations élargies d'ici fin 2027",
+      "originalTitle": "IA au travail : une lente réglementation pour éviter les discriminations dans la gestion des ressources humaines",
+      "summary": "Actuellement, les entreprises sont déjà soumises à des interdictions spécifiques concernant l'usage de l'IA, notamment le traçage des émotions sur le lieu de travail. Toutefois, un cadre réglementaire plus large visant à prévenir les discriminations dans la gestion des ressources humaines ne devrait s'étendre qu'à partir de fin 2027. Cette progression lente vise à garantir une intégration éthique et équitable de l'intelligence artificielle en milieu professionnel.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/emploi/article/2026/09/02/ia-au-travail-une-lente-reglementation-pour-eviter-les-discriminations-dans-la-gestion-des-ressources-humaines_6763873_1698637.html",
+      "publishedAt": "2026-09-02T04:00:44.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Tesla publie ses données de sécurité FSD : un enjeu majeur avant le vote européen",
+      "originalTitle": "Tesla publie ses données de sécurité sur le FSD à quelques semaines d’un vote européen décisif",
+      "summary": "Tesla a récemment rendu publiques les statistiques de sécurité de son système de conduite entièrement autonome (FSD). Cette divulgation intervient à un moment stratégique, quelques semaines seulement avant un vote crucial au niveau européen. Ce scrutin pourrait potentiellement autoriser l'utilisation du FSD dans l'ensemble des 27 États membres de l'Union européenne.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/vroom/2322387-tesla-publie-ses-donnees-de-securite-sur-le-fsd-a-quelques-semaines-dun-vote-europeen-decisif.html",
+      "publishedAt": "2026-09-01T09:54:09.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "La course à l'IA et le capitalisme linguistique : une ruée moderne vers l'or des mots",
+      "originalTitle": "Comment la course à l’IA nous fait entrer dans le capitalisme linguistique",
+      "summary": "Dans son ouvrage « Dealers de mots », Frédéric Kaplan, de l'EPFL, analyse la quête d'une intelligence artificielle générale comme une nouvelle forme de capitalisme. Il la décrit comme une ruée vers l'or moderne, où l'enjeu est l'appropriation massive de millions de contenus écrits. Cette dynamique transforme les productions linguistiques d'autrui en une ressource stratégique pour le développement de l'IA.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/01/comment-la-course-a-l-ia-nous-fait-entrer-dans-le-capitalisme-linguistique_6763512_3232.html",
+      "publishedAt": "2026-09-01T17:00:03.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1BecFqksljJ8Yc1wAlN4sODGenPS_NThY/view",
+  "generatedAt": "2026-09-02T06:02:06.198Z"
+}

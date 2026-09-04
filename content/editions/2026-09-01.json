@@ -1,0 +1,45 @@
+{
+  "slug": "2026-09-01",
+  "dateLabel": "1 septembre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 123,
+  "readingMinutes": 4,
+  "dek": "L'UE applique des règles renforcées à ChatGPT (première IA concernée), Roblox et Reddit",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "L'UE applique des règles renforcées à ChatGPT (première IA concernée), Roblox et Reddit",
+      "originalTitle": "ChatGPT va être la première IA soumise à des règles renforcées au sein de l’Union européenne, Roblox et Reddit également concernés",
+      "summary": "L'Union européenne soumet ChatGPT, Roblox et Reddit à des obligations renforcées dans le cadre du Digital Services Act. Ces trois plateformes disposent d'un délai de quatre mois, jusqu'à fin décembre, pour se conformer à ces nouvelles exigences.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/31/chatgpt-roblox-et-reddit-vont-etre-soumis-a-des-regles-renforcees-au-sein-de-l-union-europeenne_6762380_4408996.html",
+      "publishedAt": "2026-08-31T11:10:33.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L'IA crée des livestreams interactifs et infinis : les spectateurs décident de la suite en temps réel",
+      "originalTitle": "Ce livestream généré par IA peut durer éternellement, et c’est vous qui choisissez la suite",
+      "summary": "Grâce à une version optimisée du modèle vidéo MiniMax H3, l'intelligence artificielle est désormais capable de générer des séquences visuelles plus vite qu'elles ne sont consommées. Cette prouesse technologique permet la création de livestreams dont la durée est potentiellement illimitée. De plus, les spectateurs peuvent influencer collectivement le déroulement et la suite de ces diffusions en direct.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2321717-ce-livestream-genere-par-ia-peut-durer-eternellement-et-cest-vous-qui-choisissez-la-suite.html",
+      "publishedAt": "2026-08-31T12:00:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "États-Unis : L'opposition monte contre Flock, son réseau de 120 000 caméras d'identification de véhicules",
+      "originalTitle": "Aux Etats-Unis, une opposition grandissante à Flock, un réseau de 120 000 caméras qui identifient les voitures",
+      "summary": "Aux États-Unis, un mouvement de contestation grandit contre Flock, un système privé de détection de plaques d'immatriculation. Ce réseau de 120 000 caméras est jugé intrusif et liberticide par ses opposants. Face à cette pression, une centaine de villes ont déjà résilié leurs contrats avec l'entreprise.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/international/article/2026/08/31/aux-etats-unis-une-opposition-grandissante-a-flock-un-reseau-de-120-000-cameras-qui-identifient-les-voitures_6762379_3210.html",
+      "publishedAt": "2026-08-31T11:00:13.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1H-tFjrPeNRNTPWgbPyHXvLR7f-An46T3/view",
+  "generatedAt": "2026-09-01T06:01:48.349Z"
+}

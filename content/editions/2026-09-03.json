@@ -1,0 +1,45 @@
+{
+  "slug": "2026-09-03",
+  "dateLabel": "3 septembre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 125,
+  "readingMinutes": 4,
+  "dek": "L'administration Trump défend OpenAI : usage des archives du NYT sans droits d'auteur pour l'IA",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "L'administration Trump défend OpenAI : usage des archives du NYT sans droits d'auteur pour l'IA",
+      "originalTitle": "IA : l’administration Trump défend le droit d’OpenAI à utiliser les archives du « New York Times » sans verser de droits d’auteur",
+      "summary": "Le New York Times poursuit OpenAI pour l'utilisation de ses articles dans l'entraînement de modèles d'IA. Cependant, le ministère de la Justice américain, sous l'administration Trump, a défendu OpenAI, estimant qu'il n'y avait ni préjudice commercial ni violation du droit d'auteur. Cette position est justifiée par l'exigence de respect de la concurrence et des impératifs de sécurité nationale.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/03/ia-l-administration-trump-defend-le-droit-d-openai-a-utiliser-les-archives-du-new-york-times-sans-verser-de-droits-d-auteur_6764810_3234.html",
+      "publishedAt": "2026-09-03T03:00:33.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L'IA n'a pas pris de pause estivale : 8 faits clés pour les entreprises",
+      "originalTitle": "Vous avez décroché cet été ? Huit faits pour reprendre le fil de l'IA",
+      "summary": "Durant la période estivale, ActuIA a identifié huit faits majeurs issus de ses 1 162 brèves sur l'IA, essentiels pour les entreprises. Ces évolutions couvrent un large spectre, allant de l'interruption de modèles par décret et l'essor des modèles chinois en libre accès, à l'émergence d'agents pirates et des introductions en Bourse. Elles incluent également des dépenses d'investissement records, l'application de nouvelles régulations, une hausse des coûts d'entraînement et le lancement de programmes d'investissement européens.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/vous-avez-decroche-cet-ete-huit-faits-pour-reprendre-le-fil-de-lia/",
+      "publishedAt": "2026-09-02T07:08:08.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Firefox déploie Smart Window en France : une navigation intelligente propulsée par l'IA",
+      "originalTitle": "Firefox lance Smart Window en France, sa nouvelle fenêtre de navigation dopée à l’IA",
+      "summary": "Depuis le 1er septembre, Firefox déploie Smart Window en France, une nouvelle fonctionnalité intégrée à la version 155 de son navigateur. Ce mode de navigation est propulsé par l'intelligence artificielle, visant à optimiser l'expérience des utilisateurs. Cette initiative positionne Firefox comme un acteur innovant dans l'intégration de l'IA pour améliorer la navigation web.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2323727-firefox-lance-smart-window-en-france-sa-nouvelle-fenetre-de-navigation-dopee-a-lia.html",
+      "publishedAt": "2026-09-02T13:39:40.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1XU5T3amFlb4oCBwSca5WbkMD6w2cSxbi/view",
+  "generatedAt": "2026-09-03T06:01:50.445Z"
+}

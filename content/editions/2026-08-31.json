@@ -1,0 +1,45 @@
+{
+  "slug": "2026-08-31",
+  "dateLabel": "31 août 2026",
+  "weekday": "Lundi",
+  "editionNumber": 122,
+  "readingMinutes": 4,
+  "dek": "IA: OpenAI et Anthropic, rivaux pour des levées de fonds colossales en Bourse face à des défis partagés.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "IA: OpenAI et Anthropic, rivaux pour des levées de fonds colossales en Bourse face à des défis partagés.",
+      "originalTitle": "IA : OpenAI et Anthropic, deux frères ennemis en concurrence frontale pour lever des sommes vertigineuses en Bourse",
+      "summary": "Anthropic a récemment dépassé OpenAI en chiffre d'affaires, se positionnant pour une cotation boursière dès 2026. Malgré cette performance, OpenAI défend sa stratégie, tandis que les deux géants de l'IA font face à des défis communs sous l'œil attentif des marchés.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/30/ia-openai-et-anthropic-deux-freres-ennemis-en-concurrence-frontale-pour-lever-des-sommes-vertigineuses-en-bourse_6761391_3234.html",
+      "publishedAt": "2026-08-30T16:00:03.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Température d'une IA : comprendre ce curseur pour maîtriser la créativité et la fiabilité des réponses",
+      "originalTitle": "On vous explique la température d’une IA : ce curseur qui change toutes les réponses",
+      "summary": "La température d'une IA est un paramètre fondamental qui régule le degré de créativité ou de prévisibilité de ses réponses. En ajustant ce curseur, il est possible de moduler le comportement du modèle, le faisant passer d'un mode très factuel à un mode plus inventif, voire imprévisible. Cette maîtrise est essentielle pour les entreprises afin d'adapter précisément l'IA à leurs besoins, qu'il s'agisse de générer des idées novatrices ou des informations rigoureuses.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2319999-on-vous-explique-la-temperature-dune-ia-ce-curseur-qui-change-toutes-les-reponses.html",
+      "publishedAt": "2026-08-30T16:50:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Mario dans l'esprit des IA : des créations pixelisées surprenantes sans aucune image fournie",
+      "originalTitle": "Voici à quoi ressemble Mario dans la tête des IA",
+      "summary": "Un internaute a récemment mis au défi des modèles d'IA de générer une image de Mario sur une grille de 32x32 pixels, sans leur fournir la moindre référence visuelle. Les résultats, allant de représentations fidèles à des formes totalement méconnaissables, révèlent ce que ces intelligences artificielles ont mémorisé du célèbre personnage de jeu vidéo.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2319077-voici-a-quoi-ressemble-mario-dans-la-tete-des-ia.html",
+      "publishedAt": "2026-08-30T13:30:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1icvrK2_om_89xuXPY_sn0yVYupNZZJdv/view",
+  "generatedAt": "2026-08-31T06:01:59.906Z"
+}
