@@ -1,0 +1,35 @@
+{
+  "slug": "2026-08-23",
+  "kind": "daily",
+  "dateLabel": "23 août 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 114,
+  "readingMinutes": 3,
+  "dek": "Samsung, leader mondial des puces mémoire, lance un rachat d'actions de plus de 55 milliards d'euros",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Samsung, leader mondial des puces mémoire, lance un rachat d'actions de plus de 55 milliards d'euros",
+      "originalTitle": "Samsung, premier fabricant mondial de puces mémoire, va racheter entre 55,8 et 68,2 milliards d’euros de ses actions",
+      "summary": "Samsung, leader mondial des puces mémoire, a annoncé un programme de rachat de ses actions, estimé entre 55,8 et 68,2 milliards d'euros. Cette décision majeure, visant à rassurer les investisseurs, intervient peu après l'initiative similaire de son rival SK Hynix, qui a dévoilé un rachat de près de 25 milliards d'euros. Ces mouvements stratégiques des géants de la mémoire soulignent les enjeux financiers dans un secteur crucial pour l'innovation en IA.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/21/samsung-premier-fabricant-mondial-de-puces-memoire-va-racheter-entre-55-8-et-68-2-milliards-d-euros-de-ses-actions_6752045_3234.html",
+      "publishedAt": "2026-08-21T11:02:04.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Veille IA : Gemini gratuit pour les étudiants et l'arrivée des publicités sur ChatGPT",
+      "originalTitle": "Gemini gratuit, ChatGPT avec des pubs et GTA 6 en fuite sur PC – le récap’ tech de la semaine",
+      "summary": "Google a relancé cette semaine sa promotion « Gemini gratuit », offrant ainsi un accès étendu à son modèle d'IA pour les étudiants. De son côté, ChatGPT s'apprête à déployer des publicités en France, signalant un changement majeur dans son modèle économique. Ces développements marquent des évolutions significatives dans l'accessibilité et la monétisation des outils d'intelligence artificielle.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2316147-gemini-gratuit-chatgpt-avec-des-pubs-et-gta-6-en-fuite-sur-pc-le-recap-tech-de-la-semaine.html",
+      "publishedAt": "2026-08-22T17:49:00.000Z",
+      "accent": "violet"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1myOqL6lCxMhuQApjDH-pi1aM7Gzj2A0M/view",
+  "generatedAt": "2026-08-23T06:01:20.334Z"
+}

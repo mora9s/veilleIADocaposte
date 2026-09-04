@@ -1,0 +1,48 @@
+{
+  "slug": "2026-07-19",
+  "kind": "retrospective",
+  "periodStart": "2026-07-13",
+  "periodEnd": "2026-07-19",
+  "dateLabel": "13 au 19 juillet 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 79,
+  "readingMinutes": 4,
+  "dek": "Sécurité des agents, protections pour les mineurs et infrastructure radio ont structuré cette semaine IA.",
+  "stories": [
+    {
+      "title": "OpenAI présente GPT-Red pour renforcer la résistance aux injections",
+      "originalTitle": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "OpenAI a présenté GPT-Red, un modèle interne de red teaming automatisé entraîné pour trouver des vulnérabilités, notamment des injections de prompt. L’entreprise indique l’utiliser dans l’entraînement de GPT-5.6 et rapporte six fois moins d’échecs sur son benchmark le plus difficile d’injections directes par rapport à son meilleur modèle de production quatre mois plus tôt.",
+      "source": "OpenAI",
+      "category": "Sécurité",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "publishedAt": "2026-07-15",
+      "accent": "blue",
+      "rank": 1
+    },
+    {
+      "title": "La NTIA ouvre jusqu’à 53 millions de dollars pour les réseaux radio natifs IA",
+      "originalTitle": "NTIA Announces Funding Opportunity for AI-Native Wireless Network Innovation",
+      "summary": "La NTIA américaine a ouvert un appel à projets pouvant atteindre 53 millions de dollars pour accélérer le développement, les essais et la commercialisation d’architectures RAN activées par l’IA. Le programme demande des démonstrations en conditions réelles et intègre des exigences de cybersécurité, avec des candidatures ouvertes du 14 juillet au 9 septembre.",
+      "source": "National Telecommunications and Information Administration",
+      "category": "Infrastructure",
+      "url": "https://www.ntia.gov/press-release/2026/ntia-announces-funding-opportunity-ai-native-wireless-network-innovation",
+      "publishedAt": "2026-07-14",
+      "accent": "violet",
+      "rank": 2
+    },
+    {
+      "title": "OpenAI détaille ses garde-fous pour les adolescents",
+      "originalTitle": "Why teens deserve access to safe AI",
+      "summary": "OpenAI a publié ses principes et mécanismes de protection pour l’usage de ChatGPT par les adolescents, dont la prédiction d’âge, les contrôles parentaux et un mode d’étude activable par les parents liés. Le billet décrit également des protections supplémentaires pour les comptes estimés de moins de 18 ans et des rappels de pause plus fréquents.",
+      "source": "OpenAI",
+      "category": "Gouvernance",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "publishedAt": "2026-07-16",
+      "accent": "orange",
+      "rank": 3
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-09-04T14:13:12Z"
+}

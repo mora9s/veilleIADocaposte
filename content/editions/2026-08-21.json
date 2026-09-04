@@ -1,0 +1,48 @@
+{
+  "slug": "2026-08-21",
+  "kind": "retrospective",
+  "periodStart": "2026-08-17",
+  "periodEnd": "2026-08-21",
+  "dateLabel": "21 août 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 112,
+  "readingMinutes": 4,
+  "dek": "Rétrospective de la semaine du 17 au 21 août 2026 : sécurité des modèles de frontière, encadrement médical de l’IA générative et déploiement de Gemini dans l’enseignement supérieur.",
+  "stories": [
+    {
+      "title": "OpenAI ralentit certains entraînements de modèles face au risque cyber",
+      "originalTitle": "Pacing model development in an era of cyber-critical capabilities",
+      "summary": "OpenAI indique avoir suspendu pendant deux semaines l’entraînement par renforcement de ses derniers modèles destinés au déploiement et maintenu en pause sa plus grande exécution RL de frontière. L’entreprise cite des indices préliminaires selon lesquels son modèle Astra pourrait atteindre le seuil de capacité cyber « Critical » et annonce le durcissement de ses environnements de recherche, de la surveillance et des travaux d’alignement.",
+      "source": "OpenAI",
+      "category": "Sécurité et gouvernance",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "publishedAt": "2026-08-18",
+      "accent": "blue",
+      "rank": 1
+    },
+    {
+      "title": "La FDA ouvre une consultation sur les dispositifs médicaux à IA générative",
+      "originalTitle": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
+      "summary": "La Food and Drug Administration américaine publie un document de discussion sur la régulation des dispositifs médicaux utilisant l’IA générative et sollicite des retours sur l’évaluation des risques, l’examen précommercial et la surveillance après mise sur le marché. Le document propose notamment un cadre de risque à deux axes et aborde les modèles de fondation ainsi que les systèmes agentiques ; les contributions sont attendues jusqu’au 19 octobre 2026.",
+      "source": "U.S. Food and Drug Administration",
+      "category": "Régulation",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
+      "publishedAt": "2026-08-18",
+      "accent": "violet",
+      "rank": 2
+    },
+    {
+      "title": "Google offre un an de Gemini aux étudiants éligibles et lance de nouveaux outils d’étude",
+      "originalTitle": "Start the semester with one year of Gemini, on us",
+      "summary": "Google annonce une année gratuite de ses forfaits IA pour les étudiants universitaires éligibles, avec Google AI Pro aux États-Unis et Google AI Plus dans plus de 140 marchés éligibles hors États-Unis. L’entreprise déploie aussi un espace étudiant, des carnets d’étude, des visualisations interactives et Deep Research dans Gemini Live ; ces outils sont annoncés comme disponibles progressivement pour les utilisateurs de l’application Gemini.",
+      "source": "Google",
+      "category": "Produits et éducation",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai",
+      "publishedAt": "2026-08-19",
+      "accent": "orange",
+      "rank": 3
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-09-04T14:13:12Z"
+}

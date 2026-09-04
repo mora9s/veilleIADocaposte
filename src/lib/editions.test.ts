@@ -26,4 +26,28 @@ describe("edition content", () => {
   it("uses the most recent edition on the homepage", () => {
     expect(getLatestEdition().slug).toBe("2026-09-04");
   });
+
+  it("covers the archive back to early July without disguising retrospectives as daily editions", () => {
+    const editions = getAllEditions();
+    expect(editions).toHaveLength(21);
+    expect(editions.at(-1)?.slug).toBe("2026-07-05");
+    expect(editions.filter((edition) => edition.kind === "retrospective")).toHaveLength(8);
+    expect(editions.filter((edition) => edition.kind !== "retrospective")).toHaveLength(13);
+  });
+
+  it("keeps every retrospective source inside its declared period", () => {
+    const retrospectives = getAllEditions().filter((edition) => edition.kind === "retrospective");
+    for (const edition of retrospectives) {
+      expect(edition.periodStart).toBeDefined();
+      expect(edition.periodEnd).toBeDefined();
+      for (const story of edition.stories) {
+        const published = story.publishedAt.slice(0, 10);
+        expect(published >= (edition.periodStart ?? "")).toBe(true);
+        expect(published <= (edition.periodEnd ?? "")).toBe(true);
+      }
+      expect(edition.stories.map((story) => story.rank)).toEqual(
+        edition.stories.map((_, index) => index + 1),
+      );
+    }
+  });
 });

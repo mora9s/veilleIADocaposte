@@ -1,0 +1,48 @@
+{
+  "slug": "2026-07-05",
+  "kind": "retrospective",
+  "periodStart": "2026-07-01",
+  "periodEnd": "2026-07-05",
+  "dateLabel": "1er au 5 juillet 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 65,
+  "readingMinutes": 4,
+  "dek": "Modèles de frontière, déploiement et capacité de calcul ont dominé les premières annonces de juillet.",
+  "stories": [
+    {
+      "title": "Anthropic rétablit Claude Fable 5 et Mythos 5",
+      "originalTitle": "Redeploying Fable 5",
+      "summary": "Anthropic a indiqué que l’accès à Claude Fable 5 et Mythos 5 était rétabli le 1er juillet après la levée des contrôles à l’exportation. Fable 5 redevient disponible mondialement dans Claude Platform, Claude.ai, Claude Code et Claude Cowork, avec une réactivation progressive annoncée chez les fournisseurs cloud.",
+      "source": "Anthropic",
+      "category": "Modèles",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "publishedAt": "2026-07-01",
+      "accent": "blue",
+      "rank": 1
+    },
+    {
+      "title": "Microsoft crée Frontier Company pour déployer l’IA en entreprise",
+      "originalTitle": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
+      "summary": "Microsoft a annoncé Microsoft Frontier Company, une nouvelle organisation destinée à co-concevoir, déployer et améliorer des systèmes d’IA avec des clients. L’entreprise indique investir 2,5 milliards de dollars et mobiliser 6 000 experts métiers et ingénieurs pour cette activité.",
+      "source": "Microsoft",
+      "category": "Entreprise",
+      "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence",
+      "publishedAt": "2026-07-02",
+      "accent": "violet",
+      "rank": 2
+    },
+    {
+      "title": "Google récapitule ses mises à jour IA de juin",
+      "originalTitle": "The latest AI news we announced in June 2026",
+      "summary": "Google a publié son récapitulatif des annonces IA de juin, notamment Gemini 3.5 Live Translate, Android 17 et un nouveau Google Home Speaker conçu pour Gemini. Le billet mentionne aussi Gemma 4 12B, présenté comme un modèle local fonctionnant avec 16 Go de mémoire.",
+      "source": "Google",
+      "category": "Produits",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+      "publishedAt": "2026-07-01",
+      "accent": "orange",
+      "rank": 3
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-09-04T14:13:12Z"
+}

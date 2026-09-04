@@ -1,0 +1,48 @@
+{
+  "slug": "2026-08-16",
+  "kind": "retrospective",
+  "periodStart": "2026-08-10",
+  "periodEnd": "2026-08-16",
+  "dateLabel": "10–16 août 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 107,
+  "readingMinutes": 4,
+  "dek": "Les annonces portent sur les offres professionnelles, la cybersécurité sur AWS et un nouveau modèle Gemini pour le code et les agents.",
+  "stories": [
+    {
+      "title": "OpenAI annonce des sièges Premium pour ChatGPT Business",
+      "originalTitle": "Premium seats are coming to ChatGPT Business",
+      "summary": "OpenAI annonce une option Premium pour ChatGPT Business offrant cinq fois plus d’usage que les sièges Standard et supprimant la limite de cinq heures. Les organisations peuvent mélanger les deux types de sièges dans un même espace de travail ; le tarif annoncé est de 125 dollars par utilisateur et par mois, ou 100 dollars avec facturation annuelle.",
+      "source": "OpenAI",
+      "category": "Entreprise",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "publishedAt": "2026-08-10",
+      "accent": "blue",
+      "rank": 1
+    },
+    {
+      "title": "Les modèles Daybreak deviennent accessibles via Amazon Bedrock",
+      "originalTitle": "Daybreak models are now available on AWS",
+      "summary": "OpenAI annonce que les capacités Daybreak sont disponibles dans Amazon Bedrock pour les clients éligibles. Les niveaux Daybreak Blue et Red visent notamment la recherche de vulnérabilités, l’ingénierie de détection et la réponse aux incidents, après inscription au programme Daybreak Access.",
+      "source": "OpenAI",
+      "category": "Cybersécurité",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "publishedAt": "2026-08-11",
+      "accent": "violet",
+      "rank": 2
+    },
+    {
+      "title": "Google présente Gemini 3.7 Flash pour le code et les agents",
+      "originalTitle": "Introducing Gemini 3.7 Flash",
+      "summary": "Google présente Gemini 3.7 Flash comme une évolution de sa gamme Flash pour le développement logiciel et les agents. Selon Google, le modèle améliore les tâches de débogage, de résolution de problèmes et de développement web ; il est proposé à un tarif de lancement de 0,75 dollar par million de jetons en entrée et 3,75 dollars en sortie jusqu’à la fin de 2026.",
+      "source": "Google",
+      "category": "Modèles",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash",
+      "publishedAt": "2026-08-13",
+      "accent": "orange",
+      "rank": 3
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-09-04T14:13:12Z"
+}

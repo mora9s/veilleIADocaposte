@@ -17,6 +17,9 @@ export type Story = {
 
 export type Edition = {
   slug: string;
+  kind: "daily" | "retrospective";
+  periodStart?: string;
+  periodEnd?: string;
   dateLabel: string;
   weekday: string;
   editionNumber: number;
@@ -48,9 +51,13 @@ function isEdition(value: unknown): value is Edition {
       edition.weekday &&
       edition.generatedAt &&
       !Number.isNaN(Date.parse(edition.generatedAt)) &&
+      (edition.kind === "daily" || edition.kind === "retrospective") &&
+      (edition.kind !== "retrospective" ||
+        (typeof edition.periodStart === "string" && /^\d{4}-\d{2}-\d{2}$/.test(edition.periodStart) &&
+          typeof edition.periodEnd === "string" && /^\d{4}-\d{2}-\d{2}$/.test(edition.periodEnd))) &&
       (edition.audioUrl === null || isHttpsUrl(edition.audioUrl)) &&
       Array.isArray(edition.stories) &&
-      edition.stories.length > 0 &&
+      edition.stories.length >= 2 &&
       edition.stories.length <= 3 &&
       edition.stories.every(
         (story) =>

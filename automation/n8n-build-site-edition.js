@@ -72,6 +72,7 @@ return [{ json: {
   ...input,
   siteEdition: {
     slug,
+    kind: 'daily',
     dateLabel,
     weekday,
     editionNumber,

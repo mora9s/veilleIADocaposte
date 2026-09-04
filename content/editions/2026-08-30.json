@@ -1,0 +1,35 @@
+{
+  "slug": "2026-08-30",
+  "kind": "daily",
+  "dateLabel": "30 août 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 121,
+  "readingMinutes": 3,
+  "dek": "Singapour: Des serveurs IA fonctionnent avec 16 millions de neurones humains pour une efficacité énergétique accrue",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Singapour: Des serveurs IA fonctionnent avec 16 millions de neurones humains pour une efficacité énergétique accrue",
+      "originalTitle": "À Singapour, un rack de serveurs fonctionne avec 16 millions de neurones humains cultivés en labo",
+      "summary": "À Singapour, un prototype de rack de serveurs révolutionne le calcul en intégrant 16 millions de neurones humains cultivés en laboratoire, se substituant aux puces en silicium. L'objectif principal de cette innovation est de réduire considérablement la facture énergétique associée à l'intelligence artificielle.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html",
+      "publishedAt": "2026-08-28T16:01:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "La recherche académique face à l'IA : une réflexion urgente s'impose",
+      "originalTitle": "« Il devient urgent de réfléchir à ce que l’IA fait à la recherche académique »",
+      "summary": "Les philosophes Antonin Broi et Thibaut Giraud, alias Monsieur Phi, alertent sur la transformation radicale que l'IA impose au travail intellectuel. Dans une tribune au Monde, ils estiment que la progression fulgurante de l'intelligence artificielle va bouleverser la recherche académique. Une réflexion urgente sur ses implications est donc cruciale.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/29/il-devient-urgent-de-reflechir-a-ce-que-l-ia-fait-a-la-recherche-academique_6760022_3232.html",
+      "publishedAt": "2026-08-29T12:00:10.000Z",
+      "accent": "violet"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1ShcIiJCM_uUawaeevnWrAKVUyrcR7jgm/view",
+  "generatedAt": "2026-08-30T06:01:43.941Z"
+}

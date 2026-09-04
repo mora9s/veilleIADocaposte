@@ -1,0 +1,46 @@
+{
+  "slug": "2026-08-22",
+  "kind": "daily",
+  "dateLabel": "22 août 2026",
+  "weekday": "Samedi",
+  "editionNumber": 113,
+  "readingMinutes": 4,
+  "dek": "L'IA face au défi de la sobriété : énergie et eau, les nouvelles tensions d'un capitalisme en mutation",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "L'IA face au défi de la sobriété : énergie et eau, les nouvelles tensions d'un capitalisme en mutation",
+      "originalTitle": "Un capitalisme sobre est-il possible ?",
+      "summary": "Le changement climatique et l'intensification des activités humaines, notamment l'intelligence artificielle, exacerbent les tensions autour des ressources essentielles. L'énergie et l'eau sont particulièrement concernées par cette pression croissante. La question d'un capitalisme plus sobre devient ainsi cruciale.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/08/22/un-capitalisme-sobre-est-il-possible_6752761_5463015.html",
+      "publishedAt": "2026-08-22T05:00:10.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "UPDF : Une solution PDF IA économique et complète, concurrente d'Adobe Acrobat",
+      "originalTitle": "Oubliez Adobe Acrobat : ce logiciel PDF dopé à l’IA fait la même chose, mais en beaucoup moins cher [Sponso]",
+      "summary": "Le logiciel UPDF se positionne comme une alternative économique et performante aux outils PDF traditionnels comme Adobe Acrobat. Dopé à l'intelligence artificielle, il simplifie la gestion quotidienne des documents PDF pour les entreprises et les particuliers. Cet outil polyvalent permet d'éditer contrats, CV et autres fichiers avec une grande facilité, et est actuellement proposé à un tarif préférentiel.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2303585-oubliez-adobe-acrobat-ce-logiciel-pdf-dope-a-lia-fait-la-meme-chose-mais-en-beaucoup-moins-cher.html",
+      "publishedAt": "2026-08-21T09:45:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "ChatGPT s'intègre à Messages sur Mac : un défi pour Apple et les régulateurs européens",
+      "originalTitle": "ChatGPT peut désormais lire vos messages sur Mac, et Apple risque de ne pas apprécier",
+      "summary": "Le 20 août 2026, OpenAI a dévoilé un plug-in permettant à ChatGPT d'interagir directement avec l'application Messages sur Mac. Cette innovation technique s'inscrit dans un contexte de tensions croissantes entre Apple et l'Union européenne concernant l'ouverture de l'écosystème iOS. L'intégration de ChatGPT pourrait ainsi intensifier le débat sur le contrôle des plateformes et la souveraineté des données.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2315351-chatgpt-peut-desormais-lire-vos-messages-sur-mac-et-apple-risque-de-ne-pas-apprecier.html",
+      "publishedAt": "2026-08-21T09:19:14.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1AxrzJ9coUYh50IcXzb8ewlTQgY9zT_dp/view",
+  "generatedAt": "2026-08-22T06:01:35.173Z"
+}

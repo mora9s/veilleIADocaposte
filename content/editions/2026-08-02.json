@@ -1,0 +1,48 @@
+{
+  "slug": "2026-08-02",
+  "kind": "retrospective",
+  "periodStart": "2026-07-27",
+  "periodEnd": "2026-08-02",
+  "dateLabel": "27 juillet–2 août 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 93,
+  "readingMinutes": 4,
+  "dek": "Rétrospective des annonces IA vérifiées publiées du 27 juillet au 2 août 2026.",
+  "stories": [
+    {
+      "title": "NVIDIA lance l’Open Secure AI Alliance",
+      "originalTitle": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "summary": "NVIDIA et des partenaires fondateurs ont lancé l’Open Secure AI Alliance afin de développer et partager des outils ouverts pour la sûreté et la sécurité de l’IA. NVIDIA y contribue notamment avec des modèles, poids de modèles, données et le cadre de recherche NOOA pour les harnais d’agents.",
+      "source": "NVIDIA",
+      "category": "Cybersécurité",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "publishedAt": "2026-07-27",
+      "accent": "blue",
+      "rank": 1
+    },
+    {
+      "title": "Google rend Gemini Robotics ER 2 disponible aux développeurs",
+      "originalTitle": "Introducing Gemini Robotics ER 2",
+      "summary": "Google a lancé Gemini Robotics ER 2, un modèle destiné à assurer le raisonnement spatial en temps réel, la planification de tâches à plusieurs étapes et la collaboration entre robots. Il est accessible via l’API Gemini et Google AI Studio ; la Gemini Enterprise Agent Platform le propose en aperçu privé.",
+      "source": "Google",
+      "category": "Robotique",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+      "publishedAt": "2026-07-30",
+      "accent": "violet",
+      "rank": 2
+    },
+    {
+      "title": "L’Union européenne prépare l’application de nouvelles obligations de transparence IA",
+      "originalTitle": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+      "summary": "La Commission européenne a annoncé que son AI Office et les autorités nationales commenceraient à appliquer l’AI Act le 2 août 2026. Les règles de transparence exigent notamment d’informer les utilisateurs lorsqu’ils interagissent avec une IA, d’étiqueter les deepfakes et d’ajouter des marques lisibles par machine aux contenus générés ou modifiés.",
+      "source": "Commission européenne",
+      "category": "Régulation",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "publishedAt": "2026-07-31",
+      "accent": "orange",
+      "rank": 3
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-09-04T14:13:12Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "2026-07-12",
+  "kind": "retrospective",
+  "periodStart": "2026-07-06",
+  "periodEnd": "2026-07-12",
+  "dateLabel": "6 au 12 juillet 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 72,
+  "readingMinutes": 4,
+  "dek": "La semaine a été marquée par deux lancements OpenAI et par l’arrivée d’un nouveau modèle agentique chez Meta.",
+  "stories": [
+    {
+      "title": "OpenAI lance GPT-Live dans ChatGPT Voice",
+      "originalTitle": "Introducing GPT-Live",
+      "summary": "OpenAI a lancé GPT-Live, une génération de modèles vocaux à architecture full-duplex capable d’écouter et de parler simultanément. GPT-Live-1 et GPT-Live-1 mini commencent à être déployés dans ChatGPT Voice à l’échelle mondiale, tandis que l’accès API est annoncé ultérieurement.",
+      "source": "OpenAI",
+      "category": "Produits",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "publishedAt": "2026-07-08",
+      "accent": "blue",
+      "rank": 1
+    },
+    {
+      "title": "OpenAI met GPT-5.6 à disposition générale",
+      "originalTitle": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "OpenAI a annoncé la disponibilité générale de la famille GPT-5.6 : Sol, Terra et Luna. Le billet présente Sol comme le modèle phare, Terra comme une variante équilibrée pour le travail quotidien et Luna comme la version la plus économique.",
+      "source": "OpenAI",
+      "category": "Modèles",
+      "url": "https://openai.com/index/gpt-5-6",
+      "publishedAt": "2026-07-09",
+      "accent": "violet",
+      "rank": 2
+    },
+    {
+      "title": "Meta dévoile Muse Spark 1.1 et son API en aperçu public",
+      "originalTitle": "Introducing Muse Spark 1.1",
+      "summary": "Meta a présenté Muse Spark 1.1, un modèle de raisonnement multimodal destiné aux tâches agentiques, avec des capacités de code, d’utilisation d’outils et d’ordinateur. Le modèle est disponible en mode Thinking dans Meta AI et via une préversion publique de la Meta Model API pour les développeurs.",
+      "source": "Meta",
+      "category": "Modèles",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
+      "publishedAt": "2026-07-09",
+      "accent": "orange",
+      "rank": 3
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-09-04T14:13:12Z"
+}

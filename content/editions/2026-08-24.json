@@ -1,0 +1,46 @@
+{
+  "slug": "2026-08-24",
+  "kind": "daily",
+  "dateLabel": "24 août 2026",
+  "weekday": "Lundi",
+  "editionNumber": 115,
+  "readingMinutes": 4,
+  "dek": "Le MCP, nouveau \"port USB-C\" de l'IA, connecte les modèles aux données réelles et s'impose rapidement",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Le MCP, nouveau \"port USB-C\" de l'IA, connecte les modèles aux données réelles et s'impose rapidement",
+      "originalTitle": "Il est le « port USB-C » de l’intelligence artificielle : on vous explique le MCP",
+      "summary": "Le Model Context Protocol (MCP) est un nouveau standard essentiel qui connecte les intelligences artificielles aux données et outils du monde réel. Son adoption fulgurante en fait un élément clé pour l'intégration des IA dans des environnements complexes et leur interaction avec notre quotidien.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2315891-il-est-le-port-usb-c-de-lintelligence-artificielle-on-vous-explique-le-mcp.html",
+      "publishedAt": "2026-08-23T09:30:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "The Looking Glass : une IA pour visualiser l'évolution de votre ville, du passé lointain au futur",
+      "originalTitle": "À quoi ressemblait votre ville il y a des millions d’années ? Et en 3050 ? Cette IA tente de l’imaginer",
+      "summary": "Lancé en juillet 2026, l'outil The Looking Glass utilise l'intelligence artificielle pour générer des images de n'importe quel lieu à différentes époques. Cette application permet ainsi de visualiser à quoi ressemblait ou pourrait ressembler une ville, des millions d'années dans le passé jusqu'en 3050. Il est important de noter que cette IA assume une part d'invention, offrant une interprétation créative plutôt qu'une reconstitution historique ou prédictive exacte.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2306433-a-quoi-ressemblait-votre-ville-il-y-a-des-millions-dannees-et-en-3050-cette-ia-tente-de-limaginer.html",
+      "publishedAt": "2026-08-23T07:17:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L'évolution fulgurante de ChatGPT : de la carte fantaisiste à la géographie presque parfaite en 17 mois",
+      "originalTitle": "De « Bordouse » à Bordeaux : cette carte de France montre les progrès de ChatGPT en un an et demi",
+      "summary": "En mars 2025, ChatGPT générait des cartes de France fantaisistes, parsemées de villes imaginaires. Dix-sept mois plus tard, les progrès sont spectaculaires, offrant une représentation quasi-réaliste du territoire. Cependant, l'outil n'atteint pas encore une perfection absolue, soulignant les défis persistants de la génération d'images par IA.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2314897-de-bordouse-a-bordeaux-cette-carte-de-france-montre-les-progres-de-chatgpt-en-un-an-et-demi.html",
+      "publishedAt": "2026-08-22T15:02:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/140t-SjxAHuUTQv9pfRodJCZ9eaQcd1aM/view",
+  "generatedAt": "2026-08-24T06:01:54.348Z"
+}

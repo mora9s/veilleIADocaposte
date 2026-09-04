@@ -1,5 +1,15 @@
 import Link from "next/link";
+import { buildArchiveCalendar } from "@/lib/archive-calendar";
 import type { Edition, Story } from "@/lib/editions";
+
+const WEEKDAYS = ["Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"];
+
+function formatPeriodDate(value?: string) {
+  if (!value) return "";
+  return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "long", timeZone: "UTC" }).format(
+    new Date(`${value}T00:00:00Z`),
+  );
+}
 
 export function SiteHeader() {
   return (
@@ -31,15 +41,20 @@ function StoryLink({ story, children }: { story: Story; children: React.ReactNod
 
 export function EditionHero({ edition }: { edition: Edition }) {
   const [lead, ...secondary] = edition.stories;
+  const isRetrospective = edition.kind === "retrospective";
   return (
     <>
       <div className="edition-heading">
         <div>
-          <p>{edition.weekday} · La sélection du jour</p>
+          <p>
+            {isRetrospective
+              ? `Rétrospective · ${formatPeriodDate(edition.periodStart)} au ${formatPeriodDate(edition.periodEnd)}`
+              : `${edition.weekday} · La sélection du jour`}
+          </p>
           <h1>{edition.dateLabel}</h1>
         </div>
         <div className="edition-number">
-          Édition n°{edition.editionNumber} · lecture {edition.readingMinutes} min
+          {isRetrospective ? "Archive reconstruite" : `Édition n°${edition.editionNumber}`} · lecture {edition.readingMinutes} min
         </div>
       </div>
 
@@ -59,7 +74,7 @@ export function EditionHero({ edition }: { edition: Edition }) {
           </div>
         </article>
 
-        <div className="secondary-stories">
+        <div className={`secondary-stories ${secondary.length === 1 ? "single" : ""}`}>
           {secondary.map((story) => (
             <article className={`story-card ${story.accent}`} key={story.url}>
               <div className="story-meta">
@@ -120,6 +135,59 @@ export function ArchiveCards({ editions, title = "Les éditions précédentes" }
   );
 }
 
+export function ArchiveCalendar({ editions }: { editions: Edition[] }) {
+  const months = buildArchiveCalendar(editions);
+  return (
+    <section className="calendar-section" aria-labelledby="calendar-title">
+      <div className="section-title calendar-title-row">
+        <div>
+          <p className="page-kicker">Accès par date</p>
+          <h2 id="calendar-title">Calendrier des éditions</h2>
+        </div>
+        <div className="calendar-legend" aria-label="Légende">
+          <span><i className="legend-dot daily" /> Quotidienne</span>
+          <span><i className="legend-dot retrospective" /> Rétrospective</span>
+        </div>
+      </div>
+      <nav className="month-jump" aria-label="Accéder à un mois">
+        {months.map((month) => <a href={`#month-${month.key}`} key={month.key}>{month.label}</a>)}
+      </nav>
+      <div className="calendar-months">
+        {months.map((month, index) => (
+          <article className="calendar-month" id={`month-${month.key}`} key={month.key}>
+            <header>
+              <a href={months[index + 1] ? `#month-${months[index + 1].key}` : `#month-${month.key}`} aria-label="Mois précédent">←</a>
+              <h3>{month.label}</h3>
+              <a href={months[index - 1] ? `#month-${months[index - 1].key}` : `#month-${month.key}`} aria-label="Mois suivant">→</a>
+            </header>
+            <div className="calendar-grid calendar-weekdays" aria-hidden="true">
+              {WEEKDAYS.map((day) => <span key={day}>{day}</span>)}
+            </div>
+            <div className="calendar-grid">
+              {month.cells.map((cell, cellIndex) => {
+                if (cell.day === null) return <span className="calendar-day empty" key={`empty-${cellIndex}`} />;
+                if (!cell.edition) return <span className="calendar-day unavailable" key={cell.isoDate}>{cell.day}</span>;
+                const retrospective = cell.edition.kind === "retrospective";
+                return (
+                  <Link
+                    className={`calendar-day available ${retrospective ? "retrospective" : "daily"}`}
+                    href={`/editions/${cell.edition.slug}`}
+                    aria-label={`${cell.edition.dateLabel} — ${retrospective ? "rétrospective" : "édition quotidienne"}`}
+                    key={cell.isoDate}
+                  >
+                    <span>{cell.day}</span>
+                    <i aria-hidden="true" />
+                  </Link>
+                );
+              })}
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 export function EditionList({ editions }: { editions: Edition[] }) {
   return (
     <div className="edition-list">
@@ -127,7 +195,10 @@ export function EditionList({ editions }: { editions: Edition[] }) {
         <Link className="edition-row" href={`/editions/${edition.slug}`} key={edition.slug}>
           <time dateTime={edition.slug}>{edition.dateLabel}</time>
           <span>
-            <strong>{edition.dek}</strong>
+            <strong>
+              {edition.kind === "retrospective" ? <em className="edition-kind">Rétrospective</em> : null}
+              {edition.dek}
+            </strong>
             <small>{edition.stories.map((story) => story.source).join(" · ")}</small>
           </span>
           <span className="row-arrow" aria-hidden="true">→</span>

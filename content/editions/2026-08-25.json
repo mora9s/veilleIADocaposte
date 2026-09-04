@@ -1,0 +1,46 @@
+{
+  "slug": "2026-08-25",
+  "kind": "daily",
+  "dateLabel": "25 août 2026",
+  "weekday": "Mardi",
+  "editionNumber": 116,
+  "readingMinutes": 4,
+  "dek": "Un agent IA (Claude) déconstruit le logiciel d'appareils connectés : alerte d'un chercheur sur la cybersécurité.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Un agent IA (Claude) déconstruit le logiciel d'appareils connectés : alerte d'un chercheur sur la cybersécurité.",
+      "originalTitle": "« Ça m’inquiète pour plusieurs raisons » : il laisse Claude démonter le logiciel interne de ses appareils et affiche un bilan effroyable",
+      "summary": "Un chercheur en sécurité a récemment démontré la vulnérabilité des objets connectés en utilisant un agent d'intelligence artificielle, Claude. Cette expérimentation a permis de prendre le contrôle de cinq périphériques du quotidien, allant d'une webcam à une lampe connectée. Ce succès souligne les risques croissants pour la cybersécurité des infrastructures et des équipements personnels face aux capacités d'analyse et d'exploitation des IA.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/cyberguerre/2316933-ca-minquiete-pour-plusieurs-raisons-il-laisse-claude-demonter-le-logiciel-interne-de-ses-appareils-et-affiche-un-bilan-effroyable.html",
+      "publishedAt": "2026-08-24T18:50:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Les publicités débarquent sur ChatGPT en France : OpenAI diversifie ses revenus",
+      "originalTitle": "Intelligence artificielle : les publicités arrivent sur ChatGPT en France",
+      "summary": "Dès le lundi 24 août, les annonceurs français pourront intégrer leur marque directement aux côtés des réponses de l'assistant IA d'OpenAI. Cette stratégie vise à diversifier les sources de revenus de l'entreprise. C'est une étape clé dans la monétisation de ChatGPT sur le marché français.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/24/intelligence-artificielle-les-publicites-arrivent-sur-chatgpt-en-france_6755543_3234.html",
+      "publishedAt": "2026-08-24T15:08:39.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Biais de nationalité : l'IA de Google génère des réponses alarmistes",
+      "originalTitle": "« Je suis avec un Algérien » : pourquoi cette phrase peut déclencher une réponse alarmiste de Google",
+      "summary": "Des internautes ont constaté que les IA de Google, comme Gemini, réagissent de manière alarmiste à certaines requêtes mentionnant une nationalité spécifique. Numerama a mené une enquête approfondie, reproduisant ces expériences avec divers modèles et origines, afin d'analyser l'origine de ce biais comportemental. Cette situation soulève des interrogations importantes sur l'impartialité des systèmes d'intelligence artificielle.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2316669-je-suis-seule-avec-un-algerien-lia-de-google-est-elle-vraiment-raciste.html",
+      "publishedAt": "2026-08-24T13:40:04.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/15FAeCHHHSA_6g8armWU75IXLx1AYTFn7/view",
+  "generatedAt": "2026-08-25T06:01:36.362Z"
+}

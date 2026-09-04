@@ -1,0 +1,46 @@
+{
+  "slug": "2026-08-29",
+  "kind": "daily",
+  "dateLabel": "29 août 2026",
+  "weekday": "Samedi",
+  "editionNumber": 120,
+  "readingMinutes": 4,
+  "dek": "Cyberattaques par IA : les géants du secteur partagent leurs conseils et appellent à une mobilisation mondiale.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Cyberattaques par IA : les géants du secteur partagent leurs conseils et appellent à une mobilisation mondiale.",
+      "originalTitle": "« On dispose d’une fenêtre limitée » : les géants de l’IA distillent leurs conseils cyber sur une menace qu’ils connaissent bien",
+      "summary": "Plus d'une centaine d'entreprises technologiques, incluant les principaux laboratoires d'intelligence artificielle, ont récemment publié une lettre ouverte. Ce document appelle à une mobilisation mondiale urgente pour contrer les cyberattaques de plus en plus sophistiquées, assistées par l'IA. Cette démarche représente à la fois une alerte sérieuse face à une menace grandissante et une forme d'auto-diagnostic de la part des acteurs clés du secteur.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/cyberguerre/2320333-on-dispose-dune-fenetre-limitee-les-geants-de-lia-distillent-leurs-conseils-cyber-sur-une-menace-quils-connaissent-bien.html",
+      "publishedAt": "2026-08-28T08:45:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Iliad (Free) : Xavier Niel dénonce la lenteur des autorisations pour les data centers IA en France",
+      "originalTitle": "« Deux ans et demi pour autoriser un data center IA en France » : le patron d’Iliad (Free) veut aller plus vite",
+      "summary": "Lors de la présentation de ses résultats semestriels le 27 août 2026, Iliad a mis en lumière ses avancées dans l'intelligence artificielle, notamment une croissance de 50% de son activité cloud. Le groupe de Xavier Niel a cependant alerté sur les lourdeurs administratives en France. Il déplore que l'obtention des autorisations pour ses futurs data centers IA prenne jusqu'à deux ans, malgré l'identification des terrains nécessaires.",
+      "source": "Numerama IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.numerama.com/tech/2319805-deux-ans-et-demi-pour-autoriser-un-data-center-ia-en-france-le-patron-diliad-free-veut-aller-plus-vite.html",
+      "publishedAt": "2026-08-27T14:11:31.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Singapour : L'IA s'appuie sur de vrais neurones humains cultivés en laboratoire pour une efficacité énergétique accrue",
+      "originalTitle": "À Singapour, de vrais neurones humains cultivés en labo font tourner l’IA",
+      "summary": "À Singapour, un prototype innovant utilise désormais de véritables neurones humains cultivés en laboratoire pour effectuer des calculs d'intelligence artificielle, remplaçant ainsi les puces en silicium traditionnelles. Cette avancée vise principalement à réduire drastiquement la consommation énergétique associée aux systèmes d'IA, offrant une alternative potentiellement plus durable.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2320745-a-singapour-de-vrais-neurones-humains-cultives-en-labo-font-tourner-lia.html",
+      "publishedAt": "2026-08-28T16:01:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/18obLIpaSkLd6YqFY25PyKrmY0PgVNFBl/view",
+  "generatedAt": "2026-08-29T06:01:45.941Z"
+}
