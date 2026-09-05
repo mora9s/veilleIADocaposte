@@ -37,13 +37,16 @@ const requireText = (value, field, minimum) => {
   return text;
 };
 const requireHttpsUrl = (value, field) => {
-  try {
-    const url = new URL(value);
-    if (url.protocol !== 'https:') throw new Error('protocol');
-    return url.toString();
-  } catch {
+  // The n8n task-runner Code VM does not expose the WHATWG URL global.
+  // Validate the public HTTPS form directly instead of catching its ReferenceError
+  // as though an otherwise valid article URL were invalid.
+  const url = typeof value === 'string' ? value.trim() : '';
+  const match = url.match(/^https:\/\/(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,63}(?::(\d{1,5}))?(?:[/?#][^\s]*)?$/i);
+  const port = match?.[1] ? Number(match[1]) : null;
+  if (!match || (port !== null && port > 65535)) {
     throw new Error(`Actualité invalide : ${field} doit être une URL HTTPS`);
   }
+  return url;
 };
 
 const stories = selected.slice(0, 3).map((item, index) => {
