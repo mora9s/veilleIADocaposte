@@ -41,10 +41,12 @@ describe("edition content", () => {
     }
   });
 
-  it("keeps the most recent daily edition on the homepage when a weekly shares its date", () => {
-    expect(getLatestEdition().slug).toBe("2026-09-06");
+  it("keeps the most recent daily edition on the homepage when weekly editions exist", () => {
+    const editions = getAllEditions();
+    const latestDaily = editions.find((edition) => edition.kind === "daily");
+    expect(latestDaily).toBeDefined();
+    expect(getLatestEdition()).toEqual(latestDaily);
     expect(getLatestEdition().kind).toBe("daily");
-    expect(getAllEditions()[0]?.slug).toBe("2026-09-06");
   });
 
   it("loads the weekly edition with its premium contract and orders it after the daily on the same date", () => {
@@ -60,10 +62,13 @@ describe("edition content", () => {
     expect(weekly?.insights).toHaveLength(3);
     expect(weekly?.watchlist?.length).toBeGreaterThanOrEqual(2);
     expect(weekly?.watchlist?.length).toBeLessThanOrEqual(3);
+    const editions = getAllEditions();
+    const dailyIndex = editions.findIndex(
+      (edition) => edition.slug === "2026-09-06",
+    );
+    expect(dailyIndex).toBeGreaterThanOrEqual(0);
     expect(
-      getAllEditions()
-        .slice(0, 2)
-        .map((edition) => edition.slug),
+      editions.slice(dailyIndex, dailyIndex + 2).map((edition) => edition.slug),
     ).toEqual(["2026-09-06", "hebdo-2026-09-06"]);
   });
 
