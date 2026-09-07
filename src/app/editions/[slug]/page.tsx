@@ -2,7 +2,11 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { EditionHero, SiteFooter, SiteHeader } from "@/components/editorial";
-import { getAdjacentEditions, getAllEditions, getEditionBySlug } from "@/lib/editions";
+import {
+  getAdjacentEditions,
+  getAllEditions,
+  getEditionBySlug,
+} from "@/lib/editions";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -17,7 +21,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const edition = getEditionBySlug(slug);
   if (!edition) return {};
   return {
-    title: `Édition du ${edition.dateLabel}`,
+    title:
+      edition.kind === "weekly"
+        ? `La semaine IA — ${edition.dateLabel}`
+        : `Édition du ${edition.dateLabel}`,
     description: edition.dek,
   };
 }
@@ -33,10 +40,21 @@ export default async function EditionPage({ params }: Props) {
       <SiteHeader />
       <main id="contenu">
         <EditionHero edition={edition} />
-        <nav className="edition-pagination" aria-label="Naviguer entre les éditions">
-          {older ? <Link href={`/editions/${older.slug}`}>← {older.dateLabel}</Link> : <span />}
+        <nav
+          className="edition-pagination"
+          aria-label="Naviguer entre les éditions"
+        >
+          {older ? (
+            <Link href={`/editions/${older.slug}`}>← {older.dateLabel}</Link>
+          ) : (
+            <span />
+          )}
           <Link href="/editions">Toutes les éditions</Link>
-          {newer ? <Link href={`/editions/${newer.slug}`}>{newer.dateLabel} →</Link> : <Link href="/">Aujourd’hui →</Link>}
+          {newer ? (
+            <Link href={`/editions/${newer.slug}`}>{newer.dateLabel} →</Link>
+          ) : (
+            <Link href="/">Aujourd’hui →</Link>
+          )}
         </nav>
       </main>
       <SiteFooter />

@@ -1,12 +1,31 @@
 import { describe, expect, it } from "vitest";
-import { getAllEditions, getEditionBySlug, getLatestEdition } from "./editions";
+import {
+  getAllEditions,
+  getEditionBySlug,
+  getLatestEdition,
+  validateEdition,
+} from "./editions";
 
 describe("edition content", () => {
   it("loads editions newest first", () => {
     const editions = getAllEditions();
     expect(editions.length).toBeGreaterThanOrEqual(5);
     expect(editions.map((edition) => edition.slug)).toEqual(
-      [...editions.map((edition) => edition.slug)].sort().reverse(),
+      [...editions]
+        .sort((a, b) => {
+          const date = (b.publicationDate ?? b.slug.slice(-10)).localeCompare(
+            a.publicationDate ?? a.slug.slice(-10),
+          );
+          return (
+            date ||
+            (a.kind === "daily"
+              ? -1
+              : b.kind === "daily"
+                ? 1
+                : a.slug.localeCompare(b.slug))
+          );
+        })
+        .map((edition) => edition.slug),
     );
   });
 
@@ -22,20 +41,48 @@ describe("edition content", () => {
     }
   });
 
-  it("uses the most recent edition on the homepage", () => {
-    expect(getLatestEdition()).toEqual(getAllEditions()[0]);
+  it("keeps the most recent daily edition on the homepage when a weekly shares its date", () => {
+    expect(getLatestEdition().slug).toBe("2026-09-06");
+    expect(getLatestEdition().kind).toBe("daily");
+    expect(getAllEditions()[0]?.slug).toBe("2026-09-06");
+  });
+
+  it("loads the weekly edition with its premium contract and orders it after the daily on the same date", () => {
+    const weekly = getEditionBySlug("hebdo-2026-09-06");
+    expect(weekly).toMatchObject({
+      kind: "weekly",
+      publicationDate: "2026-09-06",
+      periodStart: "2026-08-31",
+      periodEnd: "2026-09-06",
+      readingMinutes: 5,
+    });
+    expect(weekly?.stories).toHaveLength(5);
+    expect(weekly?.insights).toHaveLength(3);
+    expect(weekly?.watchlist?.length).toBeGreaterThanOrEqual(2);
+    expect(weekly?.watchlist?.length).toBeLessThanOrEqual(3);
+    expect(
+      getAllEditions()
+        .slice(0, 2)
+        .map((edition) => edition.slug),
+    ).toEqual(["2026-09-06", "hebdo-2026-09-06"]);
   });
 
   it("covers the archive back to early July without disguising retrospectives as daily editions", () => {
     const editions = getAllEditions();
     expect(editions.length).toBeGreaterThanOrEqual(21);
     expect(editions.at(-1)?.slug).toBe("2026-07-05");
-    expect(editions.filter((edition) => edition.kind === "retrospective")).toHaveLength(8);
-    expect(editions.filter((edition) => edition.kind !== "retrospective").length).toBeGreaterThanOrEqual(13);
+    expect(
+      editions.filter((edition) => edition.kind === "retrospective"),
+    ).toHaveLength(8);
+    expect(
+      editions.filter((edition) => edition.kind !== "retrospective").length,
+    ).toBeGreaterThanOrEqual(13);
   });
 
   it("keeps every retrospective source inside its declared period", () => {
-    const retrospectives = getAllEditions().filter((edition) => edition.kind === "retrospective");
+    const retrospectives = getAllEditions().filter(
+      (edition) => edition.kind === "retrospective",
+    );
     for (const edition of retrospectives) {
       expect(edition.periodStart).toBeDefined();
       expect(edition.periodEnd).toBeDefined();
@@ -48,5 +95,47 @@ describe("edition content", () => {
         edition.stories.map((_, index) => index + 1),
       );
     }
+  });
+
+  it("rejects malformed ranks, required fields and weekly periods", () => {
+    const weekly = getEditionBySlug("hebdo-2026-09-06");
+    expect(weekly).toBeDefined();
+    const copy = () => structuredClone(weekly!);
+
+    const duplicateRank = copy();
+    duplicateRank.stories[1].rank = 1;
+    expect(validateEdition(duplicateRank)).toBe(false);
+
+    const missingField = copy();
+    missingField.stories[0].originalTitle = "";
+    expect(validateEdition(missingField)).toBe(false);
+
+    const invalidAccent = copy();
+    invalidAccent.stories[0].accent = "green" as never;
+    expect(validateEdition(invalidAccent)).toBe(false);
+
+    const shortPeriod = copy();
+    shortPeriod.periodStart = "2026-09-01";
+    expect(validateEdition(shortPeriod)).toBe(false);
+
+    const nonSunday = copy();
+    nonSunday.slug = "hebdo-2026-09-05";
+    nonSunday.publicationDate = "2026-09-05";
+    nonSunday.periodStart = "2026-08-30";
+    nonSunday.periodEnd = "2026-09-05";
+    expect(validateEdition(nonSunday)).toBe(false);
+
+    const outsidePeriod = copy();
+    outsidePeriod.stories[0].publishedAt = "2026-08-30T12:00:00.000Z";
+    expect(validateEdition(outsidePeriod)).toBe(false);
+
+    const impossibleDate = copy();
+    impossibleDate.stories[0].publishedAt = "2026-02-30T12:00:00.000Z";
+    expect(validateEdition(impossibleDate)).toBe(false);
+
+    const invalidMetadata = copy();
+    invalidMetadata.editionNumber = 0;
+    invalidMetadata.readingMinutes = 0;
+    expect(validateEdition(invalidMetadata)).toBe(false);
   });
 });

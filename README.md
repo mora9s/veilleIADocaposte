@@ -1,17 +1,15 @@
 # Veille / IA
 
-Site éditorial statique alimenté par le workflow n8n **AI News - Digest lisible V2**.
+Site éditorial statique alimenté par n8n, avec une quotidienne et **La semaine IA**.
 
 ## Fonctionnel
 
-- édition la plus récente sur l’accueil ;
-- trois actualités sourcées et hiérarchisées dans les nouvelles éditions ;
-- briefing audio lorsqu’il est disponible ;
-- archive complète remontant au début juillet 2026 ;
-- calendrier mensuel distinguant éditions quotidiennes et rétrospectives ;
-- pages permanentes pour chaque publication ;
-- rendu statique compatible Vercel ;
-- aucune base de données.
+- la quotidienne la plus récente reste le hero « Aujourd’hui » ;
+- mise en avant dédiée du dernier hebdo, sans évincer la quotidienne ;
+- quotidiennes à 3 actualités, rétrospectives et hebdos premium (5 actualités, 3 enseignements, 2–3 points à surveiller) ;
+- briefing audio facultatif ; l’audio hebdo affiche sa durée réelle de 6 ou 7 minutes ;
+- archives, calendrier multi-éditions par date et pages permanentes ;
+- rendu statique compatible Vercel, sans base de données.
 
 ## Commandes
 
@@ -23,4 +21,4 @@ npm run lint
 npm run build
 ```
 
-Les éditions se trouvent dans `content/editions/`. Le branchement n8n est documenté dans `docs/n8n-publication.md` et la provenance des archives reconstruites dans `docs/archive-backfill-sources.md`.
+Les éditions sont dans `content/editions/`. Les flux n8n frères — quotidien 08:00 et hebdo dimanche 18:00 — ainsi que leurs sorties canal/site indépendantes sont documentés dans `docs/n8n-publication.md`.

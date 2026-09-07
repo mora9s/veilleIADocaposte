@@ -1,45 +1,29 @@
-# Publication quotidienne sans base de données
+# Publication quotidienne et hebdomadaire sans base de données
 
-## Flux retenu
+Le site lit uniquement `content/editions/*.json`. Chaque fichier est une édition permanente et versionnée.
 
-```text
-n8n 08:00
-  → sélection et réécriture des trois actualités
-  → construction de `siteEdition`
-  → commit d’un fichier JSON dans GitHub
-  → nouveau build Vercel automatique
-  → page d’accueil et archives mises à jour
-```
-
-Le site lit uniquement `content/editions/*.json`. Chaque fichier représente une édition permanente et versionnée.
-
-## Branchement n8n préparé
-
-Le code prêt à coller dans un nœud **Code** se trouve dans :
+## Deux flux frères, indépendants
 
 ```text
-automation/n8n-build-site-edition.js
+Quotidien — 08:00
+  → sélection de 3 actualités → n8n-build-site-edition.js → siteEdition → publisher GitHub
+
+Hebdo — dimanche 18:00
+  → 1 signal fort + 4 essentiels, 3 enseignements, 2–3 points à surveiller
+  → n8n-build-weekly-edition.js → siteEdition → publisher GitHub
 ```
 
-Ce nœud doit être placé après `12d - Injecter URL audio dans card Teams`, car ce point contient à la fois `selectedItems` avec les résumés complets et l’URL audio finale. Il ajoute `siteEdition` sans modifier les champs Teams, Telegram ou audio existants.
+Les sorties vers Teams/Telegram et la publication site sont indépendantes. `skipTeams` ne bloque jamais le site ; seul `skipSitePublication: true` l’arrête explicitement.
+
+## Contrats
+
+- daily : slug `YYYY-MM-DD`, `kind: "daily"`, exactement 3 actualités ;
+- weekly : slug `hebdo-YYYY-MM-DD`, `kind: "weekly"`, `publicationDate === periodEnd`, exactement 5 actualités, 3 objets `insights`, 2–3 chaînes `watchlist`, lecture 5 min ;
+- l’audio weekly est facultatif. S’il existe, `audioMinutes` est obligatoirement `6` ou `7` ;
+- toutes les URLs source et audio sont HTTPS.
+
+Les deux builders préservent le payload entrant et ajoutent **le même** champ aval `siteEdition`. Le code est compatible avec le VM Code n8n sans supposer `URL` global.
 
 ## Publication GitHub
 
-La dernière étape utilisera un nœud **GitHub** ou **HTTP Request** pour créer :
-
-```text
-content/editions/{siteEdition.slug}.json
-```
-
-Le contenu du fichier est `JSON.stringify(siteEdition, null, 2)`. Le commit quotidien déclenche ensuite le déploiement Vercel.
-
-La connexion GitHub et l’activation du nœud seront faites seulement après validation du nom définitif du dépôt et du déploiement. Aucun jeton ne doit être stocké dans le workflow en clair : utiliser une credential n8n dédiée avec droit d’écriture limité à ce dépôt.
-
-## Garanties
-
-- pas de BDD ;
-- une URL permanente par date ;
-- historique et retour arrière via Git ;
-- validation du build avant publication Vercel ;
-- les scores internes n’apparaissent jamais sur le site ;
-- les liens pointent toujours vers les sources originales.
+`automation/n8n-publish-site-edition-github.js` effectue un upsert idempotent de `content/editions/{siteEdition.slug}.json` sur `main`, puis le build Vercel est déclenché par l’intégration Git. Configurer `GITHUB_TOKEN_VEILLE_IA` comme secret/credential n8n à portée limitée ; aucun jeton ne doit être placé dans le workflow.
