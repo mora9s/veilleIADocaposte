@@ -105,6 +105,12 @@ export function EditionHero({ edition }: { edition: Edition }) {
             </StoryLink>
           </div>
         </article>
+        {weekly ? (
+          <div className="essentials-heading">
+            <p className="page-kicker">La sélection resserrée</p>
+            <h2>Les 4 essentiels</h2>
+          </div>
+        ) : null}
         <div
           className={`secondary-stories ${secondary.length === 1 ? "single" : ""}`}
         >

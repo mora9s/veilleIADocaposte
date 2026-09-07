@@ -25,6 +25,29 @@ for (const viewport of [
   await page.getByText(/La semaine IA · .+ au .+/i).waitFor();
   if ((await page.locator(".weekly-grid .story-card").count()) !== 4)
     throw new Error("Les quatre essentiels hebdo sont absents");
+  await page.getByRole("heading", { name: "Les 4 essentiels" }).waitFor();
+  const heroBox = await page.locator(".weekly-grid .hero-story").boundingBox();
+  const essentialsBox = await page
+    .locator(".weekly-grid .secondary-stories")
+    .boundingBox();
+  const firstEssentialBox = await page
+    .locator(".weekly-grid .story-card")
+    .first()
+    .boundingBox();
+  if (!heroBox || !essentialsBox || !firstEssentialBox)
+    throw new Error(`Géométrie hebdo absente ${viewport.name}`);
+  if (Math.abs(heroBox.width - essentialsBox.width) > 2)
+    throw new Error(
+      `Le signal fort et les essentiels ne respirent pas sur la même largeur ${viewport.name}`,
+    );
+  if (viewport.name === "desktop" && firstEssentialBox.width < 500)
+    throw new Error(
+      "Les cartes essentielles restent trop étroites sur desktop",
+    );
+  if (viewport.name === "mobile" && firstEssentialBox.width < 340)
+    throw new Error("Les cartes essentielles restent trop étroites sur mobile");
+  if (viewport.name === "mobile" && heroBox.height > 580)
+    throw new Error("Le signal fort domine encore trop la hauteur mobile");
   await page.getByRole("heading", { name: "3 enseignements" }).waitFor();
   await page.getByText(/Ces points restent des éléments à suivre/i).waitFor();
   const overflow = await page.evaluate(
