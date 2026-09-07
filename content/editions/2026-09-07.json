@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-07",
+  "kind": "daily",
+  "dateLabel": "7 septembre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 129,
+  "readingMinutes": 4,
+  "dek": "Prolifération des affiches générées par IA : les professionnels du graphisme s'organisent en ligne",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Prolifération des affiches générées par IA : les professionnels du graphisme s'organisent en ligne",
+      "originalTitle": "Face au déferlement des affiches utilisant l’IA dans l’espace public, la résistance en ligne s’organise",
+      "summary": "Cet été, les affiches générées par intelligence artificielle ont massivement investi l'espace public, des menus de restaurants aux annonces de concerts. Cette prolifération suscite une forte opposition en ligne, particulièrement au sein de la communauté des graphistes professionnels. Ce phénomène révèle une défiance grandissante face à l'adoption généralisée de ces technologies.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/07/face-au-deferlement-des-affiches-utilisant-l-ia-dans-l-espace-public-la-resistance-en-ligne-s-organise_6767774_4408996.html",
+      "publishedAt": "2026-09-07T04:30:16.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Stowaway: Une expérience immersive pour suivre les avions et voir le monde depuis leur hublot virtuel.",
+      "originalTitle": "Stowaway, le site qui vous fait « embarquer » dans les avions qui survolent votre maison",
+      "summary": "Stowaway est une plateforme web innovante qui permet aux utilisateurs de suivre en temps réel les avions survolant leur domicile. Elle offre ensuite la possibilité de visualiser le paysage comme si l'on était à bord, depuis un hublot virtuel. Bien que l'expérience soit immersive et bien réalisée, il est important de noter qu'elle ne s'appuie pas sur des flux vidéo réels provenant des appareils.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2323729-ce-site-permet-dembarquer-virtuellement-dans-les-avions-qui-passent-au-dessus-de-chez-vous.html",
+      "publishedAt": "2026-09-06T10:01:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "IA : Georges Nahon souligne le potentiel de rupture si les modèles s'auto-améliorent",
+      "originalTitle": "Intelligence artificielle : « Une rupture pourrait intervenir si les modèles devenaient eux-mêmes capables d’accélérer leur propre progression »",
+      "summary": "Dans une tribune au Monde, Georges Nahon, ancien directeur général d'Orange Labs, analyse la course à l'IA entre les États-Unis et la Chine. Il souligne l'évolution constante des modèles de langage, de leur financement et de leurs applications, notamment dans le domaine de la défense. Une rupture majeure pourrait survenir si ces modèles devenaient capables d'accélérer leur propre progression.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/06/intelligence-artificielle-une-rupture-pourrait-intervenir-si-les-modeles-devenaient-eux-memes-capables-d-accelerer-leur-propre-progression_6767376_3232.html",
+      "publishedAt": "2026-09-06T15:00:11.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1RkWUZWQUPO7jGEfLOf_JRsP-osf3pqvN/view",
+  "generatedAt": "2026-09-07T06:01:52.478Z"
+}
