@@ -73,6 +73,34 @@ for (const viewport of [
     if (!box || box.width < 44 || box.height < 44)
       throw new Error(`Cible calendrier trop petite ${viewport.name}`);
   }
+  const calendarGeometry = await page.evaluate(() => {
+    const months = [...document.querySelectorAll(".calendar-month")];
+    const monthColumns = new Set(months.map((month) => month.getBoundingClientRect().left));
+    const overflows = months.flatMap((month, monthIndex) => {
+      const monthBox = month.getBoundingClientRect();
+      return [...month.querySelectorAll(".calendar-grid")]
+        .map((grid, gridIndex) => {
+          const gridBox = grid.getBoundingClientRect();
+          const childrenOverflow = [...grid.children].some((child) => {
+            const box = child.getBoundingClientRect();
+            return box.left < gridBox.left - 1 || box.right > gridBox.right + 1;
+          });
+          return gridBox.left < monthBox.left - 1 ||
+            gridBox.right > monthBox.right + 1 ||
+            childrenOverflow
+            ? `${monthIndex}:${gridIndex}`
+            : null;
+        })
+        .filter(Boolean);
+    });
+    return { monthColumnCount: monthColumns.size, overflows };
+  });
+  if (calendarGeometry.overflows.length)
+    throw new Error(
+      `Grille calendrier hors de sa carte ${viewport.name}: ${calendarGeometry.overflows.join(", ")}`,
+    );
+  if (viewport.name === "desktop" && calendarGeometry.monthColumnCount > 2)
+    throw new Error("Le calendrier desktop est trop serré sur trois colonnes");
   const dailyLink = page
     .locator(".edition-row:has(.edition-kind.daily)")
     .first();

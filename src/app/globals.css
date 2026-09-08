@@ -788,7 +788,7 @@ footer {
 }
 .calendar-months {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 14px;
 }
 .calendar-month {
@@ -826,7 +826,7 @@ footer {
 }
 .calendar-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(7, minmax(0, 1fr));
   gap: 5px;
 }
 .calendar-weekdays {
