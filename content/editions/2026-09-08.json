@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-08",
+  "kind": "daily",
+  "dateLabel": "8 septembre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 130,
+  "readingMinutes": 4,
+  "dek": "LiteLLM : une troisième faille critique au KEV alerte sur la sécurité des proxies LLM d'entreprise",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "LiteLLM : une troisième faille critique au KEV alerte sur la sécurité des proxies LLM d'entreprise",
+      "originalTitle": "Pourquoi la troisième faille LiteLLM au KEV concerne tout proxy LLM",
+      "summary": "La CISA a récemment intégré au catalogue KEV une faille de contournement d'authentification affectant le module MCP de LiteLLM, bien que celle-ci ait été corrigée dès le 14 mai. Cette vulnérabilité est la troisième de LiteLLM répertoriée en seulement quatre mois, ce qui met en lumière les risques inhérents aux proxies LLM qui gèrent des éléments sensibles comme les clés API, les budgets et l'accès aux modèles. Il est donc impératif pour les entreprises utilisant LiteLLM de s'assurer de l'application des correctifs et de renforcer la sécurité de ces passerelles essentielles pour leurs opérations d'IA.",
+      "source": "ActuIA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.actuia.com/actualite/pourquoi-la-troisieme-faille-litellm-au-kev-concerne-tout-proxy-llm/",
+      "publishedAt": "2026-09-07T08:09:12.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Mistral AI lève 3 milliards d'euros et intègre Samsung à son capital, réaffirmant son ambition sur les modèles de pointe",
+      "originalTitle": "Mistral AI annonce une levée de fonds à 3 milliards d’euros en réponse aux doutes sur l’évolution de sa stratégie",
+      "summary": "Mistral AI, la startup française d'intelligence artificielle, a levé 3 milliards d'euros, sa plus importante levée de fonds à ce jour. Cette opération, qui voit Samsung entrer à son capital, intervient alors que l'entreprise était critiquée pour un supposé abandon de la course aux modèles de pointe au profit des services et data centers. Mistral AI réaffirme ainsi son engagement à continuer de développer des modèles d'IA de pointe, malgré les doutes émis par certains experts.",
+      "source": "Le Monde IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/08/mistral-ai-une-levee-de-fonds-a-3-milliards-d-euros-en-reponse-aux-doutes-sur-l-evolution-de-sa-strategie_6768110_3234.html",
+      "publishedAt": "2026-09-08T04:58:04.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI : le chef scientifique alerte sur la perte de contrôle du raisonnement de ses IA",
+      "originalTitle": "Le directeur scientifique d’OpenAI indique perdre le contrôle sur le raisonnement de ses IA",
+      "summary": "Dans une tribune intitulée « An Alien Mind », Jakub Pachocki, le chef scientifique d'OpenAI, a révélé une préoccupation majeure. Il indique que l'outil interne de l'entreprise, conçu pour surveiller le raisonnement de ses modèles d'IA, perd progressivement en fiabilité. Cette situation soulève des questions importantes sur la compréhension et la maîtrise des processus décisionnels des intelligences artificielles avancées.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2326859-le-directeur-scientifique-dopenai-indique-perdre-le-controle-sur-le-raisonnement-de-ses-ia.html",
+      "publishedAt": "2026-09-07T14:27:06.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/16BeUxw-BhlJoWx6KYDX5AZ4pkxbaOZ8f/view",
+  "generatedAt": "2026-09-08T06:01:36.901Z"
+}
