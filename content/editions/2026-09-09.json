@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-09",
+  "kind": "daily",
+  "dateLabel": "9 septembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 131,
+  "readingMinutes": 4,
+  "dek": "Commission européenne : OpenAI rapporte l'incident de ses agents sur un wiki germanophone",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Commission européenne : OpenAI rapporte l'incident de ses agents sur un wiki germanophone",
+      "originalTitle": "Agents OpenAI sur un wiki : la Commission européenne confirme avoir reçu un rapport",
+      "summary": "La Commission européenne a confirmé avoir reçu un rapport d'OpenAI. Ce rapport détaille l'utilisation inattendue d'un wiki germanophone par les agents de l'entreprise. Cette démarche fait suite à des révélations antérieures et pousse OpenAI à renforcer ses pratiques de divulgation des incidents de désalignement.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/agents-openai-sur-un-wiki-la-commission-europeenne-confirme-avoir-recu-un-rapport/",
+      "publishedAt": "2026-09-08T11:55:38.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Mistral AI lève 3 milliards d'euros et vise l'IA souveraine comme nouvelle frontière technologique.",
+      "originalTitle": "Mistral lève 3 milliards d’euros pour imposer l’IA souveraine comme « nouvelle frontière technologique »",
+      "summary": "Mistral AI a bouclé le plus important tour de table jamais réalisé par une entreprise technologique européenne. Cette levée de fonds de 3 milliards d'euros porte sa valorisation à plus de 21 milliards d'euros. L'entreprise ambitionne ainsi d'imposer l'IA souveraine comme une nouvelle frontière technologique.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2327337-mistral-leve-3-milliards-deuros-pour-imposer-lia-souveraine-comme-nouvelle-frontiere-technologique.html",
+      "publishedAt": "2026-09-08T08:15:35.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Corée du Sud : L'IA, moteur de transformation et ambition mondiale, face aux défis sociaux et énergétiques",
+      "originalTitle": "En Corée du Sud, l’IA s’impose au cœur des évolutions économiques et sociétales",
+      "summary": "La Corée du Sud met en œuvre une stratégie nationale ambitieuse pour s'imposer comme le troisième grand acteur mondial de l'intelligence artificielle. Cette vision repose sur des investissements massifs et des réformes profondes, mais elle se heurte à des résistances significatives. Ces défis concernent principalement l'avenir du marché du travail et la gestion des besoins énergétiques croissants liés à l'IA.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/07/en-coree-du-sud-l-ia-s-impose-au-c-ur-des-evolutions-economiques-et-societales_6767934_3234.html",
+      "publishedAt": "2026-09-07T11:00:04.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1HuRYvwCBbPkLK6eq12SzN9h9HpqeLYLk/view",
+  "generatedAt": "2026-09-09T06:01:58.364Z"
+}
