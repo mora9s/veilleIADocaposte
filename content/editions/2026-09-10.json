@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-10",
+  "kind": "daily",
+  "dateLabel": "10 septembre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 132,
+  "readingMinutes": 4,
+  "dek": "IA Spatiale : Les Émirats injectent un milliard de dollars dans la startup française Loft Orbital",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "IA Spatiale : Les Émirats injectent un milliard de dollars dans la startup française Loft Orbital",
+      "originalTitle": "Les Emirats arabes unis engagent un milliard de dollars dans un projet français d’IA dans l’espace",
+      "summary": "Les Émirats arabes unis investissent un milliard de dollars dans un projet français d'IA spatiale. Ce financement, apporté par une filiale du conglomérat de la famille royale émiratie, est destiné à la startup Loft Orbital. Il servira à développer sa constellation de satellites d'observation.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/09/les-emirats-engagent-un-milliard-de-dollars-dans-un-projet-francais-d-ia-dans-l-espace_6768866_3234.html",
+      "publishedAt": "2026-09-09T09:00:08.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI : Une IA s'attaque aux équations de Navier-Stokes, mais des accusations de plagiat ternissent l'exploit",
+      "originalTitle": "OpenAI affirme avoir résolu une partie d’un problème de maths du millénaire, malgré des accusations de plagiat",
+      "summary": "OpenAI a annoncé qu'un de ses modèles internes d'intelligence artificielle aurait résolu une partie des équations de Navier-Stokes, un des sept problèmes mathématiques du millénaire. Bien que cette avancée soit significative, l'entreprise ne revendique pas le prix d'un million de dollars associé à cette découverte. Cette annonce est toutefois assombrie par les accusations d'un mathématicien qui prétend qu'OpenAI aurait utilisé sa méthode sans attribution.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2328503-openai-affirme-avoir-resolu-une-partie-dun-probleme-de-maths-du-millenaire-malgre-des-accusations-de-plagiat.html",
+      "publishedAt": "2026-09-08T19:45:23.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Mistral lève 3 milliards d'euros auprès de Samsung, Nvidia et ASML, ses fournisseurs et partenaires stratégiques.",
+      "originalTitle": "Pourquoi Mistral lève 3 milliards d'euros auprès de Samsung, Nvidia et ASML",
+      "summary": "Mistral AI a levé 3 milliards d'euros, atteignant une valorisation post-money de plus de 21 milliards, grâce à des investissements majeurs de Samsung, Nvidia et ASML. Ces entreprises, également fournisseurs de composants clés, renforcent ainsi leur partenariat stratégique avec Mistral dans un marché sous tension. L'offre de Mistral se distingue par des garanties de localisation, d'auditabilité et de réversibilité, répondant aux exigences réglementaires strictes des acheteurs, notamment pour la conformité au règlement DORA.",
+      "source": "ActuIA",
+      "category": "Produit / API",
+      "url": "https://www.actuia.com/actualite/pourquoi-mistral-leve-3-milliards-deuros-aupres-de-samsung-nvidia-et-asml/",
+      "publishedAt": "2026-09-08T09:45:07.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/11aO--j0HJ233D3mYiPK71indWUeH616V/view",
+  "generatedAt": "2026-09-10T06:01:43.161Z"
+}
