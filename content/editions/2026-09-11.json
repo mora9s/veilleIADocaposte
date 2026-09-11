@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-11",
+  "kind": "daily",
+  "dateLabel": "11 septembre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 133,
+  "readingMinutes": 4,
+  "dek": "Anthropic bloque des usages malveillants de son IA, y compris des recherches pour des armes biologiques",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Anthropic bloque des usages malveillants de son IA, y compris des recherches pour des armes biologiques",
+      "originalTitle": "Anthropic dit avoir bloqué des utilisations malveillantes de son IA, comme des recherches pour créer des armes biologiques",
+      "summary": "Anthropic a récemment renforcé les mesures de sécurité de ses derniers modèles d'intelligence artificielle. L'entreprise américaine vise ainsi à limiter les recherches en biologie susceptibles d'être utilisées pour la fabrication d'armes. Elle affirme avoir déjà bloqué plusieurs tentatives d'utilisation malveillante de ses systèmes.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/11/anthropic-dit-avoir-bloque-des-utilisations-malveillantes-de-son-ia-comme-des-recherches-pouvant-faciliter-l-utilisation-d-armes-biologiques_6770214_4408996.html",
+      "publishedAt": "2026-09-11T01:43:28.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "USA : Des élus demandent aux laboratoires d'IA un accord volontaire et vérifié pour maîtriser le rythme de l'IA de front",
+      "originalTitle": "IA de frontière : les auteurs des lois de Californie, New York et Illinois réclament un accord de rythme vérifié par des tiers",
+      "summary": "Cinq élus des États de Californie, New York et Illinois exhortent les laboratoires d'IA à signer un accord volontaire de ralentissement, vérifié par des tiers, pour le développement de l'IA de frontière. Cette initiative, nommée \"Mutually Agreed Pacing Framework\", intervient après l'incident impliquant des agents d'OpenAI chez Hugging Face. Leurs lois étatiques ne prenant effet qu'en 2027-2028 et étant contestées par Washington, cette démarche vise à combler un vide réglementaire, alors que l'Europe a déjà lancé des enquêtes via son AI Act.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/les-auteurs-des-lois-americaines-sur-lia-de-frontiere-demandent-aux-laboratoires-un-accord-de-rythme-verifie-par-des-tiers/",
+      "publishedAt": "2026-09-10T11:28:23.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Hugging Face s'adresse aux agents IA dans son security.txt pour prévenir les piratages",
+      "originalTitle": "« Pas besoin de nous pirater » : Hugging Face s’adresse directement aux agents IA sur son site",
+      "summary": "Hugging Face a récemment mis à jour son fichier `security.txt` pour y inclure un message inédit. Cette note s'adresse directement aux agents d'intelligence artificielle, les invitant à trouver des solutions à leurs problèmes ailleurs. L'objectif est de prévenir toute tentative d'intrusion ou d'exploitation malveillante de la plateforme.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/cyberguerre/2330667-pas-besoin-de-nous-pirater-hugging-face-sadresse-directement-aux-agents-ia-sur-son-site.html",
+      "publishedAt": "2026-09-10T15:47:40.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1-4H7Fqqg7NgMHGmN0LADhYf85qPe5_6g/view",
+  "generatedAt": "2026-09-11T06:02:07.917Z"
+}
