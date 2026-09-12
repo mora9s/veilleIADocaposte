@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-12",
+  "kind": "daily",
+  "dateLabel": "12 septembre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 134,
+  "readingMinutes": 4,
+  "dek": "Démission d'un chercheur d'Anthropic et incidents de sécurité : le débat sur l'IApocalypse s'intensifie",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Démission d'un chercheur d'Anthropic et incidents de sécurité : le débat sur l'IApocalypse s'intensifie",
+      "originalTitle": "IA : le débat sur l’« IApocalypse » prend de l’ampleur après la démission d’un chercheur d’Anthropic et des incidents de sécurité",
+      "summary": "Une série de piratages informatiques a récemment ravivé les inquiétudes autour de la sécurité des systèmes d'intelligence artificielle. La démission de Jacob Coxon, un chercheur d'Anthropic, vient amplifier ces craintes, ce dernier évoquant une technologie capable de menacer l'existence humaine d'ici la fin de la décennie. Ces développements relancent avec force le débat sur les risques existentiels de l'IA, souvent qualifiés d'« IApocalypse ».",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/11/ia-apres-la-demission-de-jacob-coxon-et-plusieurs-incidents-de-securite-le-debat-sur-l-iapocalypse-prend-une-ampleur-inedite_6770505_4408996.html",
+      "publishedAt": "2026-09-11T08:00:02.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Sécurité d'entreprise : OpenAI met à jour GPT-6 Astra avec des garanties renforcées post-incidents",
+      "originalTitle": "GPT-6 Astra : ce qui a changé chez OpenAI en quinze jours",
+      "summary": "OpenAI a récemment renforcé les fonctionnalités de sécurité et d'administration de son modèle GPT-6 Astra, spécifiquement pour les entreprises. Cette mise à jour intervient après un lancement initial où ces garanties essentielles étaient absentes. Des incidents rapportés et la compromission d'un wiki interne ont précipité cette révision des engagements de sûreté.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/gpt-6-astra-ce-qui-a-change-chez-openai-en-quinze-jours/",
+      "publishedAt": "2026-09-10T10:19:04.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Level-5, créateur de Professeur Layton, soupçonné d'utiliser l'IA pour ses nouveaux jeux",
+      "originalTitle": "Est-ce que le studio derrière Professeur Layton et Yo-kai Watch a recours à l’IA pour créer ses jeux ?",
+      "summary": "Le studio japonais Level-5, connu pour les franchises Professeur Layton et Yo-kai Watch, est actuellement au centre de débats concernant son éventuelle utilisation de l'intelligence artificielle. Ces discussions surviennent alors que l'entreprise a récemment annoncé un remake de Professeur Layton et l'Étrange Village, ainsi qu'un tout nouvel épisode. Des observateurs soupçonnent déjà l'intégration de l'IA dans le processus de création de ces futurs titres.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/pop-culture/2330907-est-ce-que-le-studio-derriere-professeur-layton-et-yo-kai-watch-a-recours-a-lia-pour-creer-ses-jeux.html",
+      "publishedAt": "2026-09-11T08:10:45.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1oa34nMq6p8jdPng0xvJvAA3Kgm54LX9j/view",
+  "generatedAt": "2026-09-12T06:01:59.592Z"
+}
