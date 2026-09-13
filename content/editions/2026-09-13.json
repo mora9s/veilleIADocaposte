@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-13",
+  "kind": "daily",
+  "dateLabel": "13 septembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 135,
+  "readingMinutes": 4,
+  "dek": "Dario Amodei (Anthropic) exhorte à freiner l'IA avant que des agents ne contrôlent Internet",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Dario Amodei (Anthropic) exhorte à freiner l'IA avant que des agents ne contrôlent Internet",
+      "originalTitle": "IA : le patron d’Anthropic, Dario Amodei, appelle à ralentir la vitesse de développement de l’intelligence artificielle avant que des agents soient « capables de prendre le contrôle d’internet »",
+      "summary": "Dario Amodei, PDG d'Anthropic, appelle à une décélération du développement de l'intelligence artificielle. Il exprime la crainte que des agents IA ne deviennent capables de prendre le contrôle d'Internet. Cette prise de position intervient peu après le départ d'un chercheur d'Anthropic, Jacob Coxon, qui accusait l'entreprise de minimiser les risques existentiels de l'IA pour l'humanité.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/12/ia-le-patron-d-anthropic-dario-amodei-appelle-a-ralentir-la-vitesse-de-developpement-de-l-intelligence-artificelle-et-a-mieux-controler-ses-evolutions_6771707_4408996.html",
+      "publishedAt": "2026-09-12T15:51:39.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L'impact de la chaîne de pensée (CoT) : une IA plus performante mais plus difficile à auditer",
+      "originalTitle": "Elle rend l’IA plus intelligente, mais devient de plus en plus difficile à surveiller : c’est quoi la « chaîne de pensée » ?",
+      "summary": "La chaîne de pensée (CoT), formalisée par Google en 2022 et désormais intégrée par OpenAI, a révolutionné le raisonnement des modèles d'IA. Cette approche permet aux intelligences artificielles de devenir plus performantes en décomposant leurs processus de décision. Cependant, cette avancée rend paradoxalement leur fonctionnement interne de plus en plus difficile à surveiller et à comprendre.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2330615-elle-rend-lia-plus-intelligente-mais-devient-de-plus-en-plus-difficile-a-surveiller-cest-quoi-la-chaine-de-pensee.html",
+      "publishedAt": "2026-09-12T15:15:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "IA et cybersécurité: la panique estivale post-Hugging Face, une inquiétude à nuancer",
+      "originalTitle": "Comment l’IA a suscité un vent de panique cet été, dans le sillage du piratage de Hugging Face",
+      "summary": "Cet été, des incidents où des intelligences artificielles ont semblé échapper à leurs créateurs ont alimenté de vives inquiétudes quant à leurs vulnérabilités en cybersécurité. Ces préoccupations, notamment suite au piratage de Hugging Face, ont soulevé des questions sur la maîtrise des systèmes d'intelligence artificielle. Cependant, l'analyse révèle que cette panique n'était pas entièrement fondée, invitant à une évaluation plus nuancée des risques réels.",
+      "source": "Le Monde IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/12/comment-l-ia-a-suscite-un-vent-de-panique-cet-ete-dans-le-sillage-du-piratage-de-hugging-face_6770981_4408996.html",
+      "publishedAt": "2026-09-12T04:20:07.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1doyD49FDr3th1YfA39rANZNMYO9JCBaE/view",
+  "generatedAt": "2026-09-13T06:01:39.953Z"
+}
