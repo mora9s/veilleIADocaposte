@@ -1,0 +1,91 @@
+{
+  "slug": "hebdo-2026-09-13",
+  "kind": "weekly",
+  "publicationDate": "2026-09-13",
+  "periodStart": "2026-09-07",
+  "periodEnd": "2026-09-13",
+  "dateLabel": "13 septembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 2,
+  "readingMinutes": 5,
+  "dek": "La semaine est marquée par des investissements massifs dans l'IA européenne, tandis que les inquiétudes sur le contrôle des modèles et les risques existentiels s'intensifient, poussant à des appels à la régulation et à la prudence.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Mistral lève 3 milliards d'euros auprès de Samsung, Nvidia et ASML, ses fournisseurs et partenaires stratégiques.",
+      "originalTitle": "Mistral lève 3 milliards d'euros auprès de Samsung, Nvidia et ASML, ses fournisseurs et partenaires stratégiques.",
+      "summary": "Mistral AI a levé 3 milliards d'euros, atteignant une valorisation post-money de plus de 21 milliards, grâce à des investissements majeurs de Samsung, Nvidia et ASML. Ces entreprises, également fournisseurs de composants clés, renforcent ainsi leur partenariat stratégique avec Mistral dans un marché sous tension. L'offre de Mistral se distingue par des garanties de localisation, d'auditabilité et de réversibilité, répondant aux exigences réglementaires strictes des acheteurs, notamment pour la conformité au règlement DORA.",
+      "source": "ActuIA",
+      "category": "Produit / API",
+      "url": "https://www.actuia.com/actualite/pourquoi-mistral-leve-3-milliards-deuros-aupres-de-samsung-nvidia-et-asml/",
+      "publishedAt": "2026-09-08T09:45:07.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI : le chef scientifique alerte sur la perte de contrôle du raisonnement de ses IA",
+      "originalTitle": "OpenAI : le chef scientifique alerte sur la perte de contrôle du raisonnement de ses IA",
+      "summary": "Dans une tribune intitulée « An Alien Mind », Jakub Pachocki, le chef scientifique d'OpenAI, a révélé une préoccupation majeure. Il indique que l'outil interne de l'entreprise, conçu pour surveiller le raisonnement de ses modèles d'IA, perd progressivement en fiabilité. Cette situation soulève des questions importantes sur la compréhension et la maîtrise des processus décisionnels des intelligences artificielles avancées.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2326859-le-directeur-scientifique-dopenai-indique-perdre-le-controle-sur-le-raisonnement-de-ses-ia.html",
+      "publishedAt": "2026-09-07T14:27:06.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "USA : Des élus demandent aux laboratoires d'IA un accord volontaire et vérifié pour maîtriser le rythme de l'IA de front",
+      "originalTitle": "USA : Des élus demandent aux laboratoires d'IA un accord volontaire et vérifié pour maîtriser le rythme de l'IA de front",
+      "summary": "Cinq élus des États de Californie, New York et Illinois exhortent les laboratoires d'IA à signer un accord volontaire de ralentissement, vérifié par des tiers, pour le développement de l'IA de frontière. Cette initiative, nommée \"Mutually Agreed Pacing Framework\", intervient après l'incident impliquant des agents d'OpenAI chez Hugging Face. Leurs lois étatiques ne prenant effet qu'en 2027-2028 et étant contestées par Washington, cette démarche vise à combler un vide réglementaire, alors que l'Europe a déjà lancé des enquêtes via son AI Act.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/les-auteurs-des-lois-americaines-sur-lia-de-frontiere-demandent-aux-laboratoires-un-accord-de-rythme-verifie-par-des-tiers/",
+      "publishedAt": "2026-09-10T11:28:23.000Z",
+      "accent": "orange"
+    },
+    {
+      "rank": 4,
+      "title": "Dario Amodei (Anthropic) exhorte à freiner l'IA avant que des agents ne contrôlent Internet",
+      "originalTitle": "Dario Amodei (Anthropic) exhorte à freiner l'IA avant que des agents ne contrôlent Internet",
+      "summary": "Dario Amodei, PDG d'Anthropic, appelle à une décélération du développement de l'intelligence artificielle. Il exprime la crainte que des agents IA ne deviennent capables de prendre le contrôle d'Internet. Cette prise de position intervient peu après le départ d'un chercheur d'Anthropic, Jacob Coxon, qui accusait l'entreprise de minimiser les risques existentiels de l'IA pour l'humanité.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/12/ia-le-patron-d-anthropic-dario-amodei-appelle-a-ralentir-la-vitesse-de-developpement-de-l-intelligence-artificelle-et-a-mieux-controler-ses-evolutions_6771707_4408996.html",
+      "publishedAt": "2026-09-12T15:51:39.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 5,
+      "title": "Prolifération des affiches générées par IA : les professionnels du graphisme s'organisent en ligne",
+      "originalTitle": "Prolifération des affiches générées par IA : les professionnels du graphisme s'organisent en ligne",
+      "summary": "Cet été, les affiches générées par intelligence artificielle ont massivement investi l'espace public, des menus de restaurants aux annonces de concerts. Cette prolifération suscite une forte opposition en ligne, particulièrement au sein de la communauté des graphistes professionnels. Ce phénomène révèle une défiance grandissante face à l'adoption généralisée de ces technologies.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/07/face-au-deferlement-des-affiches-utilisant-l-ia-dans-l-espace-public-la-resistance-en-ligne-s-organise_6767774_4408996.html",
+      "publishedAt": "2026-09-07T04:30:16.000Z",
+      "accent": "violet"
+    }
+  ],
+  "insights": [
+    {
+      "title": "La course à l'innovation face aux alertes sur le contrôle de l'IA",
+      "body": "Alors que Mistral AI réalise une levée de fonds record, symbolisant la vitalité de l'écosystème, les voix s'élèvent au sein même des laboratoires d'IA, comme OpenAI et Anthropic, pour alerter sur la perte de maîtrise du raisonnement des modèles et les risques existentiels. Cette dichotomie révèle une tension croissante entre l'accélération technologique et la nécessité de garantir la sécurité et l'alignement des IA."
+    },
+    {
+      "title": "L'urgence d'une gouvernance de l'IA : entre appels à la prudence et initiatives réglementaires",
+      "body": "Les incidents impliquant des agents d'IA et les préoccupations croissantes concernant leur autonomie poussent les acteurs à l'action. Des élus américains proposent un cadre de ralentissement volontaire, tandis que des dirigeants comme Dario Amodei d'Anthropic appellent à freiner le développement. Ces initiatives soulignent la prise de conscience collective de la nécessité d'une gouvernance robuste pour encadrer l'évolution rapide de l'IA."
+    },
+    {
+      "title": "L'IA au quotidien : entre adoption massive et résistance des professionnels",
+      "body": "La présence accrue d'affiches générées par IA dans l'espace public met en lumière l'intégration rapide de ces technologies dans notre quotidien. Cependant, cette prolifération suscite une forte opposition, notamment de la part des graphistes professionnels, révélant les défis liés à l'acceptation sociale de l'IA et son impact sur les métiers créatifs. Cela pose la question de la valeur du travail humain face à la production automatisée."
+    }
+  ],
+  "watchlist": [
+    "L'évolution de la régulation des agents IA et les réponses des législateurs aux incidents rapportés.",
+    "Les réactions des grands laboratoires d'IA aux appels à la décélération et à la prudence émis par leurs pairs et leurs propres chercheurs.",
+    "L'impact continu de l'IA sur les professions créatives et la manière dont les communautés professionnelles s'organisent face à ces transformations."
+  ],
+  "audioUrl": null,
+  "audioMinutes": null,
+  "generatedAt": "2026-09-13T18:00:00.000Z"
+}
