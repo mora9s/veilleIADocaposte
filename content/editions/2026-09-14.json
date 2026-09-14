@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-14",
+  "kind": "daily",
+  "dateLabel": "14 septembre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 136,
+  "readingMinutes": 4,
+  "dek": "IA : Qui a le pouvoir de dire stop ? Le Monde alerte sur le sacrifice de la sécurité par les entreprises pour le profit.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "IA : Qui a le pouvoir de dire stop ? Le Monde alerte sur le sacrifice de la sécurité par les entreprises pour le profit.",
+      "originalTitle": "IA : « La question centrale n’est pas de savoir si les développeurs se soucient de l’humanité, mais qui possède le pouvoir de dire stop »",
+      "summary": "Selon Alejandro Agafonow, professeur de management, les entreprises tendent à sacrifier la sécurité collective au profit lorsqu'elles sont sous pression. Il souligne dans une tribune au Monde l'absence de freins institutionnels solides pour contrer cette dynamique. La question centrale n'est donc pas l'intention des développeurs, mais bien qui détient le pouvoir de réguler et d'arrêter les dérives.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/13/ia-la-question-centrale-n-est-pas-de-savoir-si-les-developpeurs-se-soucient-de-l-humanite-mais-qui-possede-le-pouvoir-de-dire-stop_6772843_3232.html",
+      "publishedAt": "2026-09-13T16:00:12.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Donald Trump refuse un moratoire sur l'IA, soulignant l'impératif de devancer la Chine",
+      "originalTitle": "Donald Trump invoque la concurrence de la Chine pour refuser une pause dans la course à l’IA",
+      "summary": "Donald Trump a récemment rejeté l'idée d'une pause dans le développement de l'intelligence artificielle, arguant de la nécessité pour les États-Unis de maintenir leur avance technologique sur la Chine. Cette position intervient en réponse aux préoccupations exprimées par des leaders de l'IA concernant les risques liés aux capacités croissantes des modèles. Ce débat stratégique se déroule à l'approche des élections de mi-mandat et dans un contexte où les géants du secteur de l'IA rencontrent des défis de financement.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/14/donald-trump-invoque-la-concurrence-de-la-chine-pour-refuser-une-pause-dans-la-course-a-l-intelligence-artificielle_6773354_3234.html",
+      "publishedAt": "2026-09-14T04:00:08.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Sécurité de l'IA : Sam Altman reporte l'IPO d'OpenAI au-delà de 2026",
+      "originalTitle": "Sam Altman annonce qu’OpenAI n’entrera pas en Bourse en 2026, en raison des inquiétudes liés à la sécurité de l’intelligence artificielle",
+      "summary": "Sam Altman, PDG d'OpenAI, a annoncé que l'entreprise ne s'introduirait pas en Bourse en 2026. Il justifie cette décision par les préoccupations croissantes concernant la sécurité de l'intelligence artificielle, estimant que le contexte actuel n'est pas propice à une telle opération. Cette annonce intervient alors que Donald Trump a récemment critiqué ceux qui prônent un ralentissement du développement de l'IA.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/13/sam-altman-annonce-qu-openai-n-entrera-pas-en-bourse-en-2026-en-raison-des-inquietudes-lies-a-la-securite-de-l-intelligence-artificielle_6772466_4408996.html",
+      "publishedAt": "2026-09-13T09:28:45.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/157VfYkQIE3TOvccmyc6cAhO4surfOK9z/view",
+  "generatedAt": "2026-09-14T06:01:53.072Z"
+}
