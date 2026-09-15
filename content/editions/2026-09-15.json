@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-15",
+  "kind": "daily",
+  "dateLabel": "15 septembre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 137,
+  "readingMinutes": 4,
+  "dek": "L'ONU demande un encadrement urgent de l'IA pour la protection des droits humains face à des menaces sans précédent",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "L'ONU demande un encadrement urgent de l'IA pour la protection des droits humains face à des menaces sans précédent",
+      "originalTitle": "L’ONU presse les Etats d’encadrer l’IA pour protéger les droits humains, face à des « risques sans précédent »",
+      "summary": "L'Organisation des Nations Unies (ONU) appelle les États à réguler l'intelligence artificielle afin de préserver les droits humains, soulignant des risques inédits liés à son développement rapide. Cette injonction intervient alors que des dirigeants de la tech américaine plaident eux-mêmes pour un ralentissement des avancées, tandis que d'autres voix, comme celle de Donald Trump, dénoncent une opposition jugée malveillante à l'IA.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/14/l-onu-presse-les-etats-d-encadrer-l-ia-pour-proteger-les-droits-humains-face-a-des-risques-sans-precedent_6773799_4408997.html",
+      "publishedAt": "2026-09-14T17:33:13.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Le studio de professeur Layton admet avoir utilisé l’IA pour rendre ses jeux plus spectaculaires",
+      "originalTitle": "Le studio de professeur Layton admet avoir utilisé l’IA pour rendre ses jeux plus spectaculaires",
+      "summary": "Akihiro Hino, le CEO de Level-5, le studio derrière les jeux Professeur Layton et Yo-kai Watch, a confirmé que de l'IA générative avait été utilisée lors de la récente présentation du studio.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/pop-culture/2332469-le-studio-de-professeur-layton-admet-avoir-utilise-lia-pour-rendre-ses-jeux-plus-spectaculaires.html",
+      "publishedAt": "2026-09-14T08:43:25.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "IApocalypse : derrière les alertes existentielles, des enjeux financiers colossaux pour l'IA",
+      "originalTitle": "« Le débat croissant sur l’“IApocalypse” est aussi et surtout une histoire de gros sous »",
+      "summary": "Les dirigeants du secteur de l'intelligence artificielle multiplient les avertissements sur les risques existentiels de leur technologie. Pourtant, cette rhétorique coexiste avec une effervescence financière sans précédent, comme en témoigne l'imminente entrée en Bourse record d'Anthropic. Cette contradiction majeure entre discours alarmiste et opportunités économiques est décryptée par Nicolas Chapuis du Monde.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/14/iapocalypse-ce-debat-est-aussi-et-surtout-une-histoire-de-gros-sous_6773784_3232.html",
+      "publishedAt": "2026-09-14T11:00:05.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1gg1zWc-iaYRLcRYXK1tDTBHmWvyvaWfp/view",
+  "generatedAt": "2026-09-15T06:02:19.111Z"
+}
