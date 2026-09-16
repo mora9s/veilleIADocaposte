@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-16",
+  "kind": "daily",
+  "dateLabel": "16 septembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 138,
+  "readingMinutes": 4,
+  "dek": "Meta : Mark Zuckerberg rejette les appels à freiner l'IA, confirmant des investissements massifs de 145 Md$",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Meta : Mark Zuckerberg rejette les appels à freiner l'IA, confirmant des investissements massifs de 145 Md$",
+      "originalTitle": "IA : le patron de Meta, Mark Zuckerberg, rejette les appels à ralentir son développement",
+      "summary": "Meta, avec un investissement de 145 milliards de dollars cette année dans ses infrastructures d'IA, s'oppose fermement à toute régulation susceptible de ralentir son développement. Mark Zuckerberg, son dirigeant, défend cette approche en soulignant que les utilisateurs exigeront des agents alignés sur leurs intérêts et leurs demandes.",
+      "source": "Le Monde IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/16/ia-le-patron-de-meta-mark-zuckerberg-rejette-les-appels-a-ralentir-son-developpement_6774782_4408996.html",
+      "publishedAt": "2026-09-16T03:25:48.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Un ancien de Google DeepMind alerte sur les risques existentiels de l'IA, alors que l'encadrement fait débat",
+      "originalTitle": "IA : un ancien chercheur de Google DeepMind alerte à son tour sur un risque existentiel",
+      "summary": "Face aux incidents impliquant des agents d'IA, les alertes sur les risques et les initiatives pour mieux encadrer la technologie se multiplient. Les géants comme OpenAI, Anthropic et Google DeepMind envisagent un organe commun de supervision des dangers. Néanmoins, Mistral reconnaît ces menaces mais s'oppose à tout ralentissement du développement de l'IA.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/15/ia-un-ancien-chercheur-de-google-deepmind-alerte-a-son-tour-sur-un-risque-existentiel_6774468_4408996.html",
+      "publishedAt": "2026-09-15T17:08:57.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "TotalEnergies et Mistral AI s'unissent pour 100M€ : l'IA au service de l'optimisation pétrolière et gazière",
+      "originalTitle": "TotalEnergies s’allie à Mistral pour révolutionner l’exploration pétrolière grâce à l’intelligence artificielle",
+      "summary": "TotalEnergies et Mistral AI ont officialisé un partenariat de 100 millions d'euros sur trois ans. Cette alliance stratégique vise à optimiser significativement la gestion des réservoirs de pétrole et de gaz. L'intégration de l'intelligence artificielle permettra ainsi de révolutionner les méthodes d'exploration et de production énergétiques.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/15/totalenergies-s-allie-a-mistral-pour-revolutionner-l-exploration-petroliere-grace-a-l-intelligence-artificielle_6774354_3234.html",
+      "publishedAt": "2026-09-15T08:02:51.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1SbgylFmTMza6G2iB7TsJjugO9iXEEby5/view",
+  "generatedAt": "2026-09-16T06:01:38.848Z"
+}
