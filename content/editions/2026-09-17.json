@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-17",
+  "kind": "daily",
+  "dateLabel": "17 septembre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 139,
+  "readingMinutes": 4,
+  "dek": "Cyberattaques massives en France : l'État russe suspecté d'orchestrer les vols de données sensibles",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Cyberattaques massives en France : l'État russe suspecté d'orchestrer les vols de données sensibles",
+      "originalTitle": "Cyberattaques contre des sites sensibles français : « L’Etat russe apparaît comme le commanditaire ou le bénéficiaire de toutes ces données »",
+      "summary": "Des cyberattaques d'une ampleur inédite ciblent des sites sensibles français, entraînant des vols massifs d'informations et l'infiltration d'infrastructures critiques. La chercheuse Marie-Gabrielle Bertran souligne que ces menaces brouillent désormais les frontières entre criminalité, espionnage et stratégie militaire. L'État russe est clairement désigné comme le commanditaire ou le bénéficiaire de ces opérations.",
+      "source": "Le Monde IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/16/cyberattaques-contre-des-sites-sensibles-francais-l-etat-russe-apparait-comme-le-commanditaire-ou-le-beneficiaire-de-toutes-ces-donnees_6775453_6065879.html",
+      "publishedAt": "2026-09-16T18:00:16.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Stowaway : Admirez le paysage depuis le hublot d'un avion survolant votre maison, en temps réel",
+      "originalTitle": "Stowaway : le site qui vous montre le paysage depuis les avions qui survolent votre maison",
+      "summary": "Le site Stowaway propose une expérience innovante permettant de suivre en temps réel un avion survolant votre logement. Il offre ensuite la possibilité d'admirer le paysage depuis le « hublot » de cet appareil virtuel. Bien que l'immersion soit réussie, il est important de noter que cette visualisation repose sur une simulation et non sur des caméras embarquées réelles.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2323729-stowaway-le-site-qui-vous-montre-le-paysage-depuis-les-avions-qui-survolent-votre-maison.html",
+      "publishedAt": "2026-09-17T05:16:34.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Malgré les prouesses de l'IA, les maths restent clés pour comprendre l'apprentissage profond",
+      "originalTitle": "Une révolution de la relation entre mathématiques et IA ?",
+      "summary": "Les récentes avancées spectaculaires d'Anthropic et d'OpenAI en intelligence artificielle ont relancé le débat sur la compréhension de leurs mécanismes. Cependant, Isabelle Ryl et Jean Ponce soulignent, dans une tribune au Monde, que les mathématiques demeurent un instrument indispensable pour appréhender les fondements de l'apprentissage profond. Elles offrent les outils conceptuels nécessaires pour décrypter et optimiser ces systèmes complexes.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/16/une-revolution-de-la-relation-entre-mathematiques-et-ia_6775197_1650684.html",
+      "publishedAt": "2026-09-16T10:00:10.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1rZeBLoEqAXGxaOU5rxL93xajazj3WfLL/view",
+  "generatedAt": "2026-09-17T06:01:51.757Z"
+}
