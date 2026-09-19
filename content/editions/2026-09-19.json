@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-19",
+  "kind": "daily",
+  "dateLabel": "19 septembre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 141,
+  "readingMinutes": 4,
+  "dek": "Sam Altman (OpenAI) au Conseil de sécurité de l'ONU pour aborder les défis de l'IA",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Sam Altman (OpenAI) au Conseil de sécurité de l'ONU pour aborder les défis de l'IA",
+      "originalTitle": "Sam Altman, le patron d’OpenAI, interviendra au Conseil de sécurité des Nations unies",
+      "summary": "Sam Altman, le PDG d'OpenAI, est programmé pour une présentation le 23 septembre à New York, devant le Conseil de sécurité des Nations unies. Cette réunion, initiée par la France, abordera les vives préoccupations mondiales concernant les risques liés à l'intelligence artificielle. L'intervention d'Altman s'inscrit dans un contexte de réflexion accrue sur la gouvernance et l'impact de l'IA.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
+      "publishedAt": "2026-09-19T00:39:53.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "DeepSeek V4.1-Flash : 890 octets par jeton pour un cache d'attention qui révolutionne le coût des agents IA",
+      "originalTitle": "DeepSeek ramène son cache d'attention à 890 octets par jeton, le poste de coût devenu critique pour les agents",
+      "summary": "DeepSeek a dévoilé son modèle multimodal V4.1-Flash, intégrant une fenêtre contextuelle d'un million de jetons. L'innovation majeure réside dans la réduction drastique de son cache d'attention à seulement 890 octets par jeton, soit le quart de la version précédente, grâce à des techniques comme la réutilisation du cache et le stockage en FP4. Cette avancée est essentielle pour optimiser la densité de service et réduire significativement le coût par requête, devenant un facteur clé pour le déploiement économique des agents IA en entreprise.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/deepseek-ramene-son-cache-dattention-a-890-octets-par-jeton-le-poste-de-cout-devenu-critique-pour-les-agents/",
+      "publishedAt": "2026-09-18T12:47:43.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI s'attaque à un nouveau problème mathématique majeur après la controverse Navier-Stokes, promettant prudence",
+      "originalTitle": "Après avoir fâché les mathématiciens, OpenAI s’attaque à un autre problème mythique, mais jure d’y aller avec des gants",
+      "summary": "OpenAI persiste dans l'exploration de problèmes mathématiques complexes, malgré une récente controverse. Après une avancée très contestée sur les équations de Navier-Stokes, l'entreprise annonce s'attaquer à un nouveau défi majeur, souvent qualifié de \"problème à un million de dollars\". OpenAI promet cette fois d'agir avec une prudence exemplaire, tirant les leçons des précédentes polémiques.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2335481-apres-la-polemique-navier-stokes-openai-sattaque-a-un-nouveau-probleme-du-millenaire.html",
+      "publishedAt": "2026-09-18T10:47:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1MsqP02vs0Zbv0966RAfXm8ECzT1qjnbM/view",
+  "generatedAt": "2026-09-19T06:02:19.199Z"
+}
