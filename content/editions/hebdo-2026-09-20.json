@@ -1,0 +1,91 @@
+{
+  "slug": "hebdo-2026-09-20",
+  "kind": "weekly",
+  "publicationDate": "2026-09-20",
+  "periodStart": "2026-09-14",
+  "periodEnd": "2026-09-20",
+  "dateLabel": "20 septembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 3,
+  "readingMinutes": 5,
+  "dek": "Entre appels à la prudence et course à l'innovation, l'IA navigue cette semaine entre les sommets de la gouvernance mondiale et les défis concrets de son déploiement et de ses risques émergents.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Sam Altman (OpenAI) au Conseil de sécurité de l'ONU pour aborder les défis de l'IA",
+      "originalTitle": "Sam Altman (OpenAI) au Conseil de sécurité de l'ONU pour aborder les défis de l'IA",
+      "summary": "Sam Altman, le PDG d'OpenAI, est programmé pour une présentation le 23 septembre à New York, devant le Conseil de sécurité des Nations unies. Cette réunion, initiée par la France, abordera les vives préoccupations mondiales concernant les risques liés à l'intelligence artificielle. L'intervention d'Altman s'inscrit dans un contexte de réflexion accrue sur la gouvernance et l'impact de l'IA.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/19/sam-altman-le-patron-d-openai-interviendra-au-conseil-de-securite-des-nations-unies_6777012_3234.html",
+      "publishedAt": "2026-09-19T00:39:53.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L'IA au service de la création de pathogènes : la menace se concrétise, Anthropic face à des tentatives de détournement",
+      "originalTitle": "L'IA au service de la création de pathogènes : la menace se concrétise, Anthropic face à des tentatives de détournement",
+      "summary": "Les premiers virus conçus par intelligence artificielle ont été décrits par une équipe américaine, confirmant une menace redoutée. De plus, l'entreprise Anthropic a signalé des tentatives de détournement de ses modèles pour générer de nouveaux agents pathogènes. Cette convergence d'événements souligne l'urgence de réguler l'accès à ces technologies.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/19/la-menace-de-microbes-dangereux-fabriques-avec-l-aide-de-l-intelligence-artificielle-se-concretise_6777637_1650684.html",
+      "publishedAt": "2026-09-19T09:56:25.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "TotalEnergies et Mistral AI s'unissent pour 100M€ : l'IA au service de l'optimisation pétrolière et gazière",
+      "originalTitle": "TotalEnergies et Mistral AI s'unissent pour 100M€ : l'IA au service de l'optimisation pétrolière et gazière",
+      "summary": "TotalEnergies et Mistral AI ont officialisé un partenariat de 100 millions d'euros sur trois ans. Cette alliance stratégique vise à optimiser significativement la gestion des réservoirs de pétrole et de gaz. L'intégration de l'intelligence artificielle permettra ainsi de révolutionner les méthodes d'exploration et de production énergétiques.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/15/totalenergies-s-allie-a-mistral-pour-revolutionner-l-exploration-petroliere-grace-a-l-intelligence-artificielle_6774354_3234.html",
+      "publishedAt": "2026-09-15T08:02:51.000Z",
+      "accent": "orange"
+    },
+    {
+      "rank": 4,
+      "title": "IApocalypse : derrière les alertes existentielles, des enjeux financiers colossaux pour l'IA",
+      "originalTitle": "IApocalypse : derrière les alertes existentielles, des enjeux financiers colossaux pour l'IA",
+      "summary": "Les dirigeants du secteur de l'intelligence artificielle multiplient les avertissements sur les risques existentiels de leur technologie. Pourtant, cette rhétorique coexiste avec une effervescence financière sans précédent, comme en témoigne l'imminente entrée en Bourse record d'Anthropic. Cette contradiction majeure entre discours alarmiste et opportunités économiques est décryptée par Nicolas Chapuis du Monde.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/14/iapocalypse-ce-debat-est-aussi-et-surtout-une-histoire-de-gros-sous_6773784_3232.html",
+      "publishedAt": "2026-09-14T11:00:05.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 5,
+      "title": "DeepSeek V4.1-Flash : 890 octets par jeton pour un cache d'attention qui révolutionne le coût des agents IA",
+      "originalTitle": "DeepSeek V4.1-Flash : 890 octets par jeton pour un cache d'attention qui révolutionne le coût des agents IA",
+      "summary": "DeepSeek a dévoilé son modèle multimodal V4.1-Flash, intégrant une fenêtre contextuelle d'un million de jetons. L'innovation majeure réside dans la réduction drastique de son cache d'attention à seulement 890 octets par jeton, soit le quart de la version précédente, grâce à des techniques comme la réutilisation du cache et le stockage en FP4. Cette avancée est essentielle pour optimiser la densité de service et réduire significativement le coût par requête, devenant un facteur clé pour le déploiement économique des agents IA en entreprise.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/deepseek-ramene-son-cache-dattention-a-890-octets-par-jeton-le-poste-de-cout-devenu-critique-pour-les-agents/",
+      "publishedAt": "2026-09-18T12:47:43.000Z",
+      "accent": "violet"
+    }
+  ],
+  "insights": [
+    {
+      "title": "La gouvernance mondiale de l'IA s'intensifie",
+      "body": "La convocation de Sam Altman, PDG d'OpenAI, devant le Conseil de sécurité de l'ONU (c14) marque une étape cruciale dans la prise en compte des enjeux de l'IA au plus haut niveau international, soulignant l'urgence d'un cadre global face aux défis technologiques."
+    },
+    {
+      "title": "Le paradoxe financier de l'IA",
+      "body": "Alors que les alertes sur les risques existentiels se multiplient, l'industrie de l'IA est portée par des enjeux financiers colossaux (c4), illustrant une tension constante entre la prudence nécessaire et la course effrénée à l'innovation et aux investissements massifs."
+    },
+    {
+      "title": "Des risques concrets aux avancées techniques",
+      "body": "La menace de l'IA dans la création de pathogènes (c19) révèle des dangers tangibles et immédiats, tandis que des innovations comme la réduction des coûts des agents IA par DeepSeek (c15) démontrent la rapidité des progrès techniques qui, s'ils facilitent le déploiement, exigent une vigilance accrue."
+    }
+  ],
+  "watchlist": [
+    "Suivi des discussions à l'ONU : L'intervention de Sam Altman au Conseil de sécurité de l'ONU (23 septembre) sera déterminante pour orienter les futures régulations internationales de l'IA.",
+    "Évolution des capacités d'IA générative : La capacité des IA à générer des contenus complexes, y compris des agents pathogènes, nécessite une surveillance constante des garde-fous et des politiques d'accès.",
+    "Impact des optimisations techniques sur le déploiement : Les avancées en matière de réduction des coûts des modèles (comme DeepSeek V4.1-Flash) pourraient accélérer l'adoption massive de l'IA en entreprise, avec des implications économiques et éthiques à surveiller."
+  ],
+  "audioUrl": null,
+  "audioMinutes": null,
+  "generatedAt": "2026-09-20T18:00:00.000Z"
+}
