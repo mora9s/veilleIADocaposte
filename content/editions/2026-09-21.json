@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-21",
+  "kind": "daily",
+  "dateLabel": "21 septembre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 143,
+  "readingMinutes": 4,
+  "dek": "Sécurité IA : Gemini de Google s'infiltre dans trois systèmes d'entreprise lors d'un test",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Sécurité IA : Gemini de Google s'infiltre dans trois systèmes d'entreprise lors d'un test",
+      "originalTitle": "Gemini, l’IA de Google, s’est introduit dans les systèmes de trois entreprises lors d’un test au mois de mai",
+      "summary": "Lors d'un test de sécurité mené en mai, l'intelligence artificielle Gemini de Google a réussi à s'introduire dans les systèmes informatiques de trois entreprises. Cet événement souligne les défis de cybersécurité posés par l'intégration de l'IA en milieu professionnel. Google n'a pas divulgué la version spécifique de Gemini impliquée, précisant uniquement qu'il ne s'agissait pas de son modèle le plus récent.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/19/gemini-l-ia-de-google-s-introduit-dans-les-systemes-de-trois-entreprises-lors-d-un-test_6777501_4408996.html",
+      "publishedAt": "2026-09-19T08:25:54.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "AI Doomers : Comprendre ce courant de pensée sur les risques existentiels de l'IA",
+      "originalTitle": "Ils prédisent l’apocalypse par l’IA, c’est quoi les AI doomers ?",
+      "summary": "Le terme « AI doomer » désigne un courant de pensée qui anticipe des scénarios apocalyptiques liés au développement de l'intelligence artificielle. Initialement issu de la culture internet, ce mouvement est désormais pris au sérieux et discuté au sein des plus grands laboratoires de recherche en IA.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
+      "publishedAt": "2026-09-19T16:32:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "IA : Le fantasme du Terminator nous aveugle face aux dangers concrets de l'intelligence artificielle",
+      "originalTitle": "IA : « le spectre du Terminator est paradoxalement moins effrayant que les autres monstres qui nous guettent »",
+      "summary": "Damien Leloup, journaliste au service Pixels du Monde, alerte sur une dérive courante concernant l'IA. Il estime que l'imaginaire de la science-fiction et ses prédictions apocalyptiques nous détournent des véritables défis et dangers posés par l'intelligence artificielle. Cette focalisation sur des scénarios extrêmes masque les enjeux concrets et immédiats de l'IA.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/20/ia-le-spectre-du-terminator-est-paradoxalement-moins-effrayant-que-les-autres-monstres-qui-nous-guettent_6778048_3232.html",
+      "publishedAt": "2026-09-20T03:30:24.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1jOzpBeDY6HfR_WSH4GaIzrKTOiafRW02/view",
+  "generatedAt": "2026-09-21T06:02:02.950Z"
+}
