@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-22",
+  "kind": "daily",
+  "dateLabel": "22 septembre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 144,
+  "readingMinutes": 4,
+  "dek": "IA et commerce : les marques se lancent dans la course aux agents IA pour rester visibles face à ChatGPT",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "IA et commerce : les marques se lancent dans la course aux agents IA pour rester visibles face à ChatGPT",
+      "originalTitle": "Le commerce face au choc de l’IA, comment ChatGPT menace la présence des marques sur le Web",
+      "summary": "L'essor de l'intelligence artificielle, notamment avec des modèles comme ChatGPT, menace directement la visibilité des marques sur le web. Pour contrer ce risque de court-circuit par les géants de la tech, les enseignes accélèrent le développement de leurs propres agents IA. L'objectif est clair : améliorer leur présence et leur référencement sur les nouveaux moteurs de recherche basés sur l'IA.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/21/le-commerce-face-au-choc-de-l-ia-comment-chatgpt-menace-la-presence-des-marques-sur-le-web_6778984_3234.html",
+      "publishedAt": "2026-09-21T10:30:02.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Google lance les Googlebook : des PC portables sous Android et Gemini pour concurrencer Apple",
+      "originalTitle": "Google lance officiellement ses Googlebook pour concurrencer les MacBook d’Apple",
+      "summary": "Google a officiellement dévoilé les Googlebook, une nouvelle ligne d'ordinateurs portables qui fusionne l'écosystème Android avec l'expérience PC. Ces machines intègrent nativement l'intelligence artificielle Gemini, positionnant Google comme un concurrent sérieux face aux MacBook d'Apple. Cette initiative stratégique vise à offrir une alternative puissante et intelligente sur le marché des PC.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2336957-google-lance-officiellement-ses-googlebook-pour-concurrencer-les-macbook-dapple.html",
+      "publishedAt": "2026-09-21T13:15:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Mannequins virtuels et vendeurs audio: l'IA des startups révolutionne la vente en ligne",
+      "originalTitle": "Du mannequin virtuel au vendeur audio, les nouveautés à base d’IA des start-up pour faire dépenser toujours plus les internautes",
+      "summary": "De nombreuses jeunes entreprises développent des outils d'intelligence artificielle pour le secteur du commerce. Ces innovations visent à améliorer significativement les ventes et à renforcer la productivité des distributeurs et des marques. Elles couvrent un large éventail d'applications, allant des mannequins virtuels aux assistants de vente audio.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/21/du-mannequin-virtuel-au-vendeur-audio-les-nouveautes-a-base-d-ia-des-start-up-pour-faire-depenser-toujours-plus-les-internautes_6778946_3234.html",
+      "publishedAt": "2026-09-21T09:30:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1Fj7pDuXlO3DaKqLD6qykbnqRxJgbAE1j/view",
+  "generatedAt": "2026-09-22T06:02:05.072Z"
+}
