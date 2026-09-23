@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-23",
+  "kind": "daily",
+  "dateLabel": "23 septembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 145,
+  "readingMinutes": 4,
+  "dek": "L'IA générative et l'« idiocratie » : une étude alerte sur la perte des capacités cognitives humaines.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "L'IA générative et l'« idiocratie » : une étude alerte sur la perte des capacités cognitives humaines.",
+      "originalTitle": "L’« idiocratie » est-elle notre avenir dans un monde où les usages numériques et l’IA sont omniprésents ?",
+      "summary": "Le terme « idiocratie », initialement issu d'une comédie, désigne aujourd'hui le risque d'un déclin des capacités cognitives humaines. Une récente étude met en garde contre un décrochage intellectuel potentiel, directement lié à une dépendance croissante envers les modèles d'intelligence artificielle générative. Cette alerte souligne l'importance d'une utilisation consciente de ces technologies.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/23/l-idiocratie-est-elle-notre-avenir-dans-un-monde-ou-les-usages-numeriques-et-l-ia-sont-omnipresents_6780585_3232.html",
+      "publishedAt": "2026-09-23T04:01:02.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Course à l'IA : Anthropic (Claude Opus 5.5) et OpenAI (GPT-6 Sol/Luna) dévoilent de nouveaux modèles et réduisent leurs",
+      "originalTitle": "Claude Opus 5.5 et GPT-6 Sol sortent le même jour : Anthropic et OpenAI ont du mal à « ralentir » l’IA",
+      "summary": "Anthropic a lancé Claude Opus 5.5 et OpenAI a complété sa gamme GPT-6 avec GPT-6-Sol et GPT-6-Luna, le tout le même jour. Ces sorties interviennent peu après que les deux entreprises aient plaidé pour un ralentissement de la course à l'IA. La bonne nouvelle pour les développeurs est une baisse significative des tarifs de leurs API respectives.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2338131-claude-opus-5-5-et-gpt-6-sol-sortent-le-meme-jour-anthropic-et-openai-ont-du-mal-a-ralentir-lia.html",
+      "publishedAt": "2026-09-22T20:11:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "« A bord du “Titanic” de l’IA, les passagers paniquent, même si le paquebot n’a pas encore heurté l’iceberg »",
+      "originalTitle": "« A bord du “Titanic” de l’IA, les passagers paniquent, même si le paquebot n’a pas encore heurté l’iceberg »",
+      "summary": "Personne ne semble pouvoir freiner le navire de l’intelligence artificielle, constate Arnaud Leparmentier, dans sa chronique. A la proue, l’industrie de la tech s’égosille ; sur la passerelle de navigation, c’est la cacophonie ; et, en troisième classe, les Européens pérorent, dépassés. Mais y a-t-il seulement un iceberg en vue ?",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/22/a-bord-du-titanic-de-l-ia-les-passagers-paniquent-meme-si-le-paquebot-n-a-pas-encore-heurte-l-iceberg_6780251_3232.html",
+      "publishedAt": "2026-09-22T15:15:02.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1NlTmDS0cKE-Vq-7LeKZ3fhMKDkr9akwb/view",
+  "generatedAt": "2026-09-23T06:02:48.428Z"
+}
