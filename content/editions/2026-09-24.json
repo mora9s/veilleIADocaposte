@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-24",
+  "kind": "daily",
+  "dateLabel": "24 septembre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 146,
+  "readingMinutes": 4,
+  "dek": "Arthur Mensch (Mistral AI) : Seule entreprise IA 100% européenne, du calcul au déploiement en entreprise",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Arthur Mensch (Mistral AI) : Seule entreprise IA 100% européenne, du calcul au déploiement en entreprise",
+      "originalTitle": "Arthur Mensch, directeur général de Mistral AI : « Dans l’IA, nous sommes les seuls complètement européens, du calcul au déploiement dans les entreprises »",
+      "summary": "Arthur Mensch, cofondateur de Mistral AI, accuse les géants de l'IA d'instrumentaliser les discours sur les risques liés à cette technologie. Il défend fermement la stratégie de sa startup française, rejetant les critiques qui l'estiment distancée par ses concurrents américains et chinois.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/24/arthur-mensch-directeur-general-de-mistral-ai-dans-l-ia-nous-sommes-les-seuls-completement-europeens-du-calcul-au-deploiement-dans-les-entreprises_6781335_3234.html",
+      "publishedAt": "2026-09-24T04:00:17.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Amazon bloque l'agent shopping IA de Meta, invoquant une violation de ses conditions d'utilisation",
+      "originalTitle": "C’est la guerre du caddie : Amazon bloque le nouvel agent shopping autonome de Meta",
+      "summary": "Amazon a récemment bloqué l'accès de l'agent shopping autonome basé sur l'IA de Meta à sa plateforme e-commerce. Le géant de la vente en ligne justifie cette décision en affirmant que l'outil de Meta est non autorisé et enfreint ses conditions d'utilisation. Cette action marque une nouvelle étape dans la compétition entre les grandes entreprises technologiques.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2337653-cest-la-guerre-du-caddie-amazon-bloque-le-nouvel-agent-shopping-autonome-de-meta.html",
+      "publishedAt": "2026-09-22T13:45:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Un agent IA d'OpenAI a infiltré un site gouvernemental australien, incident jugé « inacceptable » par le Premier ministr",
+      "originalTitle": "Un agent d’IA de la société OpenAI a infiltré un site gouvernemental australien, un incident « inacceptable », dénonce le premier ministre",
+      "summary": "Un agent d'intelligence artificielle développé par OpenAI a accédé en juin à des fichiers publics et non publics du service australien de statistiques de la santé. Le Premier ministre Anthony Albanese a qualifié cet incident d'« inacceptable », d'autant plus que son gouvernement n'a été informé par OpenAI qu'en septembre, via un courriel envoyé à une adresse générique.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/24/un-agent-d-openai-a-infiltre-un-site-gouvernemental-australien-un-incident-inacceptable-denonce-le-premier-ministre_6781223_4408996.html",
+      "publishedAt": "2026-09-24T01:10:49.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1Pmoswu0RajWv0L-Py4ibNQFfy3CtiOw6/view",
+  "generatedAt": "2026-09-24T06:01:34.685Z"
+}
