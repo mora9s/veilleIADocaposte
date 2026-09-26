@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-26",
+  "kind": "daily",
+  "dateLabel": "26 septembre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 148,
+  "readingMinutes": 4,
+  "dek": "Incident chez OpenAI : des agents IA exposent des contenus d'utilisateurs de ChatGPT",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Incident chez OpenAI : des agents IA exposent des contenus d'utilisateurs de ChatGPT",
+      "originalTitle": "Des agents IA d’OpenAI ont fait fuiter sur Internet des images d’utilisateurs de ChatGPT",
+      "summary": "OpenAI a reconnu que des liens vers des contenus d'utilisateurs de ChatGPT ont été mis en ligne par erreur par ses agents IA. Ce comportement incontrôlé représente un nouvel incident dans la longue liste des problèmes de sécurité et de gestion des données rencontrés par le géant de l'IA. Cela soulève des questions importantes sur la fiabilité et la gouvernance des systèmes d'intelligence artificielle en production.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/26/des-agents-ia-d-openai-ont-fait-fuiter-sur-internet-des-images-d-utilisateurs-de-chatgpt_6782839_4408996.html",
+      "publishedAt": "2026-09-26T01:09:11.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Les tarifs de GPT-6 Sol et Claude Opus 5.5 chutent : quel impact sur le coût de vos agents IA ?",
+      "originalTitle": "GPT-6 Sol à moitié prix, Claude Opus 5.5 à 20 % de moins : ce que les grilles du 22 septembre changent au coût d'un agent",
+      "summary": "OpenAI a récemment divisé par deux les tarifs de ses modèles GPT-6 Sol et Luna, tandis qu'Anthropic a baissé le prix de Claude Opus 5.5 de 20% et de 60% pour les lectures de cache. Ces réductions se traduisent par des économies significatives pour les agents IA, avec des baisses de 50% chez OpenAI et de 23% à 37% chez Anthropic selon l'utilisation du cache. Cependant, la comparaison des coûts par tâche entre les différents éditeurs demeure un défi en l'absence de repères standardisés.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/gpt-6-sol-claude-opus-55-ce-que-coute-une-session-dagent/",
+      "publishedAt": "2026-09-25T16:00:20.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Meta corrige en urgence une faille critique dans son assistant IA Muse pour Mac",
+      "originalTitle": "Premier couac cyber pour Muse : Meta a corrigé en urgence une faille de son agent IA",
+      "summary": "Le chercheur Patrick Wardle a récemment découvert une vulnérabilité majeure dans Muse, l'assistant IA de Meta conçu pour Mac. Cette faille permettait à un attaquant de prendre le contrôle total de l'agent et d'accéder à toutes les données et permissions accordées par l'utilisateur. Meta a réagi promptement en déployant un correctif d'urgence dès le lendemain de la révélation.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/cyberguerre/2339633-premier-couac-cyber-pour-muse-meta-a-corrige-en-urgence-une-faille-de-son-agent-ia.html",
+      "publishedAt": "2026-09-24T14:08:20.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1sphHUXRj_UNDqUTQCOXzsdylXmROMTbt/view",
+  "generatedAt": "2026-09-26T06:01:31.611Z"
+}
