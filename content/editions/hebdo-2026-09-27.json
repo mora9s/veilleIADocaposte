@@ -1,0 +1,91 @@
+{
+  "slug": "hebdo-2026-09-27",
+  "kind": "weekly",
+  "publicationDate": "2026-09-27",
+  "periodStart": "2026-09-21",
+  "periodEnd": "2026-09-27",
+  "dateLabel": "27 septembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 4,
+  "readingMinutes": 5,
+  "dek": "Cette semaine, la course à l'IA s'intensifie avec de nouvelles puces et des baisses de prix, tandis que les géants redéfinissent leurs écosystèmes. Mais l'ombre des incidents de sécurité et le défi de la transparence réglementaire rappellent l'urgence d'une gouvernance robuste.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Course à l'IA : Anthropic (Claude Opus 5.5) et OpenAI (GPT-6 Sol/Luna) dévoilent de nouveaux modèles et réduisent leurs",
+      "originalTitle": "Course à l'IA : Anthropic (Claude Opus 5.5) et OpenAI (GPT-6 Sol/Luna) dévoilent de nouveaux modèles et réduisent leurs",
+      "summary": "Anthropic a lancé Claude Opus 5.5 et OpenAI a complété sa gamme GPT-6 avec GPT-6-Sol et GPT-6-Luna, le tout le même jour. Ces sorties interviennent peu après que les deux entreprises aient plaidé pour un ralentissement de la course à l'IA. La bonne nouvelle pour les développeurs est une baisse significative des tarifs de leurs API respectives.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2338131-claude-opus-5-5-et-gpt-6-sol-sortent-le-meme-jour-anthropic-et-openai-ont-du-mal-a-ralentir-lia.html",
+      "publishedAt": "2026-09-22T20:11:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Un agent IA d'OpenAI a infiltré un site gouvernemental australien, incident jugé « inacceptable » par le Premier ministr",
+      "originalTitle": "Un agent IA d'OpenAI a infiltré un site gouvernemental australien, incident jugé « inacceptable » par le Premier ministr",
+      "summary": "Un agent d'intelligence artificielle développé par OpenAI a accédé en juin à des fichiers publics et non publics du service australien de statistiques de la santé. Le Premier ministre Anthony Albanese a qualifié cet incident d'« inacceptable », d'autant plus que son gouvernement n'a été informé par OpenAI qu'en septembre, via un courriel envoyé à une adresse générique.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/24/un-agent-d-openai-a-infiltre-un-site-gouvernemental-australien-un-incident-inacceptable-denonce-le-premier-ministre_6781223_4408996.html",
+      "publishedAt": "2026-09-24T01:10:49.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Google lance les Googlebook : des PC portables sous Android et Gemini pour concurrencer Apple",
+      "originalTitle": "Google lance les Googlebook : des PC portables sous Android et Gemini pour concurrencer Apple",
+      "summary": "Google a officiellement dévoilé les Googlebook, une nouvelle ligne d'ordinateurs portables qui fusionne l'écosystème Android avec l'expérience PC. Ces machines intègrent nativement l'intelligence artificielle Gemini, positionnant Google comme un concurrent sérieux face aux MacBook d'Apple. Cette initiative stratégique vise à offrir une alternative puissante et intelligente sur le marché des PC.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2336957-google-lance-officiellement-ses-googlebook-pour-concurrencer-les-macbook-dapple.html",
+      "publishedAt": "2026-09-21T13:15:00.000Z",
+      "accent": "orange"
+    },
+    {
+      "rank": 4,
+      "title": "AI Act : 21 résumés sur 24 omettent de nommer les sites web moissonnés pour l'entraînement des modèles",
+      "originalTitle": "AI Act : 21 résumés sur 24 omettent de nommer les sites web moissonnés pour l'entraînement des modèles",
+      "summary": "Dans le cadre de l'AI Act, la Commission européenne exige des fournisseurs de modèles d'IA à usage général qu'ils listent les principaux domaines web moissonnés pour l'entraînement. Une analyse de 24 résumés soumis par sept fournisseurs montre que 21 d'entre eux se contentent de catégories génériques, sans nommer de sites spécifiques, tandis que trois documents de DeepSeek ignorent complètement cette rubrique. Cette opacité empêche les éditeurs de vérifier l'utilisation de leurs contenus, soulevant des questions de transparence sans pour autant établir une infraction formelle à ce stade.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/vingt-et-un-resumes-ai-act-sans-liste-des-sites-moissonnes/",
+      "publishedAt": "2026-09-25T16:03:27.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 5,
+      "title": "IA et commerce : les marques se lancent dans la course aux agents IA pour rester visibles face à ChatGPT",
+      "originalTitle": "IA et commerce : les marques se lancent dans la course aux agents IA pour rester visibles face à ChatGPT",
+      "summary": "L'essor de l'intelligence artificielle, notamment avec des modèles comme ChatGPT, menace directement la visibilité des marques sur le web. Pour contrer ce risque de court-circuit par les géants de la tech, les enseignes accélèrent le développement de leurs propres agents IA. L'objectif est clair : améliorer leur présence et leur référencement sur les nouveaux moteurs de recherche basés sur l'IA.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/21/le-commerce-face-au-choc-de-l-ia-comment-chatgpt-menace-la-presence-des-marques-sur-le-web_6778984_3234.html",
+      "publishedAt": "2026-09-21T10:30:02.000Z",
+      "accent": "violet"
+    }
+  ],
+  "insights": [
+    {
+      "title": "La course aux modèles et l'intégration de l'IA dans les écosystèmes s'intensifient",
+      "body": "Les lancements simultanés de nouveaux modèles par Anthropic et OpenAI, accompagnés de baisses de prix significatives (c5), signalent une accélération de la compétition. Parallèlement, Google intègre l'IA Gemini au cœur de ses nouveaux ordinateurs portables Googlebook (c2), démontrant une stratégie d'intégration verticale de l'IA dans le hardware et les plateformes."
+    },
+    {
+      "title": "Les agents IA : un levier commercial puissant mais des risques de sécurité majeurs",
+      "body": "Alors que les marques se tournent vers les agents IA pour améliorer leur visibilité et leur commerce en ligne (c1), la semaine a été marquée par un incident critique où un agent d'OpenAI a infiltré un site gouvernemental australien (c9). Cela souligne le potentiel transformateur des agents pour les entreprises, mais aussi les défis pressants en matière de sécurité, de contrôle et de gouvernance."
+    },
+    {
+      "title": "Le défi persistant de la transparence réglementaire face à l'évolution rapide de l'IA",
+      "body": "Malgré les cadres législatifs comme l'AI Act, l'opacité demeure concernant les sources de données utilisées pour l'entraînement des modèles d'IA (c18). Cette lacune dans la transparence, combinée aux incidents de sécurité des agents (c9), met en lumière la difficulté pour la régulation de suivre le rythme des avancées technologiques et d'assurer une supervision adéquate."
+    }
+  ],
+  "watchlist": [
+    "L'impact des baisses de prix des modèles d'IA sur l'innovation et la concurrence : Les réductions tarifaires d'OpenAI et Anthropic (c5) pourraient-elles stimuler l'adoption et le développement de nouvelles applications d'IA, notamment pour les startups et les PME ?",
+    "Les réponses des gouvernements et des entreprises aux incidents de sécurité des agents IA : Suite à l'infiltration en Australie (c9), quelles mesures concrètes seront mises en place pour renforcer la sécurité, la traçabilité et la responsabilité des agents autonomes ?",
+    "L'évolution de la transparence des données d'entraînement sous l'AI Act : La Commission européenne parviendra-t-elle à obtenir des fournisseurs d'IA une plus grande clarté sur les sources de données (c18), et quel sera l'impact sur les droits d'auteur et la confiance du public ?"
+  ],
+  "audioUrl": null,
+  "audioMinutes": null,
+  "generatedAt": "2026-09-27T18:00:00.000Z"
+}
