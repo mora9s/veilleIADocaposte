@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-27",
+  "kind": "daily",
+  "dateLabel": "27 septembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 149,
+  "readingMinutes": 4,
+  "dek": "Microsoft Copilot se refond pour devenir le hub IA de Windows, intégrant les modèles de ses concurrents",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Microsoft Copilot se refond pour devenir le hub IA de Windows, intégrant les modèles de ses concurrents",
+      "originalTitle": "Le nouveau Microsoft Copilot s’attaque à Claude et ChatGPT (en utilisant Claude et ChatGPT)",
+      "summary": "Microsoft restructure son application Copilot avec trois nouveaux onglets : Home, Code et Autopilot, visant à en faire le centre névralgique de l'IA sous Windows. L'objectif est de créer le \"Microsoft Office de l'intelligence artificielle\", un hub centralisé pour les utilisateurs. Cependant, cette ambition repose actuellement sur l'intégration massive de modèles développés par ses concurrents, tels qu'Anthropic et OpenAI.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2340809-le-nouveau-microsoft-copilot-sattaque-a-claude-et-chatgpt-en-utilisant-claude-et-chatgpt.html",
+      "publishedAt": "2026-09-25T14:06:24.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Incidents IA et cybersécurité : la menace existentielle pour l'humanité est-elle réelle ?",
+      "originalTitle": "VIDÉO | L’IA peut-elle nous tuer ?",
+      "summary": "Le monde de l'intelligence artificielle a été secoué par une vague d'inquiétude suite à des incidents de cybersécurité impliquant des agents IA. Néanmoins, la menace d'une extinction de l'humanité provoquée par une IA reste, à ce jour, une considération purement théorique. Cette distinction est cruciale pour une veille éclairée sur les risques réels.",
+      "source": "Le Monde IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.lemonde.fr/videos/video/2026/09/26/video-l-ia-peut-elle-nous-tuer_6783011_1669088.html",
+      "publishedAt": "2026-09-26T04:00:34.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "AI Act : 21 résumés sur 24 omettent de nommer les sites web moissonnés pour l'entraînement des modèles",
+      "originalTitle": "Résumés AI Act : 21 documents sur 24 ne nomment aucun site moissonné dans la rubrique prévue",
+      "summary": "Dans le cadre de l'AI Act, la Commission européenne exige des fournisseurs de modèles d'IA à usage général qu'ils listent les principaux domaines web moissonnés pour l'entraînement. Une analyse de 24 résumés soumis par sept fournisseurs montre que 21 d'entre eux se contentent de catégories génériques, sans nommer de sites spécifiques, tandis que trois documents de DeepSeek ignorent complètement cette rubrique. Cette opacité empêche les éditeurs de vérifier l'utilisation de leurs contenus, soulevant des questions de transparence sans pour autant établir une infraction formelle à ce stade.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/vingt-et-un-resumes-ai-act-sans-liste-des-sites-moissonnes/",
+      "publishedAt": "2026-09-25T16:03:27.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1O1C90JsYASq91zClKbcqtYD-A31d1pg6/view",
+  "generatedAt": "2026-09-27T06:01:43.507Z"
+}
