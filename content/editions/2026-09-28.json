@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-28",
+  "kind": "daily",
+  "dateLabel": "28 septembre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 150,
+  "readingMinutes": 4,
+  "dek": "Arlequin AI : 28M€ pour une IA fiable post-LLM, ciblant sécurité et défense.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Arlequin AI : 28M€ pour une IA fiable post-LLM, ciblant sécurité et défense.",
+      "originalTitle": "« On ne confierait pas à un modèle de langage le pilotage d’un avion ». C’est tout l’enjeu de l’après-LLM, selon Arlequin AI",
+      "summary": "Arlequin AI, une startup française, vient de lever 28 millions d'euros en série A et sort de sa discrétion. Elle développe une architecture basée sur des réseaux de neurones topologiques, conçue pour des applications où la fiabilité est primordiale. Cette approche vise spécifiquement des secteurs à haut risque comme la sécurité, la défense et la finance, où les erreurs sont inacceptables.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2335099-entretien-avec-arlequin-ai-la-startup-francaise-qui-veut-remplacer-les-llm-la-ou-lerreur-est-interdite.html",
+      "publishedAt": "2026-09-27T15:00:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L’immobilier face au « tsunami » de l’intelligence artificielle",
+      "originalTitle": "L’immobilier face au « tsunami » de l’intelligence artificielle",
+      "summary": "Le marché n’échappe pas à l’essor de l’IA générative et à ses bouleversements. Acheteurs, vendeurs ou agents ont déjà commencé à changer leurs usages.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/28/l-immobilier-face-au-tsunami-de-l-intelligence-artificielle_6784868_1657007.html",
+      "publishedAt": "2026-09-28T04:00:06.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Affaire Orélien : Thomas B. Reverdy réclame un label IA pour préserver l'authenticité de l'émotion littéraire",
+      "originalTitle": "Thomas B. Reverdy, écrivain, à propos de l’affaire Thélyson Orélien : « Si j’apprends que c’est une machine qui m’a ému, cette émotion ne m’intéresse plus »",
+      "summary": "L'écrivain Thomas B. Reverdy s'exprime dans Le Monde suite à l'affaire Thélyson Orélien, accusé d'avoir utilisé l'IA pour son roman. Il affirme que l'émotion ressentie face à une œuvre perd tout son sens si elle est générée par une machine. Le professeur de lettres plaide ainsi pour l'instauration d'un label clair afin d'identifier les créations littéraires issues de l'intelligence artificielle.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/28/thomas-b-reverdy-ecrivain-a-propos-de-l-affaire-thelyson-orelien-si-j-apprends-que-c-est-une-machine-qui-m-a-emu-cette-emotion-ne-m-interesse-plus_6784833_3232.html",
+      "publishedAt": "2026-09-28T03:30:17.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1h5BUBWwYc059GtpfQ0FGOF8_V-anHZnX/view",
+  "generatedAt": "2026-09-28T06:02:19.210Z"
+}
