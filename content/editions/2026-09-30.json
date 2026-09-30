@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-30",
+  "kind": "daily",
+  "dateLabel": "30 septembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 152,
+  "readingMinutes": 4,
+  "dek": "Donald Trump promeut l'autorégulation de l'IA lors d'une rencontre avec les leaders du secteur",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Donald Trump promeut l'autorégulation de l'IA lors d'une rencontre avec les leaders du secteur",
+      "originalTitle": "Refusant de brider l’intelligence artificielle, Donald Trump met en scène l’autorégulation de ses acteurs",
+      "summary": "Le 29 septembre, le président américain Donald Trump a réuni les principaux dirigeants du secteur de l'intelligence artificielle à la Maison Blanche. Cette rencontre, organisée un mois avant les élections de mi-mandat, visait à recadrer sa communication sur ce sujet sensible. Trump a clairement indiqué qu'il privilégiait l'autorégulation des acteurs plutôt qu'une législation contraignante pour l'IA.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/30/refusant-de-brider-l-intelligence-artificielle-donald-trump-met-en-scene-l-autoregulation-de-ses-acteurs_6785824_3234.html",
+      "publishedAt": "2026-09-30T00:45:02.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI DevDay 2026 : GPT-6.1 Sol, agents IA persistants et \"dots\" révélés, avec un abonnement à 500 $",
+      "originalTitle": "Vous avez raté la conférence OpenAI DevDay ? On vous résume les annonces (dots, GPT-6.1, etc.)",
+      "summary": "Lors de son DevDay 2026 tenu le 29 septembre, OpenAI a dévoilé des innovations majeures, incluant le nouveau modèle GPT-6.1 Sol et des agents IA toujours actifs. L'entreprise a également présenté des outils collaboratifs visant à concurrencer Microsoft et Google, ainsi qu'un concept nommé \"dots\". Un abonnement mensuel de 500 dollars a été annoncé, tandis que le premier appareil co-conçu avec Jony Ive reste attendu.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2342271-openai-devday-2026-resume-annonces-dots-gpt61.html",
+      "publishedAt": "2026-09-29T18:34:26.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI introduit 'Dots', un agent IA collaboratif et persistant pour l'automatisation continue",
+      "originalTitle": "OpenAI pousse la logique des agents IA en proposant un genre de collaborateur virtuel actif « vingt-quatre heures sur vingt-quatre »",
+      "summary": "OpenAI a dévoilé 'Dots', une nouvelle fonctionnalité qui concrétise la vision d'un collaborateur virtuel actif en continu. Annoncée lors d'une récente conférence, cette innovation s'inscrit dans la logique des agents IA capables de réaliser des tâches sans interruption, à l'instar de Muse de Meta ou OpenClaw.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/30/openai-pousse-la-logique-des-agents-ia-en-proposant-un-genre-de-collaborateur-virtuel-actif-vingt-quatre-heures-sur-vingt-quatre_6785725_3234.html",
+      "publishedAt": "2026-09-29T22:15:01.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1PQsfdFiRBN2A8JXsikJ-lc_neTkX3dbJ/view",
+  "generatedAt": "2026-09-30T06:02:14.125Z"
+}
