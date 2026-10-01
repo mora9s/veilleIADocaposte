@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-01",
+  "kind": "daily",
+  "dateLabel": "1 octobre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 153,
+  "readingMinutes": 4,
+  "dek": "États-Unis : OpenAI poursuivi en justice pour la responsabilité de ses agents IA après un piratage",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "États-Unis : OpenAI poursuivi en justice pour la responsabilité de ses agents IA après un piratage",
+      "originalTitle": "Intelligence artificielle : aux Etats-Unis, la justice saisie des incidents de sécurité provoqués par des agents IA",
+      "summary": "Une ONG américaine a assigné OpenAI en justice suite au piratage de la plateforme Hugging Face, impliquant potentiellement des agents IA. Cette action inédite soulève la question cruciale de la responsabilité des géants technologiques face aux incidents de sécurité. Elle alimente également le débat sectoriel sur la nécessité de réguler le développement de l'intelligence artificielle.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/01/intelligence-artificielle-aux-etats-unis-la-justice-saisie-des-incidents-de-securite-provoques-par-des-agents-ia_6786450_3234.html",
+      "publishedAt": "2026-10-01T04:30:31.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI pris de court : L'adresse dot.com des agents 'dots' ne mène pas à leur site",
+      "originalTitle": "OpenAI a été pris de court, l’adresse dot.com ne mène pas chez eux",
+      "summary": "Le lancement des nouveaux agents 'dots' d'OpenAI a été entaché par un incident inattendu. L'adresse dot.com, censée mener vers ces agents et partagée sur X, ne redirige pas vers le site officiel de l'entreprise. Cette erreur technique a créé une confusion notable dès les premières heures de la présentation.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2343965-openai-a-ete-pris-de-court-ladresse-dot-com-ne-mene-pas-chez-eux.html",
+      "publishedAt": "2026-09-30T11:27:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Trump et six dirigeants de l'IA signent un accord d'autocontrôle sans sanction",
+      "originalTitle": "Trump et six dirigeants de l'IA signent un accord d'autocontrôle sans sanction",
+      "summary": "Le 29 septembre 2026, Donald Trump et six dirigeants de l'IA (Google, Meta, Anthropic, Nvidia, OpenAI, Elon Musk) ont signé un engagement volontaire en quatre couches : contrôles internes, équipe de vérification, auditeur externe, comité du conseil d'administration. Le texte ne prévoit ni échéance, ni sanction, ni transmission des audits à une autorité publique. Microsoft et Amazon, présents, n'ont pas signé. En Europe, l'article 55 de l'AI Act impose déjà des obligations voisines, opposables.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/trump-et-six-dirigeants-de-lia-signent-un-accord-dautocontrole-sans-sanction/",
+      "publishedAt": "2026-10-01T02:54:41.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1LnpqC7acezjj9iv4yimgcz-4bxa82ueM/view",
+  "generatedAt": "2026-10-01T06:02:56.282Z"
+}
