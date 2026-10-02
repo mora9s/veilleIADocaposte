@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-02",
+  "kind": "daily",
+  "dateLabel": "2 octobre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 154,
+  "readingMinutes": 4,
+  "dek": "OpenAI licencie trois experts en sécurité IA suite à des fuites d'informations sensibles",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenAI licencie trois experts en sécurité IA suite à des fuites d'informations sensibles",
+      "originalTitle": "OpenAI licencie trois chercheurs en sécurité de l’IA accusés de fuites d’informations sensibles",
+      "summary": "OpenAI a récemment licencié trois de ses chercheurs spécialisés en sécurité de l'IA. Ces départs font suite à des accusations de fuites d'informations sensibles. Parmi les manquements reprochés, l'un concernerait la communication de données confidentielles à un groupe externe d'évaluation de l'intelligence artificielle.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/02/openai-exclut-trois-chercheurs-en-securite-de-l-ia-accuses-de-fuites-d-informations-sensibles_6786658_4408996.html",
+      "publishedAt": "2026-10-02T00:02:03.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "GPT-6.1 Sol : OpenAI réduit le coût du cache, mais les tarifs des jetons restent inchangés",
+      "originalTitle": "GPT-6.1 Sol : OpenAI garde ses prix et divise par deux la lecture de cache",
+      "summary": "OpenAI lance GPT-6.1 Sol en maintenant les tarifs API de son prédécesseur pour les jetons d'entrée et de sortie, soit 2 et 10 dollars par million. La seule baisse de prix concerne la lecture de cache, divisée par deux, ce qui génère des économies modestes pour les utilisateurs, de 4 % pour une session typique à 21 % pour les usages intensifs du cache. Cette approche confirme une observation de Bain selon laquelle la diminution des coûts unitaires des jetons est souvent contrebalancée par une hausse de leur consommation globale.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/gpt-61-sol-openai-garde-ses-prix-et-divise-par-deux-la-lecture-de-cache/",
+      "publishedAt": "2026-10-01T10:10:45.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Sony face à un défi majeur : des PS5, y compris Slim et Pro, peuvent être jailbreakées en quelques secondes.",
+      "originalTitle": "Sony a un problème : certaines PS5 peuvent désormais être jailbreakées en quelques secondes",
+      "summary": "Un nouveau jailbreak a été mis au jour, permettant de contourner les protections de sécurité des consoles PlayStation 5, incluant les modèles Slim et Pro, même sur des versions récentes du système d'exploitation. La particularité de cette méthode réside dans sa rapidité et sa simplicité d'exécution, ne nécessitant que quelques secondes pour être appliquée. Cette vulnérabilité pose un problème significatif à Sony, remettant en question le contrôle et la sécurité de sa plateforme.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2343721-sony-a-un-probleme-certaines-ps5-peuvent-desormais-etre-jailbreakees-en-quelques-secondes.html",
+      "publishedAt": "2026-09-30T09:52:18.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1DO_njTWhTmNPDV80vg1Vxabk7z3pgsYQ/view",
+  "generatedAt": "2026-10-02T06:02:03.347Z"
+}
