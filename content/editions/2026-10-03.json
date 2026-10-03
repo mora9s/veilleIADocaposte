@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-03",
+  "kind": "daily",
+  "dateLabel": "3 octobre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 155,
+  "readingMinutes": 4,
+  "dek": "OpenAI : Les Dots, une évolution produit stratégique qui humanise les agents IA et préfigure un nouveau modèle économiqu",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenAI : Les Dots, une évolution produit stratégique qui humanise les agents IA et préfigure un nouveau modèle économiqu",
+      "originalTitle": "Dots : un bon coup produit, pas une rupture technique",
+      "summary": "Lancés par OpenAI, les Dots ne représentent pas une rupture technologique, mais plutôt une agrégation intelligente de capacités d'IA existantes, comme les agents ChatGPT et les tâches programmées. Leur véritable innovation réside dans un changement de posture stratégique, visant à humaniser les agents et à proposer un modèle de facturation par agent plutôt que par jeton, tout en vendant un travail asynchrone. Pour les entreprises françaises, l'accès à cette nouvelle offre se fait via les abonnements Business Premium ou la version bêta Enterprise.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/dots-un-bon-coup-produit-pas-une-rupture-technique/",
+      "publishedAt": "2026-10-02T11:43:16.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Vos courses par des agents IA : l'automatisation des achats face au défi réglementaire",
+      "originalTitle": "Comment les agents IA feront les courses à votre place",
+      "summary": "Les agents d'intelligence artificielle s'apprêtent à révolutionner nos habitudes d'achat en prenant en charge les courses des Français. Cette délégation des tâches soulève néanmoins d'importantes questions. L'absence d'un cadre réglementaire adapté inquiète l'ensemble des acteurs, des commerçants aux banques, en passant par les consommateurs eux-mêmes.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/03/comment-les-agents-ia-feront-les-courses-a-votre-place_6787530_3234.html",
+      "publishedAt": "2026-10-03T04:00:13.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Les agents IA révolutionnent le modding : la fusion des univers de jeux vidéo ouvre de nouvelles perspectives",
+      "originalTitle": "Minecraft dans GTA, Call of Duty dans Skyrim… les jeux commencent à fusionner dans tous les sens à cause des agents IA",
+      "summary": "Des vidéos virales illustrent la fusion parfaite d'éléments entre des jeux vidéo majeurs, comme l'intégration de la TNT de Minecraft dans GTA ou d'armes de Call of Duty dans Skyrim. Ces réalisations impressionnantes sont le fruit du travail d'agents d'intelligence artificielle. Ces agents sont désormais capables de générer une part substantielle du code nécessaire à la création de ces mods complexes sur PC.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/pop-culture/2345701-minecraft-dans-gta-call-of-duty-dans-skyrim-les-jeux-commencent-a-fusionner-dans-tous-les-sens-a-cause-des-agents-ia.html",
+      "publishedAt": "2026-10-02T16:45:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1jpNEiZjvVZUONHmeqJQ2ZK83idp1dw1k/view",
+  "generatedAt": "2026-10-03T06:01:34.492Z"
+}
