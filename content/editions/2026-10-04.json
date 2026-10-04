@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-04",
+  "kind": "daily",
+  "dateLabel": "4 octobre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 156,
+  "readingMinutes": 4,
+  "dek": "États-Unis : Croissance économique soutenue, mais la création d'emplois déçoit en septembre",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "États-Unis : Croissance économique soutenue, mais la création d'emplois déçoit en septembre",
+      "originalTitle": "Aux Etats-Unis, la croissance reste vive mais elle crée moins d’emplois",
+      "summary": "En septembre, l'économie américaine n'a créé que 29 000 emplois, un chiffre nettement inférieur aux 80 000 postes attendus par les analystes. Cette faible performance s'explique notamment par la prédominance du secteur du soin dans les nouvelles embauches, tandis que les services financiers continuent de voir leurs effectifs diminuer.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/02/aux-etats-unis-la-croissance-reste-vive-mais-elle-cree-moins-d-emplois_6787222_3234.html",
+      "publishedAt": "2026-10-02T20:45:05.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Pi : l'agent IA autrichien open source qui bouscule le marché des modèles comme Claude et Codex",
+      "originalTitle": "Pi, le petit agent IA autrichien qui veut tenir tête à Claude Code et Codex",
+      "summary": "La société autrichienne Earendil a récemment dévoilé Pi, un agent d'IA open source dont la première version stable a suscité un vif intérêt sur Hacker News. Ce lancement marque une étape importante dans la compétition stratégique des couches logicielles qui permettent aux modèles d'IA de fonctionner. Il souligne une bataille moins visible que celle des modèles eux-mêmes, mais tout aussi cruciale pour l'écosystème de l'intelligence artificielle.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2345455-pi-le-petit-agent-ia-autrichien-qui-veut-tenir-tete-a-claude-code-et-codex.html",
+      "publishedAt": "2026-10-02T10:12:38.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Le Texas enquête sur des data centers pour non-réponse à une étude sur la consommation d'eau",
+      "originalTitle": "Le Texas enquête sur des centaines de centres de données pour un formulaire d'eau",
+      "summary": "Le 24 septembre 2026, le procureur général du Texas, Ken Paxton, a lancé une enquête officielle. Cette investigation vise des centaines de projets de centres de données à travers l'État. Ces derniers sont ciblés pour n'avoir pas répondu à un questionnaire essentiel sur leur consommation d'eau, émis par le Texas Water Development Board.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/le-texas-enquete-sur-des-centaines-de-centres-de-donnees-pour-un-formulaire-deau/",
+      "publishedAt": "2026-10-02T11:43:16.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1Lb8kPY8iFiy1QqVoNK4WU-KKEUX8dzTm/view",
+  "generatedAt": "2026-10-04T06:01:35.730Z"
+}
