@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-05",
+  "kind": "daily",
+  "dateLabel": "5 octobre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 157,
+  "readingMinutes": 4,
+  "dek": "LLM-jacking : Google alerte sur la nouvelle cybermenace exploitant les modèles d'IA",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "LLM-jacking : Google alerte sur la nouvelle cybermenace exploitant les modèles d'IA",
+      "originalTitle": "Le fléau cyber prend de l’ampleur et deux scénarios se distinguent : c’est quoi le LLM-jacking ?",
+      "summary": "Un analyste de Google a récemment mis en garde contre l'émergence du LLM-jacking, une nouvelle forme de cybercriminalité. Ce phénomène se manifeste principalement par la revente de comptes d'IA volés à des prix réduits et le détournement discret de serveurs cloud. Ces pratiques illicites exploitent les grands modèles de langage pour des usages non autorisés.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html",
+      "publishedAt": "2026-10-04T12:01:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Jay Clayton, directeur du renseignement, devient le référent IA du gouvernement américain",
+      "originalTitle": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA",
+      "summary": "L’actuel directeur du renseignement américain, Jay Clayton, a été nommé par Donald Trump au poste de référent gouvernemental sur l'intelligence artificielle. Cette désignation survient dans un contexte de préoccupations croissantes concernant la régulation et le contrôle de cette technologie émergente.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/05/aux-etats-unis-jay-clayton-le-nouvel-homme-fort-de-l-ia_6788485_3234.html",
+      "publishedAt": "2026-10-05T05:00:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Métiers du lien : l'IA ne les remplacera pas, mais leur dévalorisation persiste",
+      "originalTitle": "« Je sais qu’on aura toujours besoin d’humains dans ce domaine » : les professions du lien à l’abri d’un remplacement par l’IA",
+      "summary": "L'intelligence artificielle épargne les professions centrées sur l'empathie et la présence humaine, les protégeant ainsi d'un remplacement sur le marché du travail. Cependant, malgré leur apparente sécurité face à l'IA, ces métiers du lien demeurent souvent sous-payés, dévalorisés et exigeants.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/campus/article/2026/10/05/je-sais-qu-on-aura-toujours-besoin-d-humains-dans-ce-domaine-les-professions-du-lien-a-l-abri-d-un-remplacement-par-l-ia_6788482_4401467.html",
+      "publishedAt": "2026-10-05T04:30:11.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1rNyrSuR68kYGzFHFkXUuxb1L3JcJ5yjg/view",
+  "generatedAt": "2026-10-05T06:01:27.703Z"
+}
