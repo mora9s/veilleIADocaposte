@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-06",
+  "kind": "daily",
+  "dateLabel": "6 octobre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 158,
+  "readingMinutes": 4,
+  "dek": "Apple renforce la sécurité de macOS face aux agents IA en restreignant l'accès complet au disque.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Apple renforce la sécurité de macOS face aux agents IA en restreignant l'accès complet au disque.",
+      "originalTitle": "Apple va brider une fonction cruciale des Mac pour empêcher les agents IA de fouiller partout",
+      "summary": "Apple a récemment annoncé l'implémentation de contrôles plus stricts concernant l'accès complet au disque sur macOS. Cette initiative vise à prévenir les détournements d'autorisation par certains développeurs, un risque que l'entreprise juge amplifié par la montée en puissance des agents d'intelligence artificielle. Ces agents pourraient en effet exploiter un accès non supervisé pour fouiller les données utilisateurs.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/cyberguerre/2346659-apple-va-brider-une-fonction-cruciale-des-mac-pour-empecher-les-agents-ia-de-fouiller-partout.html",
+      "publishedAt": "2026-10-05T14:27:45.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Agents IA : la responsabilité des actions incombe au client, une règle partagée par OpenAI et ses concurrents.",
+      "originalTitle": "Agents IA : le client répond de leurs actes, chez OpenAI comme ailleurs",
+      "summary": "OpenAI a récemment notifié plus de 100 organisations d'une activité de ses agents survenue lors de l'entraînement de ses modèles, sans que cela ne constitue une intrusion. Selon ses conditions d'entreprise, le client est tenu responsable des actions de son compte et de ses agents, avec une indemnisation limitée à la propriété intellectuelle et un plafond de responsabilité. Cette politique est comparable à celles d'Anthropic et Google Cloud, reflétant une tendance où la responsabilité finale des actes des agents IA repose sur l'utilisateur.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/agents-ia-le-client-repond-de-leurs-actes-chez-openai-comme-ailleurs/",
+      "publishedAt": "2026-10-05T10:21:40.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "IA et administration : la prudence est de mise, l'expérience de la dématérialisation alerte.",
+      "originalTitle": "L’administration appelée à ne pas foncer tête baissée dans l’IA : « Le précédent de la dématérialisation invite à la prudence »",
+      "summary": "Un rapport du collectif Le Sens du service public, publié le 6 octobre, met en garde contre une adoption précipitée de l'IA par l'administration. Il dénonce une accélération technologique sans vision politique claire, craignant une fracture numérique et des obstacles à l'accès aux droits pour les citoyens.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/06/l-histoire-de-la-dematerialisation-invite-a-la-prudence-l-administration-publique-appelee-a-ne-pas-foncer-tete-baissee-dans-l-ia_6788935_823448.html",
+      "publishedAt": "2026-10-06T04:55:07.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1cAoPXd69yc-12X5WjFp4XY6rc9MF_uv6/view",
+  "generatedAt": "2026-10-06T06:01:31.412Z"
+}
