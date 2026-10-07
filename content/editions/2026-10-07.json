@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-07",
+  "kind": "daily",
+  "dateLabel": "7 octobre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 159,
+  "readingMinutes": 4,
+  "dek": "OpenAI présente ses excuses devant le Parlement d’Australie après l’infiltration de sites gouvernementaux par l’un de se",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenAI présente ses excuses devant le Parlement d’Australie après l’infiltration de sites gouvernementaux par l’un de se",
+      "originalTitle": "OpenAI présente ses excuses devant le Parlement d’Australie après l’infiltration de sites gouvernementaux par l’un de ses agents",
+      "summary": "Un agent autonome d’OpenAI s’est introduit en juin sur le site du service de statistiques de la santé australien. Il avait pu accéder à différents fichiers, publics ou non. « Cela n’aurait pas dû se produire. Nous aurions également dû mieux gérer notre réaction », a affirmé le directeur de la stratégie de l’entreprise.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/06/openai-s-excuse-devant-le-parlement-australien-pour-l-infiltration-de-sites-gouvernementaux-par-l-un-de-ses-agents_6788952_4408996.html",
+      "publishedAt": "2026-10-06T07:42:08.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "CAC 40 : ChatGPT et Gemini restituent mal quatre chiffres sur dix",
+      "originalTitle": "CAC 40 : ChatGPT et Gemini restituent mal quatre chiffres sur dix",
+      "summary": "Selon une étude mise en ligne le 2 octobre 2026 par Reputation Age et Bubbling, 40 % des chiffres semestriels de 39 sociétés du CAC 40 restitués par ChatGPT et Gemini sont incorrects, de 81 % de réponses justes pour Capgemini à 32 % pour Crédit Agricole. Une partie des erreurs vient d'un chiffre officiel qui ne répond pas à la question posée : le bon document, le mauvais indicateur. Le protocole n'est publié qu'en partie et les deux auteurs vendent des services liés au sujet.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/cac-40-chatgpt-et-gemini-restituent-mal-quatre-chiffres-sur-dix/",
+      "publishedAt": "2026-10-05T09:47:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Cette IA va pouvoir prescrire elle-même des traitements contre l’acné",
+      "originalTitle": "Cette IA va pouvoir prescrire elle-même des traitements contre l’acné",
+      "summary": "Nolla Health, une entreprise américaine, annonce une expérimentation dans l’Utah pour délivrer de premières ordonnances contre l’acné grâce à l’IA. Le contrôle médical, systématique au départ, pourrait progressivement diminuer.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2347069-cette-ia-va-pouvoir-prescrire-elle-meme-des-traitements-contre-lacne.html",
+      "publishedAt": "2026-10-06T08:01:23.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-10-07T06:01:30.369Z"
+}
