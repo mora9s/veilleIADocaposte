@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-08",
+  "kind": "daily",
+  "dateLabel": "8 octobre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 160,
+  "readingMinutes": 4,
+  "dek": "Elon Musk lève 40 milliards de dollars pour des puces Nvidia et ses data centers IA",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Elon Musk lève 40 milliards de dollars pour des puces Nvidia et ses data centers IA",
+      "originalTitle": "Elon Musk veut lever 40 milliards de dollars de dette pour acheter des puces Nvidia destinées à équiper ses data centers",
+      "summary": "SpaceX, l'entreprise d'Elon Musk, a initié une levée de dette de 40 milliards de dollars pour financer l'acquisition de puces Nvidia. Ces composants sont essentiels pour équiper ses futurs data centers dédiés à l'intelligence artificielle. Cette opération d'envergure souligne l'intense compétition pour les capitaux dans le secteur de l'IA, reflétant une course effrénée aux infrastructures.",
+      "source": "Le Monde IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/07/ia-elon-musk-veut-lever-40-milliards-de-dollars-de-dette-pour-acheter-des-puces-nvidia_6789552_3234.html",
+      "publishedAt": "2026-10-07T06:56:48.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L'IA d'OpenAI publie 722 manuscrits et revendique une percée sur l'hypothèse de Riemann",
+      "originalTitle": "« Si un humain avait fait ça, ce serait la médaille Fields » : l’IA d’OpenAI fait une percée sur l’hypothèse de Riemann",
+      "summary": "OpenAI a récemment publié 722 manuscrits de mathématiques, générés par un modèle d'IA interne non accessible au public. Parmi ces documents, l'entreprise revendique une avancée significative concernant la complexe hypothèse de Riemann. Cette annonce intervient peu après une polémique similaire en septembre, où OpenAI avait déjà prétendu une percée sur les équations de Navier-Stokes.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2348207-si-un-humain-avait-fait-ca-ce-serait-la-medaille-fields-lia-dopenai-fait-une-percee-sur-lhypothese-de-riemann.html",
+      "publishedAt": "2026-10-07T08:55:34.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "API d'IA : Forte disparité des prix en octobre 2026, de 0,50 à 50 dollars le million de jetons",
+      "originalTitle": "Prix des API d'IA en octobre 2026, de 0,50 à 50 dollars en sortie",
+      "summary": "En octobre 2026, le coût d'un million de jetons de sortie pour les API d'IA présente une large fourchette. Les tarifs s'étendent de 0,50 dollar pour des modèles comme GPT-6 Luna à 50 dollars pour des offres premium telles que GPT-6 Astra ou Claude Fable 5.1. Cette analyse, basée sur dix-huit offres, révèle une disparité significative sur le marché.",
+      "source": "ActuIA",
+      "category": "Produit / API",
+      "url": "https://www.actuia.com/actualite/prix-des-api-dia-en-octobre-2026-de-050-a-50-dollars-en-sortie/",
+      "publishedAt": "2026-10-07T10:00:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/17HQWok2QQbM7wmTXEUJ_p7zfVlsKF_eu/view",
+  "generatedAt": "2026-10-08T06:01:53.612Z"
+}
