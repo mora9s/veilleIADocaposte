@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-09",
+  "kind": "daily",
+  "dateLabel": "9 octobre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 161,
+  "readingMinutes": 4,
+  "dek": "Boycott d'OpenAI : des mathématiciens s'insurgent contre la publication de 722 manuscrits générés par IA.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Boycott d'OpenAI : des mathématiciens s'insurgent contre la publication de 722 manuscrits générés par IA.",
+      "originalTitle": "« Ce n’est pas une démonstration d’érudition, mais de force » : des mathématiciens appellent au boycott d’OpenAI après son nouveau coup",
+      "summary": "L'Association for Human Mathematics, un collectif de mathématiciens, a lancé un appel au boycott d'OpenAI. Cette décision intervient après la publication par l'entreprise de 722 manuscrits générés par son IA, perçue comme une démonstration de force. Le médaillé Fields Terence Tao a apporté son soutien en relayant publiquement cet appel.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2349233-ce-nest-pas-une-demonstration-derudition-mais-de-force-des-mathematiciens-appellent-au-boycott-dopenai-apres-son-nouveau-coup.html",
+      "publishedAt": "2026-10-08T11:00:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Balance ton Claude justifie l'accusation d'IA pour un roman et alerte sur la dévalorisation de l'écriture",
+      "originalTitle": "Deux membres du collectif Balance ton Claude : « Les auteurs qui mentent à leurs lecteurs dévaluent l’ensemble de la production écrite »",
+      "summary": "Pierre-Thomas Eckert et Samuel Fitoussi, du collectif Balance ton Claude, justifient leur affirmation selon laquelle le roman de Thélyson Orélien était généré par une IA. Dans une tribune au Monde, ils défendent leur démarche, arguant que la dissimulation de l'usage de l'IA dévalorise la production écrite. Ils rejettent également les accusations d'« obsession identitaire » portées à leur encontre.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/07/deux-membres-du-collectif-balance-ton-claude-les-auteurs-qui-mentent-a-leurs-lecteurs-devaluent-l-ensemble-de-la-production-ecrite_6789585_3232.html",
+      "publishedAt": "2026-10-07T10:30:07.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Netflix : 'AI Gone Wild' explore l'attaque d'agents OpenAI contre Hugging Face",
+      "originalTitle": "Netflix consacre déjà un documentaire à l’affaire Hugging Face : à quoi peut-on s’attendre ?",
+      "summary": "Netflix s'apprête à diffuser un documentaire événementiel intitulé 'AI Gone Wild'. Cet épisode de la collection Instadocs reviendra sur l'attaque menée en juillet par des agents d'OpenAI contre la plateforme Hugging Face. La diffusion est prévue pour le 12 octobre 2026.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/pop-culture/2349045-netflix-consacre-deja-un-documentaire-a-laffaire-hugging-face-a-quoi-peut-on-sattendre.html",
+      "publishedAt": "2026-10-08T09:05:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1-1-n288xl4IJwQjHPv2peVOLIUN0Goih/view",
+  "generatedAt": "2026-10-09T06:02:00.176Z"
+}
