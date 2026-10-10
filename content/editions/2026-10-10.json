@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-10",
+  "kind": "daily",
+  "dateLabel": "10 octobre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 162,
+  "readingMinutes": 4,
+  "dek": "OpenAI : des ex-employés accusent l'entreprise de sacrifier la sécurité, la direction dément et évoque des fuites",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenAI : des ex-employés accusent l'entreprise de sacrifier la sécurité, la direction dément et évoque des fuites",
+      "originalTitle": "Trois employés limogés par OpenAI l’accusent de faire taire ses spécialistes de la sécurité, l’entreprise dément",
+      "summary": "Trois anciens employés d'OpenAI ont été licenciés, l'entreprise affirmant qu'ils ont divulgué des informations confidentielles. Ces derniers réfutent cette version, arguant avoir été écartés pour avoir privilégié la sécurité des systèmes au détriment des objectifs commerciaux à court terme d'OpenAI. L'entreprise dément fermement ces allégations de musellement de ses spécialistes en sécurité.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/09/trois-employes-limoges-par-openai-l-accusent-de-faire-taire-ses-specialistes-de-la-securite-l-entreprise-dement_6790616_4408996.html",
+      "publishedAt": "2026-10-09T16:28:40.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic interdit le harcèlement de Claude AI, soulevant des questions éthiques sur la maltraitance des IA",
+      "originalTitle": "Il est désormais interdit de harceler Claude AI",
+      "summary": "Anthropic a mis à jour sa politique d'utilisation, interdisant dès le 12 novembre tout comportement cruel et répété envers son intelligence artificielle, Claude. Cette décision relance un vif débat sur les réseaux sociaux, interrogeant la légitimité de maltraiter une IA qui ne manifeste aucune souffrance.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2349909-il-est-desormais-interdit-de-harceler-claude-ai.html",
+      "publishedAt": "2026-10-09T08:30:08.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L'IA, moteur majeur du commerce mondial : les biens liés à l'intelligence artificielle génèrent 47% de la croissance.",
+      "originalTitle": "Commerce de biens : l'IA porte 47 % de la croissance en valeur",
+      "summary": "L'Organisation Mondiale du Commerce (OMC) a relevé sa prévision de croissance du commerce mondial de marchandises à 3,9 % pour 2026, principalement grâce aux biens liés à l'intelligence artificielle. Bien que ces produits ne représentent que 14,8 % des échanges, ils sont responsables de 47 % de la croissance en valeur au premier semestre. Cette dynamique est fortement dominée par l'Asie, tandis que la part de l'Europe à l'exportation reste faible.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/commerce-de-biens-lia-porte-47-de-la-croissance-en-valeur/",
+      "publishedAt": "2026-10-09T15:01:58.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1a2S2iU_IVd54xEFfseZb5Dt2TQ4JUx6C/view",
+  "generatedAt": "2026-10-10T06:01:29.887Z"
+}
