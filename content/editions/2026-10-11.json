@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-11",
+  "kind": "daily",
+  "dateLabel": "11 octobre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 163,
+  "readingMinutes": 4,
+  "dek": "OpenAI : licenciement controversé de chercheurs en sécurité, la tension monte",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenAI : licenciement controversé de chercheurs en sécurité, la tension monte",
+      "originalTitle": "« OpenAI n’est pas une entreprise normale » : le licenciement de trois chercheurs en sécurité tourne au bras de fer public",
+      "summary": "OpenAI a récemment justifié le licenciement de trois membres de ses équipes de sécurité. Ces chercheurs contestent fermement les motifs de leur renvoi dans une lettre ouverte, niant toute faute professionnelle. Cette divergence de vues a transformé l'affaire en un bras de fer public, soulignant des tensions internes au sein de l'entreprise.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2350125-openai-nest-pas-une-entreprise-normale-le-licenciement-de-trois-chercheurs-en-securite-tourne-au-bras-de-fer-public.html",
+      "publishedAt": "2026-10-09T12:30:02.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Régulation de l'IA : des expertes exhortent l'Europe à agir sans attendre l'aggravation des risques",
+      "originalTitle": "« Sur l’IA, l’Europe ne peut pas attendre que les risques deviennent plus évidents »",
+      "summary": "Dans une tribune au Monde, les universitaires américaines Marine Collins Ragnet et Katerina Siira appellent la Commission européenne à une action immédiate. Elles insistent sur la nécessité d'activer sans délai les mécanismes de régulation existants pour encadrer les entreprises d'intelligence artificielle. Leur message souligne l'urgence d'agir avant que les risques liés à l'IA ne s'aggravent.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/10/sur-l-ia-l-europe-ne-peut-pas-attendre-que-les-risques-deviennent-plus-evidents_6790999_3232.html",
+      "publishedAt": "2026-10-10T13:00:26.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "InstaDeep, un an après son rachat par BioNTech : croissance record et moteur IA stratégique",
+      "originalTitle": "Que devient InstaDeep, trois ans après son rachat record par BioNTech ?",
+      "summary": "Un an après son acquisition record par BioNTech, la startup tunisienne InstaDeep s'est imposée comme le moteur d'intelligence artificielle du groupe. Elle développe des solutions innovantes, notamment des modèles génomiques et la conception d'anticorps, tout en affichant une croissance de chiffre d'affaires de 77% en 2024. InstaDeep continue également de servir des clients majeurs hors du secteur de la santé, consolidant ainsi son influence mondiale.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/que-devient-instadeep-trois-ans-apres-son-rachat-record-par-biontech/",
+      "publishedAt": "2026-10-09T14:51:42.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/17H_LSPNs3USiDeo7apCqMoTROn3b9RJB/view",
+  "generatedAt": "2026-10-11T06:01:31.083Z"
+}
