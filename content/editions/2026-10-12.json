@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-12",
+  "kind": "daily",
+  "dateLabel": "12 octobre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 164,
+  "readingMinutes": 4,
+  "dek": "L'IA au service de la désinformation: Géopolitique Profonde utilise plagiat et sous-traitance",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "L'IA au service de la désinformation: Géopolitique Profonde utilise plagiat et sous-traitance",
+      "originalTitle": "Derrière le site complotiste Géopolitique profonde, plagiat, IA et sous-traitance à Madagascar",
+      "summary": "Le site majeur de la complosphère française, « Géopolitique profonde », a été révélé comme utilisant l'intelligence artificielle pour générer ses contenus. Des rédacteurs basés à Madagascar copient-collent des articles existants, qui sont ensuite soumis à une IA. Cette dernière est chargée de leur conférer une orientation politique très marquée, favorable à la droite, à Trump et à Poutine, tout en étant anti-UE.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/11/derriere-le-site-complotiste-geopolitique-profonde-plagiat-ia-et-sous-traitance-a-madagascar_6791783_3212.html",
+      "publishedAt": "2026-10-11T12:00:01.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Les leaders de l'IA simulent des crises politiques pour anticiper un accident majeur",
+      "originalTitle": "Les géants de l’IA préparent déjà l’après-catastrophe et redoutent deux scénarios en particulier",
+      "summary": "Selon Axios, les dirigeants d'Anthropic, d'OpenAI et d'autres entreprises majeures de l'IA simulent en privé les conséquences politiques d'un premier accident grave causé par l'intelligence artificielle. Ces exercices visent à préparer la gestion de crise et à anticiper les réactions des gouvernements et du public face à un tel événement. Ils soulignent une préoccupation croissante au sein de l'industrie concernant les risques systémiques de l'IA.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2350763-les-geants-de-lia-preparent-deja-lapres-catastrophe-et-redoutent-deux-scenarios-en-particulier.html",
+      "publishedAt": "2026-10-10T07:31:37.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L'outil open source REA révolutionne la rétro-ingénierie logicielle grâce à l'IA, posant déjà des défis juridiques.",
+      "originalTitle": "« Découvrez comment fonctionne le logiciel » : massivement partagé, cet outil IA veut mettre la rétro-ingénierie à la portée de tous",
+      "summary": "L'outil open source REA, connecté aux assistants de code, permet désormais à une intelligence artificielle d'analyser et de décomposer un programme suite à une simple question. Cette innovation rend la rétro-ingénierie logicielle accessible à un public plus large. Cependant, son succès fulgurant soulève déjà d'importantes interrogations d'ordre juridique.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html",
+      "publishedAt": "2026-10-10T08:49:19.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1MKIuM_94o9amGoIOvGizrBXqBC35SQZ3/view",
+  "generatedAt": "2026-10-12T06:01:47.795Z"
+}
