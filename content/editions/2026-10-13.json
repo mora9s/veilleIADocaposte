@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-13",
+  "kind": "daily",
+  "dateLabel": "13 octobre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 165,
+  "readingMinutes": 4,
+  "dek": "Andrej Karpathy révèle l'IA \"invisible\" : des agents capables de cyberattaques, bien au-delà des chatbots grand public",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Andrej Karpathy révèle l'IA \"invisible\" : des agents capables de cyberattaques, bien au-delà des chatbots grand public",
+      "originalTitle": "« Le vertige face à une courbe qui s’emballe » : Andrej Karpathy décrit l’IA que 99,99 % de l’humanité n’a jamais vue",
+      "summary": "Le chercheur Andrej Karpathy met en lumière une divergence frappante dans la perception des capacités de l'intelligence artificielle. Alors que la majorité des utilisateurs interagissent avec des chatbots basiques, une élite de quelques milliers de personnes a déjà accès à des systèmes internes capables de mener des cyberattaques sophistiquées. Cette situation crée un vertige face à une courbe d'évolution technologique qui s'accélère.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/tech/2351069-le-vertige-face-a-une-courbe-qui-semballe-andrej-karpathy-decrit-lia-que-9999-de-lhumanite-na-jamais-vue.html",
+      "publishedAt": "2026-10-12T09:15:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Royaume-Uni : Slough, capitale européenne des data centers, s'oppose à la multiplication des installations",
+      "originalTitle": "Au Royaume-Uni, Slough, capitale européenne des centres de données, se rebelle",
+      "summary": "Le Royaume-Uni fait face à une opposition grandissante concernant les nouveaux projets de centres de données. Cette contestation est particulièrement vive à Slough, ville du Berkshire déjà dotée d'une quarantaine de ces infrastructures. La population locale se mobilise contre la multiplication de ces installations, soulignant les enjeux environnementaux et d'aménagement du territoire.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/12/au-royaume-uni-slough-capitale-europeenne-des-centres-de-donnees-se-rebelle_6792597_3234.html",
+      "publishedAt": "2026-10-12T08:00:09.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "A quel point ChatGPT a-t-il progressé depuis son lancement ?",
+      "originalTitle": "A quel point ChatGPT a-t-il progressé depuis son lancement ?",
+      "summary": "Compréhension, raisonnement, créativité Les chatbots IA ont franchi en bientôt quatre ans plusieurs paliers importants. Les tests en la matière montrent qu’ils restent toutefois gaffeurs, et que leur « tête » demeure plus pleine que bien faite.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/13/a-quel-point-chatgpt-a-t-il-progresse-depuis-son-lancement_6793064_4408996.html",
+      "publishedAt": "2026-10-13T05:00:11.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1v6KrYz37O7FGXjhgik9Qp48Ha37jcOBs/view",
+  "generatedAt": "2026-10-13T06:02:09.858Z"
+}
