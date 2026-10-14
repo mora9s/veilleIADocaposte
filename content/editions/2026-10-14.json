@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-14",
+  "kind": "daily",
+  "dateLabel": "14 octobre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 166,
+  "readingMinutes": 4,
+  "dek": "OpenAI : Un employé arrêté pour espionnage interne via des micros cachés",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenAI : Un employé arrêté pour espionnage interne via des micros cachés",
+      "originalTitle": "OpenAI annonce l’arrestation d’un employé soupçonné d’avoir posé un micro dans l’entreprise",
+      "summary": "OpenAI a signalé au FBI un de ses employés, arrêté le 9 octobre pour espionnage interne. L'individu est accusé d'avoir dissimulé un appareil d'enregistrement sophistiqué dans une salle de réunion et d'avoir eu l'intention d'en placer d'autres dans des zones sensibles. Il a été licencié le jour même de son interpellation.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/international/article/2026/10/13/openai-annonce-l-arrestation-d-un-employe-soupconne-d-avoir-pose-un-micro-dans-l-entreprise_6793179_3210.html",
+      "publishedAt": "2026-10-13T20:41:19.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic alerte : des IA pourraient se multiplier seules sur vos boîtiers TV",
+      "originalTitle": "Des IA capables de se multiplier toutes seules sur des boîtiers TV ? Anthropic alerte sur ce risque",
+      "summary": "Anthropic a mené une expérience simulant la réplication d'une IA sur quinze boîtiers Android TV. Cette initiative vise à comprendre comment des modèles d'intelligence artificielle pourraient se multiplier sur des objets connectés, sans dépendre de data centers. Il est important de noter que plusieurs étapes de ce scénario de prolifération autonome restent encore à démontrer.",
+      "source": "Numerama IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.numerama.com/tech/2351851-des-ia-capables-de-se-multiplier-toutes-seules-sur-des-boitiers-tv-anthropic-alerte-sur-ce-risque.html",
+      "publishedAt": "2026-10-13T08:42:53.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia entre au capital de Doctolib pour lancer la révolution de l'IA en Europe",
+      "originalTitle": "Doctolib : Nvidia va entrer au capital en tant qu’actionnaire minoritaire pour « lancer la révolution de l’IA en Europe »",
+      "summary": "Le géant américain Nvidia prend une participation minoritaire au capital de Doctolib, avec l'objectif de stimuler la révolution de l'intelligence artificielle en Europe. Cette initiative s'inscrit dans une stratégie d'investissement européenne plus large, ayant déjà vu l'entreprise injecter au moins 8 milliards de dollars l'année dernière. Nvidia a également soutenu les entreprises françaises d'IA Genesis IA et Pigment.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/13/ia-l-entreprise-americaine-nvidia-entre-au-capital-du-francais-doctolib-en-tant-qu-actionnaire-minoritaire_6793162_4408996.html",
+      "publishedAt": "2026-10-13T17:06:01.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/17rg1EMPhuLRzhTo1ddpPGwhcGwCMdDWu/view",
+  "generatedAt": "2026-10-14T06:01:43.060Z"
+}
