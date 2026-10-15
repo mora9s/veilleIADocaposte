@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-15",
+  "kind": "daily",
+  "dateLabel": "15 octobre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 167,
+  "readingMinutes": 4,
+  "dek": "Mistral AI : Arthur Mensch met en garde contre une dépendance IA européenne sans précédent historique",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Mistral AI : Arthur Mensch met en garde contre une dépendance IA européenne sans précédent historique",
+      "originalTitle": "Arthur Mensch, directeur général de Mistral AI : « Laisser les modèles d’IA aux Américains et aux Chinois placerait l’Europe dans une dépendance sans équivalent dans l’histoire des civilisations »",
+      "summary": "Arthur Mensch, cofondateur et directeur général de Mistral AI, a publié une tribune dans Le Monde. Il y alerte l'Europe contre le risque d'une dépendance technologique sans précédent si elle laisse l'industrialisation de l'IA aux acteurs américains et chinois. Selon lui, il est crucial que l'Europe développe sa propre IA pour ne pas devenir de simples \"locataires\" de solutions étrangères.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/15/arthur-mensch-directeur-general-de-mistral-ai-laisser-les-modeles-d-ia-aux-americains-et-aux-chinois-placerait-l-europe-dans-une-dependance-sans-equivalent-dans-l-histoire-des-civilisations_6794078_3232.html",
+      "publishedAt": "2026-10-15T04:30:19.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI : un ingénieur arrêté par le FBI pour espionnage interne ; l'IA de l'entreprise aurait aidé à sa détection.",
+      "originalTitle": "Un micro caché dans du papier toilette chez OpenAI : un ingénieur saoudien arrêté par le FBI",
+      "summary": "Un ingénieur d'OpenAI a été interpellé par le FBI suite à la découverte d'un dispositif d'écoute dissimulé dans une salle de réunion de la direction. L'entreprise affirme que ses propres modèles d'intelligence artificielle ont joué un rôle crucial dans l'identification du suspect. Les motivations de l'ingénieur demeurent à ce jour inconnues, soulevant de nombreuses interrogations sur cette affaire d'espionnage interne.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2352825-un-micro-cache-dans-du-papier-toilette-chez-openai-un-ingenieur-saoudien-arrete-par-le-fbi.html",
+      "publishedAt": "2026-10-14T08:05:30.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Epic Games (Fortnite) mise tout sur l'IA, une stratégie vitale face aux coûts croissants du jeu vidéo",
+      "originalTitle": "« Epic Games, le créateur de “Fortnite”, confie les premiers rôles aux machines et l’assume : c’était ça ou mourir »",
+      "summary": "L'industrie du jeu vidéo est confrontée à des coûts de production exorbitants, rendant l'adoption de l'intelligence artificielle quasi inévitable. Epic Games, le studio derrière Fortnite, a choisi d'intégrer l'IA dans des rôles centraux, considérant cette démarche comme essentielle à sa survie. Cette évolution majeure pose la question fondamentale de l'équilibre entre l'efficacité technologique et la préservation de l'âme créative.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/14/epic-games-le-createur-de-fortnite-confie-les-premiers-roles-aux-machines-et-l-assume-c-etait-ca-ou-mourir_6793676_3234.html",
+      "publishedAt": "2026-10-14T08:45:13.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1Y6HTm2Ly2pZqHF8koRlMQz2jO1paujzM/view",
+  "generatedAt": "2026-10-15T06:01:32.284Z"
+}
