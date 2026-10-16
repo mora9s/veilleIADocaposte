@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-16",
+  "kind": "daily",
+  "dateLabel": "16 octobre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 168,
+  "readingMinutes": 4,
+  "dek": "L'IA Jev, non-générative, détournée par injection de prompt via une publicité",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "L'IA Jev, non-générative, détournée par injection de prompt via une publicité",
+      "originalTitle": "« Sous le capot, ce sont des LLM » : le modèle d’IA Jev a beau ne pas écrire, il n’échappe pas à l’injection de prompt",
+      "summary": "L'entreprise de cybersécurité HiddenLayer a démontré la vulnérabilité du modèle d'IA Jev à l'injection de prompt. Bien que Jev ne soit pas un modèle de génération de texte, il repose sur des LLM sous-jacents, le rendant susceptible à cette attaque. Une simple bannière publicitaire a suffi à détourner un agent de navigation l'utilisant.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/cyberguerre/2353507-sous-le-capot-ce-sont-des-llm-le-modele-dia-jev-a-beau-ne-pas-ecrire-il-nechappe-pas-a-linjection-de-prompt.html",
+      "publishedAt": "2026-10-15T08:41:42.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Orange déploie un câble sous-marin majeur pour connecter l'Europe aux data centers IA irlandais",
+      "originalTitle": "Orange investit dans un nouveau câble sous-marin pour relier l’Europe continentale aux centres de données en Irlande",
+      "summary": "Orange investit dans un nouveau câble sous-marin, une autoroute de fibre optique, qui reliera l'Irlande, la France, l'Espagne et le Portugal dès 2029. Ce projet stratégique vise à garantir un accès ultrarapide aux centres de données irlandais des géants technologiques, essentiels pour le développement et l'exploitation des infrastructures d'intelligence artificielle.",
+      "source": "Le Monde IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/14/orange-investit-dans-un-nouveau-cable-sous-marin-pour-relier-l-europe-continentale-aux-centres-de-donnees-en-irlande_6793672_3234.html",
+      "publishedAt": "2026-10-14T08:30:09.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Google double les tarifs de son API Gemini 4 Argon à partir du 1er décembre",
+      "originalTitle": "L’API Gemini 4 Argon doublera ses tarifs le 1er décembre",
+      "summary": "Google a mis à disposition son API Gemini 4 Argon aux développeurs et entreprises le 13 octobre 2026, avec un tarif initial de 2 dollars par million de tokens en entrée et 10 dollars en sortie. Cependant, ces prix sont sur le point de doubler. Cette hausse significative des coûts prendra effet dès le 1er décembre.",
+      "source": "ActuIA",
+      "category": "Produit / API",
+      "url": "https://www.actuia.com/actualite/lapi-gemini-4-argon-doublera-ses-tarifs-le-1er-decembre/",
+      "publishedAt": "2026-10-16T05:32:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1mOCqqRwQGxwS27aBHgNdU3hrpDAC96BV/view",
+  "generatedAt": "2026-10-16T06:02:04.363Z"
+}
