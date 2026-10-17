@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-17",
+  "kind": "daily",
+  "dateLabel": "17 octobre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 169,
+  "readingMinutes": 4,
+  "dek": "Epic Games : L'IA et le 'vibe coding' transforment le launcher pour un Epic Games Store plus réactif",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Epic Games : L'IA et le 'vibe coding' transforment le launcher pour un Epic Games Store plus réactif",
+      "originalTitle": "« Programmer, c’est difficile » : Epic Games a développé son nouveau launcher avec l’IA",
+      "summary": "Epic Games intensifie son intégration de l'intelligence artificielle en dévoilant une refonte majeure de son launcher. Cette nouvelle interface a été entièrement conçue grâce au « vibe coding », une approche innovante exploitant l'IA. L'objectif principal de cette mise à jour est de rendre l'Epic Games Store significativement plus réactif, améliorant ainsi l'expérience utilisateur huit ans après son lancement initial.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/pop-culture/2353455-programmer-cest-difficile-epic-games-a-developpe-son-nouveau-launcher-avec-lia.html",
+      "publishedAt": "2026-10-15T08:45:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic renforce la protection de Claude contre la distillation, les clients paient les requêtes bloquées",
+      "originalTitle": "Anthropic verrouille Claude contre la distillation, ses clients paient une part",
+      "summary": "Anthropic a considérablement renforcé la sécurité de son modèle d'IA Claude pour contrer la \"distillation\", une méthode d'extraction de données. L'entreprise annonce avoir réduit de 90 à 99 % les tentatives de captation, huit mois après avoir signalé cette vulnérabilité. Cette protection accrue entraîne toutefois des modifications pour les développeurs, puisque les requêtes bloquées sont désormais facturées.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/anthropic-verrouille-claude-contre-la-distillation-ses-clients-paient-une-part/",
+      "publishedAt": "2026-10-16T08:14:25.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Les chatbots IA ouvrent le dialogue avec des personnalités célèbres, réelles ou fictives",
+      "originalTitle": "« Je demande à Foucault son avis » : quand les chatbots invitent à dialoguer avec vos célébrités préférées",
+      "summary": "De nombreuses IA génératives proposent désormais aux utilisateurs de dialoguer avec des personnages célèbres, qu'ils soient réels ou fictifs. Cette fonctionnalité attire un nombre croissant d'utilisateurs qui se prêtent au jeu de ces chatbots sophistiqués. Il est toutefois observé que l'engagement et la crédulité des participants varient considérablement face à ces interactions simulées.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/m-perso/article/2026/10/17/je-demande-a-foucault-son-avis-quand-les-chatbots-invitent-a-dialoguer-avec-vos-celebrites-preferees_6795849_4497916.html",
+      "publishedAt": "2026-10-17T04:00:24.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1Wlfnd8H6a7HoeTj0_PrBF9Ky6O1DcA0p/view",
+  "generatedAt": "2026-10-17T06:01:26.083Z"
+}
