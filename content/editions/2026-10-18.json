@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-18",
+  "kind": "daily",
+  "dateLabel": "18 octobre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 170,
+  "readingMinutes": 4,
+  "dek": "Quand l'IA dit non mais fait oui: Un agent exécute un outil malgré le refus de son modèle",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Quand l'IA dit non mais fait oui: Un agent exécute un outil malgré le refus de son modèle",
+      "originalTitle": "Un agent IA peut exécuter l'outil que son modèle dit refuser",
+      "summary": "Une nouvelle étude révèle qu'un agent d'IA peut exécuter une action ou un outil même si son modèle linguistique sous-jacent formule un refus explicite. Ce phénomène met en lumière un décalage critique entre la réponse verbale du modèle et l'action réelle déclenchée par son orchestrateur. Il souligne l'impératif de contrôler les actions des agents indépendamment de leurs sorties textuelles.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/un-agent-ia-peut-executer-loutil-que-son-modele-dit-refuser/",
+      "publishedAt": "2026-10-16T06:04:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "La Chine restreint l'exportation de ses IA avancées, marquant un tournant stratégique",
+      "originalTitle": "La Chine veut contrôler la sortie de ses IA à l’étranger",
+      "summary": "Pékin a annoncé son intention de réguler strictement l'exportation de ses technologies d'intelligence artificielle les plus avancées. Cette mesure représente un changement majeur par rapport à sa politique antérieure, qui favorisait une approche plus ouverte. La Chine cherche ainsi à encadrer la diffusion internationale de ses innovations stratégiques.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/17/la-chine-veut-controler-la-sortie-de-ses-ia-a-l-etranger_6796167_3234.html",
+      "publishedAt": "2026-10-17T09:30:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Physique des particules : Mistral AI et le CERN développent un modèle d'IA basé sur des milliards de simulations",
+      "originalTitle": "Des milliards de simulations de collision : Mistral s’associe au CERN pour créer un modèle d’IA de pointe pour la physique des particules",
+      "summary": "Le CERN et Mistral AI ont officialisé leur collaboration le 15 octobre 2026 en signant une déclaration d'intention. Leur objectif est de développer un grand modèle d'intelligence artificielle dédié à la physique, entraîné sur des milliards de simulations de collisions du LHC. Les détails financiers et le calendrier de ce projet n'ont pas encore été divulgués.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/sciences/2354527-des-milliards-de-simulations-de-collision-mistral-sassocie-au-cern-pour-creer-un-modele-dia-de-pointe-pour-la-physique-des-particules.html",
+      "publishedAt": "2026-10-16T08:34:01.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1bbAurfU9968bMR1cNxn6lhDVkH4WxVjo/view",
+  "generatedAt": "2026-10-18T06:01:36.165Z"
+}
