@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-20",
+  "kind": "daily",
+  "dateLabel": "20 octobre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 172,
+  "readingMinutes": 4,
+  "dek": "Claroty: L'IA reproduit des failles Danfoss en 28 min pour 6$, le CERT-FR alerte",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Claroty: L'IA reproduit des failles Danfoss en 28 min pour 6$, le CERT-FR alerte",
+      "originalTitle": "Danfoss : Claroty reproduit avec l'IA l'exploit de failles connues en 28 minutes pour environ 6 dollars",
+      "summary": "Claroty a démontré en laboratoire qu'un modèle d'IA grand public, guidé par un chercheur, peut reproduire l'exploitation de failles connues sur des contrôleurs industriels Danfoss AK-SM 800A en seulement 28 minutes et pour un coût dérisoire d'environ 6 dollars. Cette expérience, basée sur trois vulnérabilités publiées et corrigées en 2025, souligne la facilité croissante d'automatiser des attaques sophistiquées, même si l'IA a nécessité une réorientation initiale. Face à ce risque, et bien que Claroty ne lie pas cette démonstration à de récentes attaques de supermarchés, le CERT-FR recommande urgemment de déconnecter ces contrôleurs Danfoss d'Internet.",
+      "source": "ActuIA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.actuia.com/actualite/danfoss-claroty-reproduit-avec-lia-lexploit-de-failles-connues-en-28-minutes-pour-environ-6-dollars/",
+      "publishedAt": "2026-10-20T05:00:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Instinct : L'agent IA grand public qui défie OpenAI et Meta, désormais disponible en France",
+      "originalTitle": "On a testé Instinct, l’agent IA grand public qui entend concurrencer ceux d’OpenAI et de Meta",
+      "summary": "L'agent IA Instinct se distingue par sa communication naturelle, sa capacité à offrir une aide spontanée et sa surveillance des messageries. Contrairement à ses rivaux comme Muse de Meta et Dots d'OpenAI, Instinct est déjà accessible en France. Cet assistant ambitionne de rivaliser sérieusement avec les géants de l'intelligence artificielle.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/20/on-a-teste-instinct-l-agent-ia-grand-public-qui-entend-concurrencer-ceux-d-openai-et-de-meta_6797872_4408996.html",
+      "publishedAt": "2026-10-20T05:00:12.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Des agents IA de Google DeepMind terminent Minecraft en 27 heures grâce à une collaboration autonome",
+      "originalTitle": "Des agents IA de Google DeepMind ont bouclé Minecraft en 27 heures en se répartissant les tâches",
+      "summary": "Google DeepMind a déployé quatre agents IA Gemini 4 Argon dans l'environnement de jeu Minecraft. Ces agents ont réussi à compléter le jeu en seulement 27 heures, sans aucune intervention humaine, en se répartissant les tâches de manière autonome. Cette prouesse, détaillée dans une étude du 15 octobre, illustre les avancées en matière de collaboration et d'autonomie des systèmes d'IA.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2355781-des-agents-ia-de-google-deepmind-ont-boucle-minecraft-en-27-heures-en-se-repartissant-les-taches.html",
+      "publishedAt": "2026-10-19T11:00:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1GYRomZsbFW0o1jF6aFAx1dpFmFfJDShj/view",
+  "generatedAt": "2026-10-20T06:01:23.334Z"
+}
