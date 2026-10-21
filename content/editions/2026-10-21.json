@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-21",
+  "kind": "daily",
+  "dateLabel": "21 octobre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 173,
+  "readingMinutes": 4,
+  "dek": "Agents IA : la directive européenne responsabilise les entreprises face aux défauts et dommages",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Agents IA : la directive européenne responsabilise les entreprises face aux défauts et dommages",
+      "originalTitle": "Agents IA : ce que la directive européenne fera payer aux entreprises qui les vendent",
+      "summary": "La directive européenne (UE) 2024/2853, à transposer d'ici fin 2026, établit une responsabilité stricte pour les entreprises qui développent ou commercialisent des agents IA. Ces dernières seront tenues responsables, sans faute, des lésions physiques, des atteintes psychologiques médicalement reconnues et des destructions de données non professionnelles causées par un défaut de leur agent. Il est important de noter que les pertes d'argent ne sont pas couvertes par cette nouvelle réglementation.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/agents-ia-ce-que-la-directive-europeenne-fera-payer-aux-entreprises-qui-les-vendent/",
+      "publishedAt": "2026-10-20T12:30:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Elon Musk prépare la fusion SpaceX-Tesla, unifiant deux acteurs majeurs de l'IA",
+      "originalTitle": "Elon Musk prépare la fusion de SpaceX et de Tesla, qui créerait l’une des sociétés les plus valorisées au monde",
+      "summary": "Elon Musk envisage de fusionner ses entreprises phares, SpaceX et Tesla, pour former l'une des sociétés les plus valorisées au monde. Cette consolidation stratégique est particulièrement pertinente pour la veille IA, car les deux entités sont profondément engagées dans la course à l'intelligence artificielle. Elles développent des projets ambitieux et gourmands en capitaux dans ce domaine.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/21/elon-musk-prepare-la-fusion-de-spacex-et-de-tesla-qui-creerait-l-une-des-societes-les-plus-valorisees-au-monde_6798156_3234.html",
+      "publishedAt": "2026-10-21T03:27:17.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Super Mario 64 : une énigme vieille de 30 ans enfin déchiffrée met fin à une légende urbaine",
+      "originalTitle": "Super Mario 64 : une énigme vieille de 30 ans enfin déchiffrée met fin à une légende urbaine",
+      "summary": "Depuis près de trois décennies, une inscription illisible dans la cour du château de Peach alimente l’une des théories les plus célèbres de l’histoire de Nintendo. Un passionné affirme aujourd’hui avoir retrouvé son véritable message.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/pop-culture/2357061-super-mario-64-une-enigme-vieille-de-30-ans-enfin-dechiffree-met-fin-a-une-legende-urbaine.html",
+      "publishedAt": "2026-10-20T15:10:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1u9-Nlr1us45AnD5iw8dIo7J1quJLfgB0/view",
+  "generatedAt": "2026-10-21T06:02:03.947Z"
+}
