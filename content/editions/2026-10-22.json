@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-22",
+  "kind": "daily",
+  "dateLabel": "22 octobre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 174,
+  "readingMinutes": 4,
+  "dek": "Amazon et Google adaptent PyTorch Nvidia à leurs puces avec TorchNeuron et TorchTPU open source",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Amazon et Google adaptent PyTorch Nvidia à leurs puces avec TorchNeuron et TorchTPU open source",
+      "originalTitle": "Code PyTorch écrit pour Nvidia : ce qu'Amazon et Google font tourner sur leurs puces",
+      "summary": "Amazon et Google ont lancé TorchNeuron et TorchTPU en open source, permettant d'exécuter du code PyTorch initialement conçu pour les GPU Nvidia sur leurs propres puces Trainium et TPU. Ces outils ne prennent pas en charge les noyaux CUDA ou Triton personnalisés, et TorchNeuron, en bêta publique, exige PyTorch 2.14.0 sans formes dynamiques. Bien que des gains de performance soient rapportés par AWS et Deepgram, aucune mesure indépendante n'est encore disponible, suggérant la nécessité de prudence et potentiellement de réécritures de code.",
+      "source": "ActuIA",
+      "category": "Infrastructure IA",
+      "url": "https://www.actuia.com/actualite/code-pytorch-ecrit-pour-nvidia-ce-quamazon-et-google-font-tourner-sur-leurs-puces/",
+      "publishedAt": "2026-10-21T10:51:15.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Un professeur d'Oxford contredit les Big Tech: l'IA risque de freiner la croissance économique.",
+      "originalTitle": "« L’IA pourrait freiner la croissance économique de plusieurs façons »",
+      "summary": "Les géants technologiques de la Silicon Valley vantent les bénéfices de l'intelligence artificielle pour la productivité et la croissance économique. Cependant, Ian Goldin, professeur à Oxford, conteste cette vision optimiste dans une chronique pour Le Monde. Il affirme que ces promesses relèvent de l'illusion et que l'IA pourrait, au contraire, freiner la croissance économique de diverses manières.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/21/l-ia-pourrait-freiner-la-croissance-economique-de-plusieurs-facons_6798275_3232.html",
+      "publishedAt": "2026-10-21T15:00:11.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L'armée américaine développe des agents IA offensifs pour le cyber-espionnage avec supervision minimale",
+      "originalTitle": "« Supervision humaine minimale » : l’armée américaine veut envoyer des agents IA pirater ses ennemis",
+      "summary": "L'armée américaine envisage de confier des missions offensives à des agents d'intelligence artificielle, capables d'explorer des réseaux, de se propager et de neutraliser des cibles. Ce projet, nommé ECHOTRIBBLE, est en développement et soulève des questions importantes concernant le niveau de contrôle humain requis, comme le révèle une enquête de The Intercept.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/cyberguerre/2356515-supervision-humaine-minimale-larmee-americaine-veut-envoyer-des-agents-ia-pirater-ses-ennemis.html",
+      "publishedAt": "2026-10-20T09:10:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/19DaX1j6pWPIwmv7JMtf-2o6GTqBvUcwi/view",
+  "generatedAt": "2026-10-22T06:01:29.650Z"
+}
