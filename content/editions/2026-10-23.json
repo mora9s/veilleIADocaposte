@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-23",
+  "kind": "daily",
+  "dateLabel": "23 octobre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 175,
+  "readingMinutes": 4,
+  "dek": "La Chine renforce l'encadrement des agents d'IA commerciaux avec une régulation par niveaux d'usage",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "La Chine renforce l'encadrement des agents d'IA commerciaux avec une régulation par niveaux d'usage",
+      "originalTitle": "Pékin veut encadrer les agents d'IA du commerce selon leur usage",
+      "summary": "Le 19 octobre 2026, neuf administrations chinoises ont publié un avis de 18 mesures pour le commerce, dont la quinzième encadre spécifiquement les agents d'IA commerciaux. Ce texte applique une gouvernance par niveaux, exigeant enregistrement et tests pour les usages sensibles (guides d'achat, logistique) et une auto-évaluation pour les domaines à faible risque. Bien qu'il s'agisse d'un avis d'orientation sans sanctions ni calendrier précis, il s'inscrit dans la continuité d'une proposition antérieure de contrôle des exportations pour les agents intelligents.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/pekin-veut-encadrer-les-agents-dia-du-commerce-selon-leur-usage/",
+      "publishedAt": "2026-10-22T12:46:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Wall Street s'inquiète : les investissements IA de Meta interrogent la rentabilité du secteur",
+      "originalTitle": "Les inquiétudes sur l’intelligence artificielle font plonger Wall Street",
+      "summary": "Meta, le groupe de Mark Zuckerberg, a annoncé une nouvelle levée de capital pour financer ses investissements colossaux dans l'IA. Cette décision a immédiatement soulevé des interrogations chez les investisseurs. Ils s'interrogent sur la capacité des entreprises du secteur à générer des profits malgré ces dépenses massives.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/23/les-inquietudes-sur-l-intelligence-artificielle-font-plonger-wall-street_6798868_3234.html",
+      "publishedAt": "2026-10-23T02:45:08.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic lance Claude Duet : l'agent IA personnel qui travaille pour vous, à l'instar de Muse et Dots.",
+      "originalTitle": "Anthropic dévoile Claude Duet, un agent IA qui travaille pour vous comme Muse (Meta) et Dots (OpenAI)",
+      "summary": "Anthropic dévoile Claude Duet, une application innovante qui transforme son modèle Claude en un assistant personnel dédié. Cet agent IA est capable de surveiller vos applications, de vous fournir un résumé quotidien de votre activité et d'exécuter des tâches en arrière-plan. Il opère discrètement depuis une machine virtuelle dans le cloud, offrant une gestion proactive de votre environnement numérique.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2358555-anthropic-devoile-claude-duet-un-agent-ia-qui-travaille-pour-vous-comme-muse-meta-et-dots-openai.html",
+      "publishedAt": "2026-10-22T08:26:24.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1mfL6WCXpskGLJcO6y6zS4AxkGQNg03cC/view",
+  "generatedAt": "2026-10-23T06:02:35.328Z"
+}
