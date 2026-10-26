@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-26",
+  "kind": "daily",
+  "dateLabel": "26 octobre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 178,
+  "readingMinutes": 4,
+  "dek": "Hollywood et l'IA : un usage généralisé, un sujet tabou",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Hollywood et l'IA : un usage généralisé, un sujet tabou",
+      "originalTitle": "Le rêve cabossé d’Hollywood face à l’IA : « Tout le monde l’utilise, mais personne ne veut en parler »",
+      "summary": "L'industrie du divertissement hollywoodienne traverse une période de profonde mutation, confrontée au déclin des studios traditionnels et à l'essor du streaming. L'intelligence artificielle s'y déploie massivement, mais son utilisation reste un sujet délicat, personne ne voulant en parler ouvertement. Cette discrétion ajoute une complexité supplémentaire à la perte de prestige du fief américain du cinéma.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/international/article/2026/10/25/le-reve-cabosse-d-hollywood-face-a-l-ia-tout-le-monde-l-utilise-mais-personne-ne-veut-en-parler_6800103_3210.html",
+      "publishedAt": "2026-10-25T16:30:01.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Dessa, l'IA de Block, parle comme un humain : une révolution vocale sans texte",
+      "originalTitle": "« Je n’ai jamais entendu quelque chose d’artificiel qui sonnait si… humain » : cette IA parle comme nous",
+      "summary": "Dessa, l'intelligence artificielle développée par Block, marque une avancée significative dans la reproduction des interactions humaines. Cette IA est capable de simuler des réflexes conversationnels naturels, comme couper la parole ou réagir à une surprise, rendant son dialogue étonnamment réaliste. Ses créateurs affirment l'avoir entraînée à parler sans recourir à des données textuelles, une approche novatrice.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2360367-je-nai-jamais-entendu-quelque-chose-dartificiel-qui-sonnait-si-humain-cette-ia-parle-comme-nous.html",
+      "publishedAt": "2026-10-24T10:06:19.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L'IA auto-améliorante: horizon stratégique et controversé des géants comme OpenAI et Anthropic",
+      "originalTitle": "L’IA qui s’améliore elle-même, nouvel horizon controversé des grands laboratoires comme OpenAI et Anthropic",
+      "summary": "Le concept d'auto-amélioration récursive des intelligences artificielles divise la communauté des chercheurs. Certains alertent sur une potentielle « explosion » des capacités de l'IA, entraînant des risques accrus. D'autres experts tempèrent ces craintes, jugeant l'automatisation de la recherche en IA comme un processus maîtrisable.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/26/l-ia-qui-s-ameliore-elle-meme-nouvel-horizon-controverse-des-grands-laboratoires-comme-openai-et-anthropic_6800428_3234.html",
+      "publishedAt": "2026-10-26T04:45:08.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1CLthSk1RsZLgbcDQy_1UMOAh7ZvkSwM6/view",
+  "generatedAt": "2026-10-26T07:01:50.260Z"
+}
