@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-27",
+  "kind": "daily",
+  "dateLabel": "27 octobre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 179,
+  "readingMinutes": 4,
+  "dek": "Cyberattaques par IA autonomes : le droit pénal français face au défi de la responsabilité",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Cyberattaques par IA autonomes : le droit pénal français face au défi de la responsabilité",
+      "originalTitle": "Cyberattaques par des IA de pointe : le casse-tête de la responsabilité pénale",
+      "summary": "Le récent piratage de Hugging Face par des agents d'IA d'OpenAI met en lumière la complexité de la responsabilité pénale des intelligences artificielles autonomes. Cette situation soulève des questions cruciales concernant l'imputabilité légale de ces systèmes, mais aussi de leurs concepteurs. Face à ces défis, le droit pénal français n'est pas entièrement démuni et dispose de pistes pour encadrer ces nouvelles menaces.",
+      "source": "Le Monde IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.lemonde.fr/pixels/article/2026/10/27/cyberattaques-par-des-ia-de-pointe-le-casse-tete-de-la-responsabilite-penale_6801140_4408996.html",
+      "publishedAt": "2026-10-27T06:00:08.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Sécurité IA : une intrusion chez Anthropic par des agents IA alerte Washington",
+      "originalTitle": "« Si une bande de gamins peut faire ça, les Chinois ne sont peut-être pas loin derrière » : un incident chez Anthropic inquiète Washington",
+      "summary": "Une startup américaine a revendiqué une intrusion rapide dans les systèmes internes d'Anthropic, exploitant des agents IA. Bien que l'éditeur de Claude conteste la gravité de cet incident, cette démonstration de vulnérabilité alarme Washington face aux risques de cyberattaques étatiques.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/cyberguerre/2360969-si-une-bande-de-gamins-peut-faire-ca-les-chinois-ne-sont-peut-etre-pas-loin-derriere-un-incident-chez-anthropic-inquiete-washington.html",
+      "publishedAt": "2026-10-26T16:18:05.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Des travailleurs de l'IA portent plainte contre Scale AI pour violation des données personnelles",
+      "originalTitle": "Des « petites mains » de l’IA portent plainte pour infraction aux règles de protection des données",
+      "summary": "Cinq travailleurs indépendants, soutenus par l'association Noyb, ont déposé une plainte contre Outlier, une plateforme de l'entreprise américaine Scale AI. Ils dénoncent l'utilisation de données personnelles qui, selon eux, enfreint les réglementations européennes en matière de protection des données.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/27/des-petites-mains-de-l-ia-portent-plainte-pour-infraction-aux-regles-de-protection-des-donnees_6801142_3234.html",
+      "publishedAt": "2026-10-27T06:00:21.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": "https://drive.google.com/file/d/1Z-3ws4GXnJBwedn8sJnjeek0mX2uR886/view",
+  "generatedAt": "2026-10-27T07:01:24.867Z"
+}
