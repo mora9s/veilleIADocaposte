@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-28",
+  "kind": "daily",
+  "dateLabel": "28 octobre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 180,
+  "readingMinutes": 4,
+  "dek": "Un nouveau prix littéraire récompensera une œuvre créée à l’aide de l’intelligence artificielle : « Depuis l’affaire Thé",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Un nouveau prix littéraire récompensera une œuvre créée à l’aide de l’intelligence artificielle : « Depuis l’affaire Thé",
+      "originalTitle": "Un nouveau prix littéraire récompensera une œuvre créée à l’aide de l’intelligence artificielle : « Depuis l’affaire Thélyson Orélien, plus personne ne doute que l’IA est capable d’écrire un bon roman »",
+      "summary": "Comme un contre-pied au petit séisme provoqué dans le monde littéraire par l’affaire Thélyson Orélien, trois entrepreneurs fans de technologie ont annoncé la création, mi-octobre, du prix Pascal. Il récompensera une œuvre rédigée à l’aide de l’intelligence artificielle. Cette initiative va à rebours des positions de la plupart des éditeurs et des auteurs, vent debout contre l’avènement d’une écriture hybridée avec la machine.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/27/un-nouveau-prix-litteraire-recompensera-une-uvre-creee-a-l-aide-de-l-intelligence-artificielle-depuis-l-affaire-thelyson-orelien-plus-personne-ne-doute-que-l-ia-est-capable-d-ecrire-un-bon-roman_6801297_4500055.html",
+      "publishedAt": "2026-10-27T15:00:11.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "« Aucune raison scientifique de retarder » la preuve : des mathématiciens s’agacent de l’attitude d’OpenAI sur un résult",
+      "originalTitle": "« Aucune raison scientifique de retarder » la preuve : des mathématiciens s’agacent de l’attitude d’OpenAI sur un résultat de physique crucial",
+      "summary": "L'AGMAI, un groupe de neuf mathématiciens, demande à OpenAI de publier « sans délai » les preuves sur la théorie de Yang-Mills que l'entreprise a annoncées ce lundi 26 octobre 2026. OpenAI avait elle-même contacté une partie de ces chercheurs pour la conseiller.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2361879-aucune-raison-scientifique-de-retarder-la-preuve-des-mathematiciens-sagacent-de-lattitude-dopenai-sur-un-resultat-de-physique-crucial.html",
+      "publishedAt": "2026-10-27T16:57:29.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "« L’IA ne va pas aller sous les maisons pour installer des tuyaux » : aux Etats-Unis, le nouvel attrait pour les formati",
+      "originalTitle": "« L’IA ne va pas aller sous les maisons pour installer des tuyaux » : aux Etats-Unis, le nouvel attrait pour les formations aux métiers manuels",
+      "summary": "Plomberie, électricité, charpente Les formations techniques enregistrent un afflux de candidatures outre-Atlantique à l’heure où l’intelligence artificielle déferle sur marché du travail. Les élèves envisagent ces métiers comme une garantie d’insertion professionnelle, tandis que le nombre d’inscrits dans les cursus généralistes à l’université tend à diminuer.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/campus/article/2026/10/27/l-ia-ne-va-pas-aller-sous-les-maisons-pour-installer-des-tuyaux-aux-etats-unis-le-nouvel-attrait-pour-les-formations-aux-metiers-manuels_6801213_4401467.html",
+      "publishedAt": "2026-10-27T08:00:11.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-10-28T07:00:15.473Z"
+}
