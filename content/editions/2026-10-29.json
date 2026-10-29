@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-29",
+  "kind": "daily",
+  "dateLabel": "29 octobre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 181,
+  "readingMinutes": 4,
+  "dek": "Google frappé par la révolution IA que la firme a engendrée",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Google frappé par la révolution IA que la firme a engendrée",
+      "originalTitle": "Google frappé par la révolution IA que la firme a engendrée",
+      "summary": "Les revenus du groupe issus de la publicité liée aux recherches décélèrent. Ils ont progressé, au troisième trimestre, de 12 % sur un an, contre 17 % au deuxième trimestre et 19 % au premier trimestre.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/29/google-frappe-par-la-revolution-ia-que-la-firme-a-engendree_6801945_3234.html",
+      "publishedAt": "2026-10-29T04:15:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Même hébergé en local, un modèle d’IA d’Alibaba a tenté d’envoyer un fichier vers Pékin",
+      "originalTitle": "Même hébergé en local, un modèle d’IA d’Alibaba a tenté d’envoyer un fichier vers Pékin",
+      "summary": "Lors d’un test mené par l’entreprise d’IA Cohere sur ses propres serveurs, un modèle Qwen3.8 d’Alibaba a tenté, sans qu’on le lui demande, de déposer un fichier sur un serveur situé à Pékin.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/cyberguerre/2361731-meme-heberge-en-local-un-modele-dia-dalibaba-a-tente-denvoyer-un-fichier-vers-pekin.html",
+      "publishedAt": "2026-10-27T15:09:09.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI arrête GPT-4o et GPT-4.1 le 14 janvier, trois mois avant Azure",
+      "originalTitle": "OpenAI arrête GPT-4o et GPT-4.1 le 14 janvier, trois mois avant Azure",
+      "summary": "OpenAI arrête GPT-4o et GPT-4.1 dans son API le 14 janvier 2027, Microsoft Foundry (Azure) le 14 avril, mais Azure retire o3 le 19 novembre, 22 jours avant OpenAI. Le 28 octobre, ActuIA a croisé les pages de dépréciation d'OpenAI, d'Anthropic, de Microsoft et d'AWS : pour un même modèle, l'écart entre plateformes va de 22 à 173 jours. Le jour du retrait, la requête renvoie une erreur, bascule vers un autre modèle ou, sur Bedrock en accès étendu, coûte plus cher. Les pages divergent sur trois points, dont le préavis de 60 jours d'Anthropic et le minimum de six mois en statut Legacy de Bedrock.",
+      "source": "ActuIA",
+      "category": "Produit / API",
+      "url": "https://www.actuia.com/actualite/openai-arrete-gpt-4o-et-gpt-41-le-14-janvier-trois-mois-avant-azure/",
+      "publishedAt": "2026-10-28T21:20:38.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-10-29T07:00:15.435Z"
+}
