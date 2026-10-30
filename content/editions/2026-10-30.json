@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-30",
+  "kind": "daily",
+  "dateLabel": "30 octobre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 182,
+  "readingMinutes": 4,
+  "dek": "Mistral Large 4 est disponible en poids ouverts : ce qui a changé depuis sa présentation",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Mistral Large 4 est disponible en poids ouverts : ce qui a changé depuis sa présentation",
+      "originalTitle": "Mistral Large 4 est disponible en poids ouverts : ce qui a changé depuis sa présentation",
+      "summary": "Mistral AI a publié ce jeudi 29 octobre 2026 les poids de Mistral Large 4, son modèle à 1 000 milliards de paramètres surnommé «&nbsp;Le Chonk&nbsp;». La start-up a profité des trois semaines écoulées depuis la préversion pour l'améliorer nettement en code et en cybersécurité.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/tech/2363685-mistral-large-4-est-disponible-en-poids-ouverts-ce-qui-a-change-depuis-sa-presentation.html",
+      "publishedAt": "2026-10-29T15:18:18.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Conscience artificielle : si l’IA devient sentiente, saurons-nous reconnaître ses droits ?",
+      "originalTitle": "Conscience artificielle : si l’IA devient sentiente, saurons-nous reconnaître ses droits ?",
+      "summary": "Alors que la conscience des IA reste hypothétique, la sensibilité animale, elle, est scientifiquement établie. Envisager des droits pour les machines avant de les reconnaître pleinement aux animaux, un paradoxe moral pour le philosophe et chercheur Martin Gibert.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/29/conscience-artificielle-si-l-ia-devient-sentiente-saurons-nous-reconnaitre-ses-droits_6802310_1650684.html",
+      "publishedAt": "2026-10-29T10:30:17.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Trois mots qui brulent « 15 à 20 % » des tokens : ils publient une astuce pour couper ce gaspillage de Claude Code",
+      "originalTitle": "Trois mots qui brulent « 15 à 20 % » des tokens : ils publient une astuce pour couper ce gaspillage de Claude Code",
+      "summary": "La société Flamerix AI a publié un script qui désactive une fonction peu connue de Claude Code, l’agent de programmation d’Anthropic, qu’elle accuse de consommer jusqu’à 20 % des jetons. Anthropic confirme le mécanisme, mais conteste son ampleur.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2363117-trois-mots-qui-brulent-15-a-20-des-tokens-ils-publient-une-astuce-pour-couper-ce-gaspillage-de-claude-code.html",
+      "publishedAt": "2026-10-29T09:00:39.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-10-30T07:00:15.104Z"
+}
