@@ -1,0 +1,46 @@
+{
+  "slug": "2026-10-31",
+  "kind": "daily",
+  "dateLabel": "31 octobre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 183,
+  "readingMinutes": 4,
+  "dek": "Nettement meilleur en code, Mistral Large 4 débarque enfin sur Hugging Face",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Nettement meilleur en code, Mistral Large 4 débarque enfin sur Hugging Face",
+      "originalTitle": "Nettement meilleur en code, Mistral Large 4 débarque enfin sur Hugging Face",
+      "summary": "Mistral AI a publié ce jeudi 29 octobre 2026 les poids de Mistral Large 4, son modèle à 1 000 milliards de paramètres surnommé «&nbsp;Le Chonk&nbsp;». La start-up a profité des trois semaines écoulées depuis la préversion pour l'améliorer nettement en code et en cybersécurité.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/tech/2363685-nettement-meilleur-en-code-mistral-large-4-debarque-enfin-sur-hugging-face.html",
+      "publishedAt": "2026-10-30T06:35:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI renonce à rogner son forfait Pro à 200 dollars la veille de la baisse",
+      "originalTitle": "OpenAI renonce à rogner son forfait Pro à 200 dollars la veille de la baisse",
+      "summary": "OpenAI a renoncé le 29 octobre à réduire de moitié les quotas Codex et Work du Pro 200, la veille de l'entrée en vigueur, et doublé ceux des Pro 100 et 500. Quatre remises à zéro en août et septembre, un retrait éclair de Claude Code du forfait Pro chez Anthropic en avril, des limites doublées en mai : les prix ne bougent pas, les quotas oui. Le S-1 d'Anthropic montre pourquoi : les abonnements pèsent 20 % du chiffre d'affaires, Claude Code tire la dépense des entreprises, et le calcul manque. Les volumes doivent être écrits dans un contrat.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/openai-renonce-a-rogner-son-forfait-pro-a-200-dollars-la-veille-de-la-baisse/",
+      "publishedAt": "2026-10-30T09:13:58.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "La Bourse de New York saisie d’effroi, à la veille d’Halloween",
+      "originalTitle": "La Bourse de New York saisie d’effroi, à la veille d’Halloween",
+      "summary": "Alors que les inquiétudes s’accumulent sur la rentabilité des investissements massifs des entreprises du secteur de l’intelligence artificielle, les résultats trimestriels décevants de ces géants ont entraîné un fort repli des marchés actions.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/31/la-bourse-de-new-york-saisie-d-effroi-a-la-veille-d-halloween_6803334_3234.html",
+      "publishedAt": "2026-10-31T02:17:22.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-10-31T07:00:15.812Z"
+}
