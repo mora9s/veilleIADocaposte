@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-01",
+  "kind": "daily",
+  "dateLabel": "1 novembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 184,
+  "readingMinutes": 4,
+  "dek": "Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment",
+      "originalTitle": "Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment",
+      "summary": "Le patron d'une start-up de biotech affirme qu'un agent piloté par Claude Sonnet 5 a sélectionné une thérapie génique, a calculé où l'injecter et a guidé lui-même l'aiguille dans le cerveau d'une souris épileptique. Le récit est spectaculaire (et la souris va bien).",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/sciences/2365061-une-ia-a-choisi-un-traitement-et-la-injecte-dans-le-cerveau-dune-souris-ce-quon-sait-vraiment.html",
+      "publishedAt": "2026-10-31T09:35:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots",
+      "originalTitle": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots",
+      "summary": "Google Cloud a ouvert le 27 octobre 2026 en préversion publique Gemini Robotics ER 2, le modèle de Google DeepMind qui découpe les tâches d'un robot, appelle ses commandes et vérifie en vidéo si chaque étape a réussi. Déjà accessible aux développeurs par l'API Gemini depuis juillet, il ne pilote pas les moteurs, et Google laisse la sécurité à l'exploitant. Jusqu'au 31 décembre, son prix affiché est de 1 dollar le million de tokens en entrée et de 5 en sortie, obtenu par 50 % de crédits reversés, puis de 2 et 10 dollars. L'inspection industrielle de Boston Dynamics est le seul usage décrit en exploitation.",
+      "source": "ActuIA",
+      "category": "Produit / API",
+      "url": "https://www.actuia.com/actualite/google-cloud-ouvre-a-ses-clients-gemini-robotics-er-2-qui-planifie-les-taches-des-robots/",
+      "publishedAt": "2026-10-30T10:23:23.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Le Royaume-Uni ouvre une enquête sur les nouvelles conditions commerciales de Meta pour l’utilisation des contenus de mé",
+      "originalTitle": "Le Royaume-Uni ouvre une enquête sur les nouvelles conditions commerciales de Meta pour l’utilisation des contenus de médias, qui pourraient être « déloyales »",
+      "summary": "Ces nouvelles conditions pourraient notamment permettre à Meta d’utiliser les contenus de médias pour ses propres produits, notamment d’intelligence artificielle, sans les consulter.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/30/le-royaume-uni-ouvre-une-enquete-sur-les-nouvelles-conditions-commerciales-de-meta-pour-l-utilisation-des-contenus-de-medias-qui-pourraient-etre-deloyales_6803098_3234.html",
+      "publishedAt": "2026-10-30T14:28:10.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-01T07:00:14.681Z"
+}
