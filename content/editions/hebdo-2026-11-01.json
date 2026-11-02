@@ -1,0 +1,91 @@
+{
+  "slug": "hebdo-2026-11-01",
+  "kind": "weekly",
+  "publicationDate": "2026-11-01",
+  "periodStart": "2026-10-26",
+  "periodEnd": "2026-11-01",
+  "dateLabel": "1 novembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 9,
+  "readingMinutes": 5,
+  "dek": "Les cinq signaux qui ont structuré l’actualité IA du 2026-10-26 au 2026-11-01.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment",
+      "originalTitle": "Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment",
+      "summary": "Le patron d'une start-up de biotech affirme qu'un agent piloté par Claude Sonnet 5 a sélectionné une thérapie génique, a calculé où l'injecter et a guidé lui-même l'aiguille dans le cerveau d'une souris épileptique. Le récit est spectaculaire (et la souris va bien).",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/sciences/2365061-une-ia-a-choisi-un-traitement-et-la-injecte-dans-le-cerveau-dune-souris-ce-quon-sait-vraiment.html",
+      "publishedAt": "2026-10-31T09:35:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Nettement meilleur en code, Mistral Large 4 débarque enfin sur Hugging Face",
+      "originalTitle": "Nettement meilleur en code, Mistral Large 4 débarque enfin sur Hugging Face",
+      "summary": "Mistral AI a publié ce jeudi 29 octobre 2026 les poids de Mistral Large 4, son modèle à 1 000 milliards de paramètres surnommé «&nbsp;Le Chonk&nbsp;». La start-up a profité des trois semaines écoulées depuis la préversion pour l'améliorer nettement en code et en cybersécurité.",
+      "source": "Numerama IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.numerama.com/tech/2363685-nettement-meilleur-en-code-mistral-large-4-debarque-enfin-sur-hugging-face.html",
+      "publishedAt": "2026-10-30T06:35:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Google frappé par la révolution IA que la firme a engendrée",
+      "originalTitle": "Google frappé par la révolution IA que la firme a engendrée",
+      "summary": "Les revenus du groupe issus de la publicité liée aux recherches décélèrent. Ils ont progressé, au troisième trimestre, de 12 % sur un an, contre 17 % au deuxième trimestre et 19 % au premier trimestre.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/29/google-frappe-par-la-revolution-ia-que-la-firme-a-engendree_6801945_3234.html",
+      "publishedAt": "2026-10-29T04:15:00.000Z",
+      "accent": "orange"
+    },
+    {
+      "rank": 4,
+      "title": "Un nouveau prix littéraire récompensera une œuvre créée à l’aide de l’intelligence artificielle : « Depuis l’affaire Thé",
+      "originalTitle": "Un nouveau prix littéraire récompensera une œuvre créée à l’aide de l’intelligence artificielle : « Depuis l’affaire Thé",
+      "summary": "Comme un contre-pied au petit séisme provoqué dans le monde littéraire par l’affaire Thélyson Orélien, trois entrepreneurs fans de technologie ont annoncé la création, mi-octobre, du prix Pascal. Il récompensera une œuvre rédigée à l’aide de l’intelligence artificielle. Cette initiative va à rebours des positions de la plupart des éditeurs et des auteurs, vent debout contre l’avènement d’une écriture hybridée avec la machine.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/27/un-nouveau-prix-litteraire-recompensera-une-uvre-creee-a-l-aide-de-l-intelligence-artificielle-depuis-l-affaire-thelyson-orelien-plus-personne-ne-doute-que-l-ia-est-capable-d-ecrire-un-bon-roman_6801297_4500055.html",
+      "publishedAt": "2026-10-27T15:00:11.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 5,
+      "title": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots",
+      "originalTitle": "Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots",
+      "summary": "Google Cloud a ouvert le 27 octobre 2026 en préversion publique Gemini Robotics ER 2, le modèle de Google DeepMind qui découpe les tâches d'un robot, appelle ses commandes et vérifie en vidéo si chaque étape a réussi. Déjà accessible aux développeurs par l'API Gemini depuis juillet, il ne pilote pas les moteurs, et Google laisse la sécurité à l'exploitant. Jusqu'au 31 décembre, son prix affiché est de 1 dollar le million de tokens en entrée et de 5 en sortie, obtenu par 50 % de crédits reversés, puis de 2 et 10 dollars. L'inspection industrielle de Boston Dynamics est le seul usage décrit en exploitation.",
+      "source": "ActuIA",
+      "category": "Produit / API",
+      "url": "https://www.actuia.com/actualite/google-cloud-ouvre-a-ses-clients-gemini-robotics-er-2-qui-planifie-les-taches-des-robots/",
+      "publishedAt": "2026-10-30T10:23:23.000Z",
+      "accent": "violet"
+    }
+  ],
+  "insights": [
+    {
+      "title": "Sécurité et contrôle des systèmes",
+      "body": "Les sujets « Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment » et « Nettement meilleur en code, Mistral Large 4 débarque enfin sur Hugging Face » montrent que les capacités progressent avec des exigences accrues de contrôle, de traçabilité et de responsabilité."
+    },
+    {
+      "title": "Des choix structurants pour les organisations",
+      "body": "Les annonces autour de « Google frappé par la révolution IA que la firme a engendrée » obligent les organisations à réévaluer leurs dépendances, leurs garanties et leurs priorités d’investissement."
+    },
+    {
+      "title": "Une adoption désormais observée dans ses effets",
+      "body": "Les signaux liés à « Un nouveau prix littéraire récompensera une œuvre créée à l’aide de l’intelligence artificielle : « Depuis l’affaire Thé » et « Google Cloud ouvre à ses clients Gemini Robotics ER 2, qui planifie les tâches des robots » déplacent l’attention de la démonstration technologique vers les conséquences concrètes et les conditions d’usage."
+    }
+  ],
+  "watchlist": [
+    "Les suites concrètes de « Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment » et les confirmations publiées par les acteurs concernés.",
+    "Les suites concrètes de « Nettement meilleur en code, Mistral Large 4 débarque enfin sur Hugging Face » et les confirmations publiées par les acteurs concernés.",
+    "Les suites concrètes de « Google frappé par la révolution IA que la firme a engendrée » et les confirmations publiées par les acteurs concernés."
+  ],
+  "audioUrl": null,
+  "audioMinutes": null,
+  "generatedAt": "2026-11-01T18:00:00.000Z"
+}
