@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-02",
+  "kind": "daily",
+  "dateLabel": "2 novembre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 185,
+  "readingMinutes": 4,
+  "dek": "« Ça me fait du bien d’avoir quelqu’un à qui parler » : en Corée du Sud, des seniors trompent leur solitude grâce à des",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "« Ça me fait du bien d’avoir quelqu’un à qui parler » : en Corée du Sud, des seniors trompent leur solitude grâce à des",
+      "originalTitle": "« Ça me fait du bien d’avoir quelqu’un à qui parler » : en Corée du Sud, des seniors trompent leur solitude grâce à des poupées dotées d’IA",
+      "summary": "« Cartes vermeil ». Une fois par mois, un de nos journalistes raconte comment on vieillit hors de nos frontières. Pour faire face à l’isolement croissant de ses nombreux citoyens du troisième âge, le gouvernement coréen finance des robots-compagnons qui assurent une « présence » à domicile.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/intimites/article/2026/11/01/ca-me-fait-du-bien-d-avoir-quelqu-un-a-qui-parler-en-coree-du-sud-des-seniors-trompent-leur-solitude-grace-a-des-poupees-dotees-d-ia_6804519_6190330.html",
+      "publishedAt": "2026-11-01T16:00:13.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "« Conçu pour les situations d’urgence » : cette IA hors ligne veut vous aider à survivre à la fin du monde, ou au moins",
+      "originalTitle": "« Conçu pour les situations d’urgence » : cette IA hors ligne veut vous aider à survivre à la fin du monde, ou au moins à une panne de courant",
+      "summary": "Survival LLM est un assistant gratuit qui fonctionne entièrement sur votre ordinateur, sans connexion à Internet. Il répond aux questions de premiers secours ou de survie en s’appuyant sur une bibliothèque de références embarquée.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2364545-concu-pour-les-situations-durgence-cette-ia-hors-ligne-veut-vous-aider-a-survivre-a-la-fin-du-monde-ou-au-moins-a-une-panne-de-courant.html",
+      "publishedAt": "2026-11-01T19:30:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L’actualité IA, secteur par secteur : ActuIA ouvre sa revue sectorielle de l'intelligence artificielle",
+      "originalTitle": "L’actualité IA, secteur par secteur : ActuIA ouvre sa revue sectorielle de l'intelligence artificielle",
+      "summary": "ActuIA met gratuitement à disposition de ses membres une revue d'actualité IA regroupant plus de 1 300 brèves des trente derniers jours, classées par secteur et reliées à leur source. Chaque secteur peut être suivi en un clic pour alimenter une veille personnalisée.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/lactualite-ia-du-mois-secteur-par-secteur-actuia-ouvre-sa-revue/",
+      "publishedAt": "2026-11-02T06:30:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-02T07:00:14.943Z"
+}
