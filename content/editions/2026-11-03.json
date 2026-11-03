@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-03",
+  "kind": "daily",
+  "dateLabel": "3 novembre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 186,
+  "readingMinutes": 4,
+  "dek": "Comment l’IA permet aux bidouilleurs de « décompiler », de fusionner ou de copier plus rapidement des jeux vidéo",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Comment l’IA permet aux bidouilleurs de « décompiler », de fusionner ou de copier plus rapidement des jeux vidéo",
+      "originalTitle": "Comment l’IA permet aux bidouilleurs de « décompiler », de fusionner ou de copier plus rapidement des jeux vidéo",
+      "summary": "Depuis des années, des communautés de passionnés travaillent d’arrache-pied pour déchiffrer et reproduire le code de certains jeux afin de les réinventer ou de les faire fonctionner sur d’autres machines. Mais l’arrivée fulgurante de l’intelligence artificielle vient tout bouleverser.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/02/comment-l-ia-permet-aux-bidouilleurs-de-decompiler-de-fusionner-ou-de-copier-plus-rapidement-des-jeux-video_6805311_4408996.html",
+      "publishedAt": "2026-11-02T19:00:08.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Recréer vos jeux préférés avec l’IA, c’est fini ? Anthropic impose une nouvelle règle",
+      "originalTitle": "Recréer vos jeux préférés avec l’IA, c’est fini ? Anthropic impose une nouvelle règle",
+      "summary": "Alors que les recréations de jeux vidéo avec l’IA se multiplient, Anthropic demande à Claude Code de refuser les copies de titres existants, selon un message publié par un membre de l'entreprise le 30 octobre 2026. La firme invoque la propriété intellectuelle, mais la frontière entre inspiration et reproduction fait débat.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2365593-recreer-vos-jeux-preferes-avec-lia-cest-fini-anthropic-impose-une-nouvelle-regle.html",
+      "publishedAt": "2026-11-02T10:53:20.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
+      "originalTitle": "Le Canada obtient un siège au conseil des supercalculateurs d'EuroHPC",
+      "summary": "Le Canada devient le 39e État participant de l'entreprise commune EuroHPC et obtient un siège au conseil qui décide des achats de supercalculateurs et des usines d'IA européennes. Les conditions d'accès et la contribution canadienne n'ont pas été précisées.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/le-canada-obtient-un-siege-au-conseil-des-supercalculateurs-deurohpc/",
+      "publishedAt": "2026-11-02T09:28:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-03T07:00:15.798Z"
+}
