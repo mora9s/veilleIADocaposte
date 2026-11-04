@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-04",
+  "kind": "daily",
+  "dateLabel": "4 novembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 187,
+  "readingMinutes": 4,
+  "dek": "Anthropic pense approcher d’un tournant majeur dans l’IA, mais pourrait ne pas le voir venir",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Anthropic pense approcher d’un tournant majeur dans l’IA, mais pourrait ne pas le voir venir",
+      "originalTitle": "Anthropic pense approcher d’un tournant majeur dans l’IA, mais pourrait ne pas le voir venir",
+      "summary": "Anthropic estime que ses futurs modèles d'intelligence artificielle pourraient bientôt accélérer considérablement le développement de leurs successeurs. Mais l'entreprise derrière Claude reconnaît ne pas toujours détecter ces accélérations à temps, au risque de voir ses mesures de sécurité dépassées.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2366209-anthropic-pense-approcher-dun-tournant-majeur-dans-lia-mais-pourrait-ne-pas-le-voir-venir.html",
+      "publishedAt": "2026-11-03T09:42:51.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "« Anthropic en Bourse : l’apocalypse est-elle un risque d’investissement comme un autre ? »",
+      "originalTitle": "« Anthropic en Bourse : l’apocalypse est-elle un risque d’investissement comme un autre ? »",
+      "summary": "L’entreprise d’intelligence artificielle détaille dans son document d’introduction en Bourse les risques « catastrophiques ou existentiels » que fait peser cette technologie sur l’humanité. Mais les perspectives de profits semblent l’emporter sur les dangers pour la collectivité, souligne dans sa chronique Stéphane Lauer, éditorialiste au « Monde ».",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/02/anthropic-en-bourse-l-apocalypse-est-elle-un-risque-d-investissement-comme-un-autre_6805221_3232.html",
+      "publishedAt": "2026-11-02T09:00:12.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+      "originalTitle": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+      "summary": "Une enquête de l'administration judiciaire sud-coréenne révèle qu'environ 80 % des juges civils, familiaux et administratifs ayant répondu ont reçu des écritures citant des décisions fausses ou inexistantes, attribuées à l'IA. L'institution plaide pour une base légale, notamment une amende, dans les codes de procédure, sans préciser de montant ni de calendrier.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/",
+      "publishedAt": "2026-11-02T10:30:26.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-04T07:00:15.273Z"
+}
