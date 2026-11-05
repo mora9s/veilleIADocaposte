@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-05",
+  "kind": "daily",
+  "dateLabel": "5 novembre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 188,
+  "readingMinutes": 4,
+  "dek": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de stabilité et de statu quo",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de stabilité et de statu quo",
+      "originalTitle": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de stabilité et de statu quo",
+      "summary": "Les principaux indices boursiers américains ont clôturé dans le vert, mercredi, et les taux à dix ans sur les bons du Trésor ont connu une légère baisse, les marchés anticipant positivement une situation de blocage à Washington après deux ans de montagnes russes.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/05/midterms-2026-wall-street-salue-la-vague-democrate-au-congres-et-ses-promesses-de-certitudes-et-de-statu-quo_6806670_3234.html",
+      "publishedAt": "2026-11-05T04:00:03.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Les gagnants de ce concours de court-métrage nous ont fait changer d’avis sur l’IA en vidéo (et ils sont repartis avec 1",
+      "originalTitle": "Les gagnants de ce concours de court-métrage nous ont fait changer d’avis sur l’IA en vidéo (et ils sont repartis avec 1 million de dollars)",
+      "summary": "5 000 films, 176 pays, un million de dollars de prix : le festival de cinéma IA de la start-up Higgsfield a livré son podium. Et les gagnants ont produit des œuvres hallucinantes, loin du slop vu et revu sur les réseaux sociaux.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2367773-les-gagnants-de-ce-concours-de-court-metrage-nous-ont-fait-changer-davis-sur-lia-en-video-et-ils-sont-repartis-avec-1-million-de-dollars.html",
+      "publishedAt": "2026-11-04T15:50:47.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Témoignage : un immense data center de ChatGPT s’installe à côté de chez lui",
+      "originalTitle": "Témoignage : un immense data center de ChatGPT s’installe à côté de chez lui",
+      "summary": "Au Texas, OpenAI, la firme qui a inventé ChaptGPT, construit un immense data center alimenté en électricité grâce à des turbines au gaz. « Le Monde » a pu filmer sur place.",
+      "source": "Le Monde IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.lemonde.fr/international/video/2026/11/03/temoignage-un-immense-data-center-de-chatgpt-s-installe-a-cote-de-chez-lui_6805598_3210.html",
+      "publishedAt": "2026-11-03T14:12:54.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-05T07:00:15.219Z"
+}
