@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-07",
+  "kind": "daily",
+  "dateLabel": "7 novembre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 190,
+  "readingMinutes": 4,
+  "dek": "A Taïwan, la frénésie pour les valeurs boursières liées à l’IA : « Ma mère en achète et en revend le même jour. Ses amis",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "A Taïwan, la frénésie pour les valeurs boursières liées à l’IA : « Ma mère en achète et en revend le même jour. Ses amis",
+      "originalTitle": "A Taïwan, la frénésie pour les valeurs boursières liées à l’IA : « Ma mère en achète et en revend le même jour. Ses amis font pareil »",
+      "summary": "L’envolée du cours de Bourse de TSMC, seule entreprise au monde capable de produire les processeurs indispensables au fonctionnement des meilleures intelligences artificielles, alimente l’engouement des habitants de l’île pour l’investissement, au risque de creuser les inégalités financières dans l’île.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/06/a-taiwan-la-frenesie-pour-les-valeurs-boursieres-liees-a-l-ia-ma-mere-en-achete-et-en-revend-le-meme-jour-ses-amis-font-pareil_6807795_3234.html",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Sous pression des mathématiciens, les physiciens chargés de vérifier la preuve secrète d’OpenAI promettent une publicati",
+      "originalTitle": "Sous pression des mathématiciens, les physiciens chargés de vérifier la preuve secrète d’OpenAI promettent une publication très bientôt",
+      "summary": "Le comité de cinq physiciens chargé de vérifier la preuve d'OpenAI sur la théorie de Yang-Mills espère publier sa version informatique la semaine prochaine, selon un communiqué daté du 3 novembre 2026. Les 1 147 pages rédigées par l'IA restent sous clé.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/sciences/2368299-sous-pression-des-mathematiciens-les-physiciens-charges-de-verifier-la-preuve-secrete-dopenai-promettent-une-publication-tres-bientot.html",
+      "publishedAt": "2026-11-05T10:50:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "« Le grand danger serait une vision de la recherche mathématique cantonnée à sa partie la plus vulnérable à l’IA »",
+      "originalTitle": "« Le grand danger serait une vision de la recherche mathématique cantonnée à sa partie la plus vulnérable à l’IA »",
+      "summary": "En réduisant le domaine aux seuls problèmes que l’intelligence artificielle sait résoudre, c’est le travail des chercheurs, à la croisée des disciplines, qui est menacé, alertent les mathématiciens Stéphane Jaffard et Yves Meyer, dans une tribune au « Monde ».",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/05/le-grand-danger-serait-une-vision-de-la-recherche-mathematique-cantonnee-a-sa-partie-la-plus-vulnerable-a-l-ia_6806850_1650684.html",
+      "publishedAt": "2026-11-05T10:30:04.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-07T07:00:15.859Z"
+}
