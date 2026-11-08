@@ -1,0 +1,91 @@
+{
+  "slug": "hebdo-2026-11-08",
+  "kind": "weekly",
+  "publicationDate": "2026-11-08",
+  "periodStart": "2026-11-02",
+  "periodEnd": "2026-11-08",
+  "dateLabel": "8 novembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 10,
+  "readingMinutes": 5,
+  "dek": "Les cinq signaux qui ont structuré l’actualité IA du 2026-11-02 au 2026-11-08.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocrati",
+      "originalTitle": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocrati",
+      "summary": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets européens à l’horizon 2029 : IA, énergie et défense.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
+      "publishedAt": "2026-11-08T05:30:11.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "A Taïwan, la frénésie pour les valeurs boursières liées à l’IA : « Ma mère en achète et en revend le même jour. Ses amis",
+      "originalTitle": "A Taïwan, la frénésie pour les valeurs boursières liées à l’IA : « Ma mère en achète et en revend le même jour. Ses amis",
+      "summary": "L’envolée du cours de Bourse de TSMC, seule entreprise au monde capable de produire les processeurs indispensables au fonctionnement des meilleures intelligences artificielles, alimente l’engouement des habitants de l’île pour l’investissement, au risque de creuser les inégalités financières dans l’île.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/06/a-taiwan-la-frenesie-pour-les-valeurs-boursieres-liees-a-l-ia-ma-mere-en-achete-et-en-revend-le-meme-jour-ses-amis-font-pareil_6807795_3234.html",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic pense approcher d’un tournant majeur dans l’IA, mais pourrait ne pas le voir venir",
+      "originalTitle": "Anthropic pense approcher d’un tournant majeur dans l’IA, mais pourrait ne pas le voir venir",
+      "summary": "Anthropic estime que ses futurs modèles d'intelligence artificielle pourraient bientôt accélérer considérablement le développement de leurs successeurs. Mais l'entreprise derrière Claude reconnaît ne pas toujours détecter ces accélérations à temps, au risque de voir ses mesures de sécurité dépassées.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2366209-anthropic-pense-approcher-dun-tournant-majeur-dans-lia-mais-pourrait-ne-pas-le-voir-venir.html",
+      "publishedAt": "2026-11-03T09:42:51.000Z",
+      "accent": "orange"
+    },
+    {
+      "rank": 4,
+      "title": "« Ne méprisez pas l’intelligence de vos utilisateurs » : des développeurs accusent Claude Code de divulguer leur adresse",
+      "originalTitle": "« Ne méprisez pas l’intelligence de vos utilisateurs » : des développeurs accusent Claude Code de divulguer leur adresse",
+      "summary": "Un ticket GitHub très commenté accuse Claude Code d’avoir transmis l’adresse email de ses utilisateurs à des sites tiers pendant des recherches web. Un correctif existe depuis le 3 novembre, mais il ne bloque qu’une partie des cas.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/cyberguerre/2369181-ne-meprisez-pas-lintelligence-de-vos-utilisateurs-des-developpeurs-accusent-claude-code-de-divulguer-leur-adresse-email-a-des-sites-web.html",
+      "publishedAt": "2026-11-06T12:30:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 5,
+      "title": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+      "originalTitle": "La justice coréenne plaide pour une amende contre les faux arrêts de l'IA",
+      "summary": "Une enquête de l'administration judiciaire sud-coréenne révèle qu'environ 80 % des juges civils, familiaux et administratifs ayant répondu ont reçu des écritures citant des décisions fausses ou inexistantes, attribuées à l'IA. L'institution plaide pour une base légale, notamment une amende, dans les codes de procédure, sans préciser de montant ni de calendrier.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/la-justice-coreenne-plaide-pour-une-amende-contre-les-faux-arrets-de-lia/",
+      "publishedAt": "2026-11-02T10:30:26.000Z",
+      "accent": "violet"
+    }
+  ],
+  "insights": [
+    {
+      "title": "Sécurité et contrôle des systèmes",
+      "body": "Les sujets « François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocrati » et « A Taïwan, la frénésie pour les valeurs boursières liées à l’IA : « Ma mère en achète et en revend le même jour. Ses amis » montrent que les capacités progressent avec des exigences accrues de contrôle, de traçabilité et de responsabilité."
+    },
+    {
+      "title": "Des choix structurants pour les organisations",
+      "body": "Les annonces autour de « Anthropic pense approcher d’un tournant majeur dans l’IA, mais pourrait ne pas le voir venir » obligent les organisations à réévaluer leurs dépendances, leurs garanties et leurs priorités d’investissement."
+    },
+    {
+      "title": "Une adoption désormais observée dans ses effets",
+      "body": "Les signaux liés à « « Ne méprisez pas l’intelligence de vos utilisateurs » : des développeurs accusent Claude Code de divulguer leur adresse » et « La justice coréenne plaide pour une amende contre les faux arrêts de l'IA » déplacent l’attention de la démonstration technologique vers les conséquences concrètes et les conditions d’usage."
+    }
+  ],
+  "watchlist": [
+    "Les suites concrètes de « François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocrati » et les confirmations publiées par les acteurs concernés.",
+    "Les suites concrètes de « A Taïwan, la frénésie pour les valeurs boursières liées à l’IA : « Ma mère en achète et en revend le même jour. Ses amis » et les confirmations publiées par les acteurs concernés.",
+    "Les suites concrètes de « Anthropic pense approcher d’un tournant majeur dans l’IA, mais pourrait ne pas le voir venir » et les confirmations publiées par les acteurs concernés."
+  ],
+  "audioUrl": null,
+  "audioMinutes": null,
+  "generatedAt": "2026-11-08T18:00:00.000Z"
+}
