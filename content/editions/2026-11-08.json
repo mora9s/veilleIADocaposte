@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-08",
+  "kind": "daily",
+  "dateLabel": "8 novembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 191,
+  "readingMinutes": 4,
+  "dek": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocrati",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocrati",
+      "originalTitle": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+      "summary": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets européens à l’horizon 2029 : IA, énergie et défense.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
+      "publishedAt": "2026-11-08T05:30:11.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "« Ne méprisez pas l’intelligence de vos utilisateurs » : des développeurs accusent Claude Code de divulguer leur adresse",
+      "originalTitle": "« Ne méprisez pas l’intelligence de vos utilisateurs » : des développeurs accusent Claude Code de divulguer leur adresse email à des sites web",
+      "summary": "Un ticket GitHub très commenté accuse Claude Code d’avoir transmis l’adresse email de ses utilisateurs à des sites tiers pendant des recherches web. Un correctif existe depuis le 3 novembre, mais il ne bloque qu’une partie des cas.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/cyberguerre/2369181-ne-meprisez-pas-lintelligence-de-vos-utilisateurs-des-developpeurs-accusent-claude-code-de-divulguer-leur-adresse-email-a-des-sites-web.html",
+      "publishedAt": "2026-11-06T12:30:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Jensen Huang, le patron de Nvidia, soupçonné aux Etats-Unis d’avoir été espionné par une entrepreneuse chinoise dans le",
+      "originalTitle": "Jensen Huang, le patron de Nvidia, soupçonné aux Etats-Unis d’avoir été espionné par une entrepreneuse chinoise dans le cadre d’une relation sentimentale",
+      "summary": "Selon des révélations du « New York Times », Jensen Huang, dont l’entreprise fabrique des puces de pointe indispensables au développement de l’intelligence artificielle, aurait entretenu des rapports avec une cheffe d’entreprise, Alice Huang, recrutée par Pékin. Il a été invité à s’en expliquer devant des parlementaires.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+      "publishedAt": "2026-11-08T04:55:15.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-08T07:00:15.123Z"
+}
