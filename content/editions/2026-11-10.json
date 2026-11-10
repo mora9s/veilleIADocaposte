@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-10",
+  "kind": "daily",
+  "dateLabel": "10 novembre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 193,
+  "readingMinutes": 4,
+  "dek": "Le naufrage du projet Matador au Texas, prélude au coup de frein sur les data centers",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Le naufrage du projet Matador au Texas, prélude au coup de frein sur les data centers",
+      "originalTitle": "Le naufrage du projet Matador au Texas, prélude au coup de frein sur les data centers",
+      "summary": "L’un des plus gros centres de données en construction dans le pays est déjà à vendre et la valeur de l’entreprise a fondu, au moment où les élections de mi-mandat, le 3 novembre, ont marqué un fort rejet de ces infrastructures nécessaires au développement des intelligences artificielles.",
+      "source": "Le Monde IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/10/etats-unis-le-naufrage-du-projet-matador-au-texas-prelude-au-coup-de-frein-sur-les-data-centers_6808778_3234.html",
+      "publishedAt": "2026-11-10T04:00:25.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Ce robot croit viser une pomme, mais c’est un poupon qui se trouve sous son couteau",
+      "originalTitle": "Ce robot croit viser une pomme, mais c’est un poupon qui se trouve sous son couteau",
+      "summary": "Des chercheurs ont modifié les images reçues par des IA pour leur faire tenter des gestes dangereux avec un robot. Même les modèles qui refusaient jusque-là peuvent s’exécuter lorsqu’ils ne voient plus correctement la scène.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2370721-ce-robot-croit-viser-une-pomme-mais-cest-un-poupon-qui-se-trouve-sous-son-couteau.html",
+      "publishedAt": "2026-11-09T15:25:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L’Australie va renforcer sa régulation de l’IA après un piratage de plateformes gouvernementales par un modèle d’OpenAI",
+      "originalTitle": "L’Australie va renforcer sa régulation de l’IA après un piratage de plateformes gouvernementales par un modèle d’OpenAI",
+      "summary": "Une nouvelle autorité de régulation va être créée dans le but de mieux encadrer le secteur. Cela survient après qu’un agent autonome d’OpenAI a infiltré un site Internet du gouvernement australien en juin.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/10/l-australie-va-renforcer-sa-regulation-de-l-ia-apres-un-piratage-de-plateformes-gouvernementales-par-un-modele-d-openai_6808770_4408996.html",
+      "publishedAt": "2026-11-10T03:41:33.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-10T07:00:14.664Z"
+}
