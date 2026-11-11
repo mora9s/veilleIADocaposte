@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-11",
+  "kind": "daily",
+  "dateLabel": "11 novembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 194,
+  "readingMinutes": 4,
+  "dek": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de",
+      "originalTitle": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+      "summary": "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
+      "publishedAt": "2026-11-10T18:43:56.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "« Ram Altman » : il crée un script qui signale au patron d’OpenAI la RAM qui dort dans votre PC",
+      "originalTitle": "« Ram Altman » : il crée un script qui signale au patron d’OpenAI la RAM qui dort dans votre PC",
+      "summary": "La RAM n’a jamais coûté aussi cher, et Sam Altman trouve qu’elle est mal utilisée dans nos ordinateurs. La réponse d’un développeur : un script qui signale chaque jour au patron d’OpenAI la mémoire qui dort dans votre PC.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2371375-ram-altman-il-cree-un-script-qui-signale-au-patron-dopenai-la-ram-qui-dort-dans-votre-pc.html",
+      "publishedAt": "2026-11-10T11:03:30.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur",
+      "originalTitle": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
+      "summary": "A la veille du Forum de Paris sur la paix, Emmanuel Macron a organisé une déclaration plaidant pour des standards communs de classement des incidents liés à l’intelligence artificielle et à des évaluations indépendantes.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/09/securite-de-l-ia-l-elysee-fait-signer-un-appel-de-paris-a-huit-pays-ainsi-qu-a-sam-altman-dario-amodei-et-arthur-mensch_6808706_3234.html",
+      "publishedAt": "2026-11-09T22:35:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-11T07:00:15.157Z"
+}
