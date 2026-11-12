@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-12",
+  "kind": "daily",
+  "dateLabel": "12 novembre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 195,
+  "readingMinutes": 4,
+  "dek": "OpenAI lance la fiche « Google My Business » de ChatGPT, avec un agent IA en prime",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenAI lance la fiche « Google My Business » de ChatGPT, avec un agent IA en prime",
+      "originalTitle": "OpenAI lance la fiche « Google My Business » de ChatGPT, avec un agent IA en prime",
+      "summary": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche dans le chatbot, d'y corriger leurs infos et de savoir combien de fois elles y sont citées. Certaines pourront même y installer leur propre agent conversationnel. Si ChatGPT est le « Google » de 2026, vous avez toutes les raisons de créer votre fiche.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2372045-openai-lance-la-fiche-google-my-business-de-chatgpt-avec-un-agent-ia-en-prime.html",
+      "publishedAt": "2026-11-11T08:35:09.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Et",
+      "originalTitle": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
+      "summary": "Jensen Huang, le dirigeant du géant de la tech, a reconnu avoir entretenu une liaison avec une femme d’affaires chinoise suspectée par les services secrets américains d’espionner pour le compte de Pékin, explique Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-chine_6808810_3234.html",
+      "publishedAt": "2026-11-10T10:00:09.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Apple préparerait Harbor, une app pour transformer vos Mac en serveur d’IA privé",
+      "originalTitle": "Apple préparerait Harbor, une app pour transformer vos Mac en serveur d’IA privé",
+      "summary": "Apple n'a pas pris le virage de l'IA, mais l'entreprise de John Ternus pourrait bien en être un pilier. Elle teste en ce moment discrètement Harbor, une application qui fait tourner des modèles d’IA open-weight en local, sur un ou plusieurs Mac reliés en Thunderbolt 5.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2372219-apple-preparerait-harbor-une-app-pour-transformer-vos-mac-en-serveur-dia-prive.html",
+      "publishedAt": "2026-11-11T11:49:09.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-12T07:00:15.033Z"
+}
