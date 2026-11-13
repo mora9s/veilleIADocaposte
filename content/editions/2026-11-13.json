@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-13",
+  "kind": "daily",
+  "dateLabel": "13 novembre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 196,
+  "readingMinutes": 4,
+  "dek": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
+      "originalTitle": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
+      "summary": "Le fondateur du géant des semi-conducteurs américain, mis en cause pour une liaison avec une entrepreneuse chinoise soupçonnée d’espionnage, quitte l’entreprise.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/12/jensen-huang-patron-emblematique-de-nvidia-et-parrain-de-l-ia-demis-de-ses-fonctions_6809106_3234.html",
+      "publishedAt": "2026-11-12T13:53:07.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "« Et si on codait en dur un déclencheur ? » : il demande à Claude Code de transformer son agent IA en bombe à retardemen",
+      "originalTitle": "« Et si on codait en dur un déclencheur ? » : il demande à Claude Code de transformer son agent IA en bombe à retardement, et ça marche",
+      "summary": "Un chercheur de Microsoft s’est demandé s’il était possible de cacher une porte dérobée dans un agent IA sans jamais le réentraîner. Claude Code lui a trouvé la réponse, et il suffit pour cela de modifier moins de dix « neurones » sur les milliers que compte le modèle.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/cyberguerre/2372563-et-si-on-codait-en-dur-un-declencheur-il-demande-a-claude-code-de-transformer-son-agent-ia-en-bombe-a-retardement-et-ca-marche.html",
+      "publishedAt": "2026-11-12T09:58:31.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "À la recherche de la preuve parfaite : Google a lâché 80 agents IA sur le code de Signal pour prouver qu’il était sûr",
+      "originalTitle": "À la recherche de la preuve parfaite : Google a lâché 80 agents IA sur le code de Signal pour prouver qu’il était sûr",
+      "summary": "Des agents d’IA de Google DeepMind ont démontré que le code au cœur du chiffrement de Signal respecte ses principales garanties de sécurité. Une première pour un logiciel aussi largement déployé, qui comporte néanmoins des limites.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/cyberguerre/2372071-a-la-recherche-de-la-preuve-parfaite-google-a-lache-80-agents-ia-sur-le-code-de-signal-pour-prouver-quil-etait-sur.html",
+      "publishedAt": "2026-11-11T09:00:38.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-13T07:00:15.622Z"
+}
