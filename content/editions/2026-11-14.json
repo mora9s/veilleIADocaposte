@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-14",
+  "kind": "daily",
+  "dateLabel": "14 novembre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 197,
+  "readingMinutes": 4,
+  "dek": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
+      "originalTitle": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
+      "summary": "Réunis à Dublin, les Vingt-Sept se sont penchés sur les défis de l’intelligence artificielle, entre ambitions de souveraineté, régulation, et exigences budgétaires.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html",
+      "publishedAt": "2026-11-13T20:58:04.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Nvidia sans Jensen Huang ? Le casse-tête de la succession",
+      "originalTitle": "Nvidia sans Jensen Huang ? Le casse-tête de la succession",
+      "summary": "Selon le Wall Street Journal, le conseil d'administration de Nvidia se préparerait à évincer Jensen Huang, son cofondateur et patron depuis 33 ans. Mais qui pour le remplacer ? L'entreprise la plus stratégique de l'IA n'a désigné aucun successeur et tout a été construit autour d'un seul homme.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2372735-nvidia-sans-jensen-huang-le-casse-tete-de-la-succession.html",
+      "publishedAt": "2026-11-12T10:50:38.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Panne de Claude : l’IA ne répond plus chez une partie des utilisateurs, voici ce que l’on sait",
+      "originalTitle": "Panne de Claude : l’IA ne répond plus chez une partie des utilisateurs, voici ce que l’on sait",
+      "summary": "Claude rencontre des difficultés ce vendredi 13 novembre : Anthropic confirme un problème de connexion à Claude.ai et Claude Code, sans annoncer de délai de rétablissement.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/cyberguerre/2373927-panne-de-claude-lia-ne-repond-plus-chez-une-partie-des-utilisateurs-voici-ce-que-lon-sait.html",
+      "publishedAt": "2026-11-13T10:28:46.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-14T07:00:14.254Z"
+}
