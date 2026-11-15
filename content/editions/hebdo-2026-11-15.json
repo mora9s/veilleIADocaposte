@@ -1,0 +1,91 @@
+{
+  "slug": "hebdo-2026-11-15",
+  "kind": "weekly",
+  "publicationDate": "2026-11-15",
+  "periodStart": "2026-11-09",
+  "periodEnd": "2026-11-15",
+  "dateLabel": "15 novembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 11,
+  "readingMinutes": 5,
+  "dek": "Les cinq signaux qui ont structuré l’actualité IA du 2026-11-09 au 2026-11-15.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb",
+      "originalTitle": "J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb",
+      "summary": "Cinq mois de préparation, des dizaines de fichiers CSV commentés, un plan pyramidal impeccable sur le papier et une explosion au 22e kilomètre que Gemini n'avait pas vue venir. Claude lui, avait tout anticipé. Retour d'expérience sur mon premier marathon, et sur ce qu'on doit vraiment attendre d'un coach artificiel.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2372409-jai-laisse-gemini-me-coacher-pour-mon-premier-marathon-il-ma-menti-avec-aplomb.html",
+      "publishedAt": "2026-11-14T13:03:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
+      "originalTitle": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
+      "summary": "Réunis à Dublin, les Vingt-Sept se sont penchés sur les défis de l’intelligence artificielle, entre ambitions de souveraineté, régulation, et exigences budgétaires.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html",
+      "publishedAt": "2026-11-13T20:58:04.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
+      "originalTitle": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
+      "summary": "Le fondateur du géant des semi-conducteurs américain, mis en cause pour une liaison avec une entrepreneuse chinoise soupçonnée d’espionnage, quitte l’entreprise.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/12/jensen-huang-patron-emblematique-de-nvidia-et-parrain-de-l-ia-demis-de-ses-fonctions_6809106_3234.html",
+      "publishedAt": "2026-11-12T13:53:07.000Z",
+      "accent": "orange"
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI lance la fiche « Google My Business » de ChatGPT, avec un agent IA en prime",
+      "originalTitle": "OpenAI lance la fiche « Google My Business » de ChatGPT, avec un agent IA en prime",
+      "summary": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche dans le chatbot, d'y corriger leurs infos et de savoir combien de fois elles y sont citées. Certaines pourront même y installer leur propre agent conversationnel. Si ChatGPT est le « Google » de 2026, vous avez toutes les raisons de créer votre fiche.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2372045-openai-lance-la-fiche-google-my-business-de-chatgpt-avec-un-agent-ia-en-prime.html",
+      "publishedAt": "2026-11-11T08:35:09.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 5,
+      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de",
+      "originalTitle": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de",
+      "summary": "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
+      "publishedAt": "2026-11-10T18:43:56.000Z",
+      "accent": "violet"
+    }
+  ],
+  "insights": [
+    {
+      "title": "Sécurité et contrôle des systèmes",
+      "body": "Les sujets « J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb » et « IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler » montrent que les capacités progressent avec des exigences accrues de contrôle, de traçabilité et de responsabilité."
+    },
+    {
+      "title": "Des choix structurants pour les organisations",
+      "body": "Les annonces autour de « Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions » obligent les organisations à réévaluer leurs dépendances, leurs garanties et leurs priorités d’investissement."
+    },
+    {
+      "title": "Une adoption désormais observée dans ses effets",
+      "body": "Les signaux liés à « OpenAI lance la fiche « Google My Business » de ChatGPT, avec un agent IA en prime » et « Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de » déplacent l’attention de la démonstration technologique vers les conséquences concrètes et les conditions d’usage."
+    }
+  ],
+  "watchlist": [
+    "Les suites concrètes de « J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb » et les confirmations publiées par les acteurs concernés.",
+    "Les suites concrètes de « IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler » et les confirmations publiées par les acteurs concernés.",
+    "Les suites concrètes de « Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions » et les confirmations publiées par les acteurs concernés."
+  ],
+  "audioUrl": null,
+  "audioMinutes": null,
+  "generatedAt": "2026-11-15T18:00:00.000Z"
+}
