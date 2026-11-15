@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-15",
+  "kind": "daily",
+  "dateLabel": "15 novembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 198,
+  "readingMinutes": 4,
+  "dek": "J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb",
+      "originalTitle": "J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb",
+      "summary": "Cinq mois de préparation, des dizaines de fichiers CSV commentés, un plan pyramidal impeccable sur le papier et une explosion au 22e kilomètre que Gemini n'avait pas vue venir. Claude lui, avait tout anticipé. Retour d'expérience sur mon premier marathon, et sur ce qu'on doit vraiment attendre d'un coach artificiel.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2372409-jai-laisse-gemini-me-coacher-pour-mon-premier-marathon-il-ma-menti-avec-aplomb.html",
+      "publishedAt": "2026-11-14T13:03:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "IA : comment Huawei est devenu le navire amiral de la Chine dans la bataille des puces",
+      "originalTitle": "IA : comment Huawei est devenu le navire amiral de la Chine dans la bataille des puces",
+      "summary": "Pour rattraper son retard, Pékin mise sur son champion des télécoms Huawei. Fort de 208 000 employés dans le monde, dont 114 000 en recherche et développement, le groupe a été érigé en chef d’orchestre de l’effort chinois pour atteindre l’« autosuffisance scientifique et technologique ».",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/14/ia-comment-huawei-est-devenu-le-navire-amiral-de-la-chine-dans-la-bataille-des-puces_6810315_3234.html",
+      "publishedAt": "2026-11-14T14:00:01.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L’administration Trump percutée par l’onde de choc Nvidia",
+      "originalTitle": "L’administration Trump percutée par l’onde de choc Nvidia",
+      "summary": "La démission de Jensen Huang, qui a quitté la direction du géant des puces électroniques après des révélations sur des relations extraconjugales, fragilise le moteur de la révolution de l’intelligence artificielle. L’équipe du président américain va aussi devoir expliquer la latitude dont la firme a pu disposer pour l’exportation de ses produits vers la Chine.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/14/l-administration-trump-percutee-par-l-onde-de-choc-nvidia_6809983_3232.html",
+      "publishedAt": "2026-11-14T10:01:14.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-15T07:00:14.591Z"
+}
