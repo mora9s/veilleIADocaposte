@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-16",
+  "kind": "daily",
+  "dateLabel": "16 novembre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 199,
+  "readingMinutes": 4,
+  "dek": "IA militaire : comment la France tente d’entrouvrir la porte à une régulation",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "IA militaire : comment la France tente d’entrouvrir la porte à une régulation",
+      "originalTitle": "IA militaire : comment la France tente d’entrouvrir la porte à une régulation",
+      "summary": "Alors que doit avoir lieu, à Genève, du 16 au 20 novembre, la 7ᵉ Conférence d’examen de la Convention sur certaines armes classiques, plusieurs capitales européennes, dont Paris, aimeraient qu’un instrument de contrôle des systèmes d’armes autonomes soit adopté. Un défi dans un contexte de course aux armements.",
+      "source": "Le Monde IA",
+      "category": "Produit / API",
+      "url": "https://www.lemonde.fr/international/article/2026/11/16/ia-militaire-comment-la-france-tente-d-entrouvrir-la-porte-a-une-regulation_6811534_3210.html",
+      "publishedAt": "2026-11-16T06:30:05.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
+      "originalTitle": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
+      "summary": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron de la multinationale américaine des semi-conducteurs, au moins le temps qu’il se défende contre les allégations de relations extraconjugales qui ont provoqué sa chute.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
+      "publishedAt": "2026-11-15T23:22:46.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Katharina Pistor, professeure de droit : « Les citoyens s’apprêtent à n’être qu’une simple ressource gérée par des patro",
+      "originalTitle": "Katharina Pistor, professeure de droit : « Les citoyens s’apprêtent à n’être qu’une simple ressource gérée par des patrons de la tech tels que Musk, Thiel et Zuckerberg »",
+      "summary": "Dans une tribune au « Monde », Katharina Pistor, professeure de droit, compare la domination exercée par la « confrérie de la tech » sur les citoyens à l’approche adoptée autrefois par les colons envers les peuples autochtones.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/15/les-citoyens-s-appretent-a-n-etre-qu-une-simple-ressource-geree-par-des-patrons-de-la-tech-tels-que-musk-thiel-et-zuckerberg_6811002_3232.html",
+      "publishedAt": "2026-11-15T09:00:21.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-16T07:00:14.155Z"
+}
