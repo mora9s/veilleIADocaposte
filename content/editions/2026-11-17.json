@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-17",
+  "kind": "daily",
+  "dateLabel": "17 novembre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 200,
+  "readingMinutes": 4,
+  "dek": "Pirater pour survivre : des agents IA malveillants ont raconté leurs attaques à Amazon sans le savoir",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Pirater pour survivre : des agents IA malveillants ont raconté leurs attaques à Amazon sans le savoir",
+      "originalTitle": "Pirater pour survivre : des agents IA malveillants ont raconté leurs attaques à Amazon sans le savoir",
+      "summary": "Les équipes d’Amazon alertent sur le détournement d’un outil conçu pour aider les entreprises à tester leur sécurité. Des pirates s’en servent pour voler des clés d’accès à des modèles d’IA, qui alimentent ensuite leurs propres agents.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/cyberguerre/2375087-pirater-pour-survivre-des-agents-ia-malveillants-ont-raconte-leurs-attaques-a-amazon-sans-le-savoir.html",
+      "publishedAt": "2026-11-16T10:30:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L’essor de l’IA ralentit les recrutements des métiers les plus automatisables, au-delà des postes juniors",
+      "originalTitle": "L’essor de l’IA ralentit les recrutements des métiers les plus automatisables, au-delà des postes juniors",
+      "summary": "Une étude de Coface et de l’Observatoire des emplois menacés et émergents montre que le déploiement de l’intelligence artificielle dans les entreprises ne se traduit pas encore par des licenciements dans les métiers les plus facilement automatisables mais contribue à raréfier les offres d’emploi. Un phénomène qui ne se limite pas aux postes d’entrée de carrière.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/17/l-essor-de-l-ia-ralentit-les-recrutements-des-metiers-les-plus-automatisables-au-dela-des-postes-juniors_6812918_3234.html",
+      "publishedAt": "2026-11-17T06:30:11.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic : 900 milliards de dollars pour combien de mois d'avance ?",
+      "originalTitle": "Anthropic : 900 milliards de dollars pour combien de mois d'avance ?",
+      "summary": "Anthropic fixe le 18 novembre le prix de son introduction en Bourse, avec 900,9 milliards de dollars d'engagements de calcul, dont 70,7 dus en un an. Epoch AI mesure un retard moyen de quatre mois des meilleurs modèles ouverts, l'AISI britannique quatre à sept mois en cybersécurité ; sur l'indice d'Artificial Analysis, fondé à 60 % sur des tests secrets, l'écart atteint 19 points, que l'organisme ne convertit pas en mois. METR estime que les modèles internes d'Anthropic progressent 1,9 fois plus vite depuis octobre 2025, avec de fortes réserves. Le prospectus cite parmi ses risques une pression possible des modèles ouverts sur ses prix, et aucun travail public d'Anthropic sur les world models n'a été trouvé.",
+      "source": "ActuIA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.actuia.com/actualite/anthropic-900-milliards-de-dollars-pour-combien-de-mois-davance/",
+      "publishedAt": "2026-11-17T06:30:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-17T07:00:14.670Z"
+}
