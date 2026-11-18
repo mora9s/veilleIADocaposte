@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-18",
+  "kind": "daily",
+  "dateLabel": "18 novembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 201,
+  "readingMinutes": 4,
+  "dek": "« Vingt-trois minutes pour être exposé à des contenus extrémistes » : l’Australie s’inquiète de l’impact des réseaux soc",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "« Vingt-trois minutes pour être exposé à des contenus extrémistes » : l’Australie s’inquiète de l’impact des réseaux soc",
+      "originalTitle": "« Vingt-trois minutes pour être exposé à des contenus extrémistes » : l’Australie s’inquiète de l’impact des réseaux sociaux et de l’IA sur la radicalisation des jeunes",
+      "summary": "L’usage de plateformes et de l’intelligence artificielle accélère le possible passage à l’acte de mineurs, impliqués dans 40 % des affaires traitées par les équipes de lutte contre le terrorisme dans le pays en 2026.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/international/article/2026/11/18/vingt-trois-minutes-pour-etre-expose-a-des-contenus-extremistes-l-australie-s-inquiete-de-l-impact-des-reseaux-sociaux-et-de-l-ia-dans-la-radicalisation-des-jeunes_6813068_3210.html",
+      "publishedAt": "2026-11-18T04:45:02.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Vous pouvez maintenant allez voir votre maison dans Minecraft",
+      "originalTitle": "Vous pouvez maintenant allez voir votre maison dans Minecraft",
+      "summary": "Un développeur affirme avoir reproduit l'intégralité de notre planète dans Minecraft, avec ses routes, ses bâtiments et même des intérieurs meublés. Baptisé WorldCraft, son projet repose sur un algorithme entraîné avec l'aide de plus de 250 agents IA. Il est possible de s'y promener dès maintenant, sur un serveur gratuit.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/pop-culture/2375993-vous-pouvez-maintenant-allez-voir-votre-maison-dans-minecraft.html",
+      "publishedAt": "2026-11-17T09:16:41.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Remanence lève 30 millions de dollars pour entraîner des modèles sur les traces d'agents",
+      "originalTitle": "Remanence lève 30 millions de dollars pour entraîner des modèles sur les traces d'agents",
+      "summary": "Remanence, start-up parisienne fondée par Pierre-Louis Cedoz, Hamza Benchekroun et Axel Moyal, anciens de H Company, lève 30 millions de dollars en amorçage. Le tour est mené par EQT Ventures et FirstMark. Sa plateforme convertit les traces d'exécution des agents d'IA en environnements d'entraînement pour spécialiser des modèles à poids ouverts, dont le client garde la propriété. Les fonds financeront la recherche, un cluster de GPU et des recrutements à Paris.",
+      "source": "ActuIA",
+      "category": "Infrastructure IA",
+      "url": "https://www.actuia.com/actualite/remanence-leve-30-millions-de-dollars-pour-entrainer-des-modeles-sur-les-traces-dagents/",
+      "publishedAt": "2026-11-17T11:14:57.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-18T07:00:15.008Z"
+}
