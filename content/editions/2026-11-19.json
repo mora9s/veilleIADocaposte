@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-19",
+  "kind": "daily",
+  "dateLabel": "19 novembre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 202,
+  "readingMinutes": 4,
+  "dek": "Nvidia dans « Le Monde », de ses débuts prometteurs à la chute de Jensen Huang",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Nvidia dans « Le Monde », de ses débuts prometteurs à la chute de Jensen Huang",
+      "originalTitle": "Nvidia dans « Le Monde », de ses débuts prometteurs à la chute de Jensen Huang",
+      "summary": "Le mastodonte spécialisé dans les semi-conducteurs est aujourd’hui dans la tourmente depuis la révélation d’une liaison extraconjugale de son PDG, qui a dû démissionner, avec une agente de renseignement chinoise. Un accident de parcours sérieux pour une entreprise florissante, dont le quotidien avait remarqué les premiers succès dès octobre 1999.",
+      "source": "Le Monde IA",
+      "category": "Modèles / agents",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/18/nvidia-dans-le-monde-de-ses-debuts-prometteurs-a-la-chute-de-jensen-huang_6813173_4500055.html",
+      "publishedAt": "2026-11-18T17:00:11.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L'Appel de Paris laisse aux développeurs le pouvoir d'arrêter leurs IA",
+      "originalTitle": "L'Appel de Paris laisse aux développeurs le pouvoir d'arrêter leurs IA",
+      "summary": "L'Appel de Paris pour la sécurité de l'IA, publié par l'Élysée le 9 novembre 2026, réunissait le 18 novembre 18 États, 10 entreprises et 11 organisations. Les développeurs s'y engagent à des mécanismes d'arrêt de leurs modèles, entraînement et usage interne compris, mais seulement pour les modèles qu'ils contrôlent : les copies de modèles à poids ouverts y échappent, et aucune autorité ne peut ordonner un arrêt. Le texte ne prévoit ni sanction ni échéance. Google, Meta et xAI, signataires le 29 septembre d'un accord de la Maison-Blanche sans clause d'arrêt, sont absents, comme les États-Unis et la Chine.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/lappel-de-paris-laisse-aux-developpeurs-le-pouvoir-darreter-leurs-ia/",
+      "publishedAt": "2026-11-18T09:00:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L’IA trouve les failles vraiment trop vite : Anthropic et Google sonnent la fin des 90 jours de grâce avant la divulgati",
+      "originalTitle": "L’IA trouve les failles vraiment trop vite : Anthropic et Google sonnent la fin des 90 jours de grâce avant la divulgation",
+      "summary": "Anthropic ne laissera plus que 30 jours aux éditeurs pour corriger les failles graves qu'elle leur signale, contre 90 jusqu'ici. Trois jours plus tôt, Google Project Zero avait annoncé une baisse comparable, mais plus progressive.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2377793-lia-trouve-les-failles-vraiment-trop-vite-anthropic-et-google-sonnent-la-fin-des-90-jours-de-grace-avant-la-divulgation.html",
+      "publishedAt": "2026-11-18T13:01:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-19T07:00:15.062Z"
+}
