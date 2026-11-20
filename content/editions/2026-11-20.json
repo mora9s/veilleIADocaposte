@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-20",
+  "kind": "daily",
+  "dateLabel": "20 novembre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 203,
+  "readingMinutes": 4,
+  "dek": "Anne Le Hénanff, ministre déléguée au numérique au « Monde » : en matière de cybersécurité, « il y a urgence pour la rés",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Anne Le Hénanff, ministre déléguée au numérique au « Monde » : en matière de cybersécurité, « il y a urgence pour la rés",
+      "originalTitle": "Anne Le Hénanff, ministre déléguée au numérique au « Monde » : en matière de cybersécurité, « il y a urgence pour la résilience de la Nation »",
+      "summary": "Après l’adoption à l’Assemblée d’une loi sur la cybersécurité très attendue, la ministre du numérique prévient que les 20 000 entreprises et entités publiques concernées par de nouvelles obligations en matière de sécurité auront deux ans pour les mettre en œuvre.",
+      "source": "Le Monde IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/19/anne-le-henanff-en-matiere-de-cybersecurite-il-y-a-urgence-pour-la-resilience-de-la-nation_6813364_4408996.html",
+      "publishedAt": "2026-11-19T18:00:10.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Le standard ANS fait du nom de domaine l'identité des agents IA",
+      "originalTitle": "Le standard ANS fait du nom de domaine l'identité des agents IA",
+      "summary": "Le standard Agent Name Service (ANS), passé sous la gouvernance de la Linux Foundation en novembre 2026, rattache l'identité d'un agent IA à un nom de domaine, des certificats et un journal public. Ses sept spécifications restent à l'état de brouillons, et le comité est dominé par GoDaddy, qui détient trois des cinq sièges.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/le-standard-ans-fait-du-nom-de-domaine-lidentite-des-agents-ia/",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "L’entrée en Bourse d’Anthropic (Claude) pourrait faire des milliers de millionnaires, et les gagnants ne sont pas forcém",
+      "originalTitle": "L’entrée en Bourse d’Anthropic (Claude) pourrait faire des milliers de millionnaires, et les gagnants ne sont pas forcément ceux qu’on croit",
+      "summary": "L'arrivée d'Anthropic sur le Nasdaq, ce jeudi 19 novembre 2026, ne va pas seulement enrichir les investisseurs. Des milliers de salariés, des chercheurs aux postes administratifs, détiennent des actions qui valent désormais une petite (voire une très grosse) fortune. Sur le papier, du moins.",
+      "source": "Numerama IA",
+      "category": "Produit / API",
+      "url": "https://www.numerama.com/tech/2378523-lentree-en-bourse-danthropic-claude-pourrait-faire-des-milliers-de-millionnaires-et-les-gagnants-ne-sont-pas-forcement-ceux-quon-croit.html",
+      "publishedAt": "2026-11-19T10:12:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-20T07:00:15.216Z"
+}
