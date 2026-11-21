@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-21",
+  "kind": "daily",
+  "dateLabel": "21 novembre 2026",
+  "weekday": "Samedi",
+  "editionNumber": 204,
+  "readingMinutes": 4,
+  "dek": "« Nous ne parviendrons pas à réguler l’IA si les entreprises qui la conçoivent demeurent des autocraties »",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "« Nous ne parviendrons pas à réguler l’IA si les entreprises qui la conçoivent demeurent des autocraties »",
+      "originalTitle": "« Nous ne parviendrons pas à réguler l’IA si les entreprises qui la conçoivent demeurent des autocraties »",
+      "summary": "La sécurité dans le domaine de l’intelligence artificielle commence dans les conseils d’administration des géants de la tech soulignent, dans une tribune au « Monde », la sociologue Isabelle Ferreras et l’entrepreneur Gabriel Levie.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/20/nous-ne-parviendrons-pas-a-reguler-l-ia-si-les-entreprises-qui-la-concoivent-demeurent-des-autocraties_6813688_3232.html",
+      "publishedAt": "2026-11-20T18:00:24.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "« Coût par élimination » : à 16 ans, il convainc Y Combinator de financer ses missiles guidés par IA",
+      "originalTitle": "« Coût par élimination » : à 16 ans, il convainc Y Combinator de financer ses missiles guidés par IA",
+      "summary": "Polemos Industries, la start-up de défense d'un adolescent letton de 16 ans, a intégré la promotion d'automne 2026 de Y Combinator. Son projet : des missiles guidés par IA, bon marché et produits à la chaîne.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2379483-cout-par-elimination-a-16-ans-il-convainc-y-combinator-de-financer-ses-missiles-guides-par-ia.html",
+      "publishedAt": "2026-11-20T09:20:31.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Mistral fait de Singapour son siège Asie-Pacifique et un pôle de recherche",
+      "originalTitle": "Mistral fait de Singapour son siège Asie-Pacifique et un pôle de recherche",
+      "summary": "Mistral AI installe son siège Asie-Pacifique à Singapour et vise 200 personnes dans la région d'ici 2027, en science, ingénierie, IA appliquée et robotique. Le bureau prolonge son hub scientifique et s'appuie sur ses partenariats avec DSO National Laboratories, pour la défense, et HTX, pour la sécurité intérieure, d'où est issue la série de modèles Phoenix. Robostral Navigate, le modèle de navigation robotique présenté par Mistral en juillet, illustre le volet robotique.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/mistral-fait-de-singapour-son-siege-asie-pacifique-et-un-pole-de-recherche/",
+      "publishedAt": "2026-11-20T14:42:40.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-21T07:00:14.569Z"
+}
