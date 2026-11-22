@@ -1,0 +1,91 @@
+{
+  "slug": "hebdo-2026-11-22",
+  "kind": "weekly",
+  "publicationDate": "2026-11-22",
+  "periodStart": "2026-11-16",
+  "periodEnd": "2026-11-22",
+  "dateLabel": "22 novembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 12,
+  "readingMinutes": 5,
+  "dek": "Les cinq signaux qui ont structuré l’actualité IA du 2026-11-16 au 2026-11-22.",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "originalTitle": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "summary": "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation. La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19.",
+      "source": "Le Monde IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+      "publishedAt": "2026-11-21T00:33:30.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "« Nous ne parviendrons pas à réguler l’IA si les entreprises qui la conçoivent demeurent des autocraties »",
+      "originalTitle": "« Nous ne parviendrons pas à réguler l’IA si les entreprises qui la conçoivent demeurent des autocraties »",
+      "summary": "La sécurité dans le domaine de l’intelligence artificielle commence dans les conseils d’administration des géants de la tech soulignent, dans une tribune au « Monde », la sociologue Isabelle Ferreras et l’entrepreneur Gabriel Levie.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/20/nous-ne-parviendrons-pas-a-reguler-l-ia-si-les-entreprises-qui-la-concoivent-demeurent-des-autocraties_6813688_3232.html",
+      "publishedAt": "2026-11-20T18:00:24.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Pirater pour survivre : des agents IA malveillants ont raconté leurs attaques à Amazon sans le savoir",
+      "originalTitle": "Pirater pour survivre : des agents IA malveillants ont raconté leurs attaques à Amazon sans le savoir",
+      "summary": "Les équipes d’Amazon alertent sur le détournement d’un outil conçu pour aider les entreprises à tester leur sécurité. Des pirates s’en servent pour voler des clés d’accès à des modèles d’IA, qui alimentent ensuite leurs propres agents.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/cyberguerre/2375087-pirater-pour-survivre-des-agents-ia-malveillants-ont-raconte-leurs-attaques-a-amazon-sans-le-savoir.html",
+      "publishedAt": "2026-11-16T10:30:00.000Z",
+      "accent": "orange"
+    },
+    {
+      "rank": 4,
+      "title": "Robots tueurs autonomes : ce que les armées délèguent vraiment aux machines",
+      "originalTitle": "Robots tueurs autonomes : ce que les armées délèguent vraiment aux machines",
+      "summary": "Du 16 au 20 novembre, l’ONU tient une conférence sur l’encadrement des armes autonomes. L’autonomie militaire existe déjà à toutes les étapes de la chaîne d’engagement : observation, identification, sélection et frappe des cibles. L’enjeu est de préserver le contrôle humain sur les décisions létales. L’automatisation accélère les opérations, mais augmente les risques d’erreur et de frappes illégales, notamment dans les situations ambiguës.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2379739-robots-tueurs-autonomes-ou-en-sommes-nous-vraiment.html",
+      "publishedAt": "2026-11-21T16:01:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 5,
+      "title": "Le standard ANS fait du nom de domaine l'identité des agents IA",
+      "originalTitle": "Le standard ANS fait du nom de domaine l'identité des agents IA",
+      "summary": "Le standard Agent Name Service (ANS), passé sous la gouvernance de la Linux Foundation en novembre 2026, rattache l'identité d'un agent IA à un nom de domaine, des certificats et un journal public. Ses sept spécifications restent à l'état de brouillons, et le comité est dominé par GoDaddy, qui détient trois des cinq sièges.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/le-standard-ans-fait-du-nom-de-domaine-lidentite-des-agents-ia/",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "accent": "violet"
+    }
+  ],
+  "insights": [
+    {
+      "title": "Sécurité et contrôle des systèmes",
+      "body": "Les sujets « Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA » et « « Nous ne parviendrons pas à réguler l’IA si les entreprises qui la conçoivent demeurent des autocraties » » montrent que les capacités progressent avec des exigences accrues de contrôle, de traçabilité et de responsabilité."
+    },
+    {
+      "title": "Des choix structurants pour les organisations",
+      "body": "Les annonces autour de « Pirater pour survivre : des agents IA malveillants ont raconté leurs attaques à Amazon sans le savoir » obligent les organisations à réévaluer leurs dépendances, leurs garanties et leurs priorités d’investissement."
+    },
+    {
+      "title": "Une adoption désormais observée dans ses effets",
+      "body": "Les signaux liés à « Robots tueurs autonomes : ce que les armées délèguent vraiment aux machines » et « Le standard ANS fait du nom de domaine l'identité des agents IA » déplacent l’attention de la démonstration technologique vers les conséquences concrètes et les conditions d’usage."
+    }
+  ],
+  "watchlist": [
+    "Les suites concrètes de « Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA » et les confirmations publiées par les acteurs concernés.",
+    "Les suites concrètes de « « Nous ne parviendrons pas à réguler l’IA si les entreprises qui la conçoivent demeurent des autocraties » » et les confirmations publiées par les acteurs concernés.",
+    "Les suites concrètes de « Pirater pour survivre : des agents IA malveillants ont raconté leurs attaques à Amazon sans le savoir » et les confirmations publiées par les acteurs concernés."
+  ],
+  "audioUrl": null,
+  "audioMinutes": null,
+  "generatedAt": "2026-11-22T18:00:00.000Z"
+}
