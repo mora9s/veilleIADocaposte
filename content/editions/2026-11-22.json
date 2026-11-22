@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-22",
+  "kind": "daily",
+  "dateLabel": "22 novembre 2026",
+  "weekday": "Dimanche",
+  "editionNumber": 205,
+  "readingMinutes": 4,
+  "dek": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "originalTitle": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "summary": "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation. La Bourse américaine a vécu l’une de ses pires semaines depuis la crise liée à la pandémie de Covid-19.",
+      "source": "Le Monde IA",
+      "category": "Infrastructure IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+      "publishedAt": "2026-11-21T00:33:30.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Robots tueurs autonomes : ce que les armées délèguent vraiment aux machines",
+      "originalTitle": "Robots tueurs autonomes : ce que les armées délèguent vraiment aux machines",
+      "summary": "Du 16 au 20 novembre, l’ONU tient une conférence sur l’encadrement des armes autonomes. L’autonomie militaire existe déjà à toutes les étapes de la chaîne d’engagement : observation, identification, sélection et frappe des cibles. L’enjeu est de préserver le contrôle humain sur les décisions létales. L’automatisation accélère les opérations, mais augmente les risques d’erreur et de frappes illégales, notamment dans les situations ambiguës.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2379739-robots-tueurs-autonomes-ou-en-sommes-nous-vraiment.html",
+      "publishedAt": "2026-11-21T16:01:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
+      "originalTitle": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
+      "summary": "Faute de temps, la proposition de loi de Laure Darcos n’a pas pu être examinée. Elle pourrait être à nouveau présentée aux députés le 4 février 2027 dans la niche du groupe GDR (communistes et ultramarins).",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/20/ia-et-droit-d-auteur-la-proposition-de-loi-visant-a-proteger-la-creation-reste-enlisee-a-l-assemblee_6813614_3234.html",
+      "publishedAt": "2026-11-20T09:30:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-22T07:00:14.683Z"
+}
