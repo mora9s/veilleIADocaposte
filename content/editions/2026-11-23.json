@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-23",
+  "kind": "daily",
+  "dateLabel": "23 novembre 2026",
+  "weekday": "Lundi",
+  "editionNumber": 206,
+  "readingMinutes": 4,
+  "dek": "« L’affaire Nvidia montre que la Silicon Valley aime davantage les visionnaires que les contre-pouvoirs »",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "« L’affaire Nvidia montre que la Silicon Valley aime davantage les visionnaires que les contre-pouvoirs »",
+      "originalTitle": "« L’affaire Nvidia montre que la Silicon Valley aime davantage les visionnaires que les contre-pouvoirs »",
+      "summary": "Depuis son départ de la direction du leader des puces pour l’intelligence artificielle, Jensen Huang fait l’objet d’une spectaculaire mobilisation du secteur de la tech en sa faveur. Cette solidarité est révélatrice d’un écosystème endogame, constate Stéphane Lauer, éditorialiste au « Monde », dans sa chronique.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/23/l-affaire-nvidia-montre-que-la-silicon-valley-aime-davantage-les-visionnaires-que-les-contre-pouvoirs_6814348_3232.html",
+      "publishedAt": "2026-11-23T05:25:01.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "C’est quoi Stryx AI, cette start-up française qui veut intercepter les drones ?",
+      "originalTitle": "C’est quoi Stryx AI, cette start-up française qui veut intercepter les drones ?",
+      "summary": "Qu’est-ce que Stryx AI ? Une start-up française, fondée en 2025 par Armand Thiberge, le créateur de Brevo, qui conçoit des drones chargés d’en intercepter d’autres. Elle vient de lever 7,7 millions d’euros pour les produire en France. Son argument est de rendre l’interception presque aussi bon marché que la cible. Mais le prix de son intercepteur reste inconnu.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2379779-cest-quoi-stryx-ai-cette-start-up-francaise-qui-veut-intercepter-les-drones.html",
+      "publishedAt": "2026-11-22T11:01:00.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Mathématiques et IA : prenons le temps de comprendre",
+      "originalTitle": "Mathématiques et IA : prenons le temps de comprendre",
+      "summary": "Dans sa carte blanche au « Monde », le mathématicien et académicien Etienne Ghys prend acte de l’accélération que l’intelligence artificielle apporte à sa discipline. Mais il rappelle que les maths ne se réduisent pas à des résultats.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/sciences/article/2026/11/22/mathematiques-et-ia-prenons-le-temps-de-comprendre_6814234_1650684.html",
+      "publishedAt": "2026-11-22T17:00:10.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-23T07:00:14.748Z"
+}
