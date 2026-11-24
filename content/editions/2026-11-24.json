@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-24",
+  "kind": "daily",
+  "dateLabel": "24 novembre 2026",
+  "weekday": "Mardi",
+  "editionNumber": 207,
+  "readingMinutes": 4,
+  "dek": "OpenRouter durcit son option Zero Data Retention après l'enquête de Dragos",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "OpenRouter durcit son option Zero Data Retention après l'enquête de Dragos",
+      "originalTitle": "OpenRouter durcit son option Zero Data Retention après l'enquête de Dragos",
+      "summary": "OpenRouter a exclu le 22 novembre 2026 trois fournisseurs d'inférence, sans les nommer, et retiré 125 endpoints de l'éligibilité Zero Data Retention (ZDR), après l'expérience de Dragos qui a glissé des secrets traçables dans environ deux millions de prompts. Phala décrit une intrusion sur un serveur qui servait DeepSeek V4 Flash 0731, Novita AI et Atlas Cloud des requêtes transmises à l'API officielle de MiniMax, Together AI une fuite d'échantillons de prompts après l'erreur d'un agent de codage. Phala, Novita et Atlas Cloud demandent de révoquer ou de renouveler les clés d'API et autres secrets passés dans les requêtes. L'accord de traitement des données d'OpenRouter présente la liste ZDR comme le reflet de la politique déclarée des fournisseurs, sans garantie de sa part ; le routeur annonce des tests continus.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/openrouter-durcit-son-option-zero-data-retention-apres-lenquete-de-dragos/",
+      "publishedAt": "2026-11-23T15:10:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la",
+      "originalTitle": "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la suite de soupçons d’espionnage chinois",
+      "summary": "Ce coup de théâtre intervient après des appels répétés du président américain, Donald Trump, proche de Jensen Huang, à la réintégration de cette figure emblématique de la tech au sein de l’entreprise qu’il a cofondée.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html",
+      "publishedAt": "2026-11-23T14:21:52.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic lance Claude Ship, un outil qui veut valider votre code à la place de vos collègues",
+      "originalTitle": "Anthropic lance Claude Ship, un outil qui veut valider votre code à la place de vos collègues",
+      "summary": "Anthropic dévoile Claude Ship, un ensemble d'agents capables de relire, corriger et même approuver du code avant sa mise en ligne.",
+      "source": "Numerama IA",
+      "category": "Modèles / agents",
+      "url": "https://www.numerama.com/tech/2382945-anthropic-lance-claude-ship-un-outil-qui-veut-valider-votre-code-a-la-place-de-vos-collegues.html",
+      "publishedAt": "2026-11-23T20:00:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-24T07:00:14.795Z"
+}
