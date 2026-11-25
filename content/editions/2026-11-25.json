@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-25",
+  "kind": "daily",
+  "dateLabel": "25 novembre 2026",
+  "weekday": "Mercredi",
+  "editionNumber": 208,
+  "readingMinutes": 4,
+  "dek": "Les prix de près d'un marchand sur deux échappent aux robots d'IA",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "Les prix de près d'un marchand sur deux échappent aux robots d'IA",
+      "originalTitle": "Les prix de près d'un marchand sur deux échappent aux robots d'IA",
+      "summary": "Fasterize a mesuré la préparation technique de 1 469 grands sites français face aux robots et aux agents d'IA. Chez près d'un marchand sur deux, des prix ou des stocks ne s'affichent qu'après exécution du JavaScript, que la plupart des robots d'IA n'exécutent pas, et trois sites sur quatre ont des formulaires qu'un agent ne sait pas remplir. Fin octobre, à un mois du Black Friday, des agents avaient déjà fait plus de deux cents ajouts au panier en six jours sur une centaine de sites, moins d'un sur dix mille.",
+      "source": "ActuIA",
+      "category": "Modèles / agents",
+      "url": "https://www.actuia.com/actualite/les-prix-de-pres-dun-marchand-sur-deux-echappent-aux-robots-dia/",
+      "publishedAt": "2026-11-23T14:30:00.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Le succès des IA chinoises auprès des entreprises met les leaders Anthropic et OpenAI sous pression",
+      "originalTitle": "Le succès des IA chinoises auprès des entreprises met les leaders Anthropic et OpenAI sous pression",
+      "summary": "Moins coûteux que les outils américains et pouvant être installés sur des serveurs propres aux entreprises, les modèles ouverts de DeepSeek, Moonshot AI, Z.ai ou Alibaba grignotent des parts de marché.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/25/le-succes-des-ia-chinoises-aupres-des-entreprises-met-les-leaders-anthropic-et-openai-sous-pression_6815050_3234.html",
+      "publishedAt": "2026-11-25T05:30:05.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "« C’était une blague » : le mathématicien d’Anthropic revient sur les 250 000 pages de sa preuve de Riemann",
+      "originalTitle": "« C’était une blague » : le mathématicien d’Anthropic revient sur les 250 000 pages de sa preuve de Riemann",
+      "summary": "Le chiffre avait fait le tour du monde : la preuve de l'hypothèse de Riemann obtenue avec Claude aurait nécessité plus de 250 000 pages d'explications. Son auteur, Levent Alpöge, assure désormais qu'il s'agissait d'une plaisanterie. Il reconnaît aussi que son code est « plein de déchets », sans revenir sur la validité de la démonstration.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2383299-cetait-une-blague-le-mathematicien-danthropic-revient-sur-les-250-000-pages-de-sa-preuve-de-riemann.html",
+      "publishedAt": "2026-11-24T10:06:39.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-25T07:00:13.608Z"
+}
