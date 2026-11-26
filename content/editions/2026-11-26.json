@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-26",
+  "kind": "daily",
+  "dateLabel": "26 novembre 2026",
+  "weekday": "Jeudi",
+  "editionNumber": 209,
+  "readingMinutes": 4,
+  "dek": "« Dans la finance, l’IA oblige chacun à être meilleur dans son cœur de métier »",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "« Dans la finance, l’IA oblige chacun à être meilleur dans son cœur de métier »",
+      "originalTitle": "« Dans la finance, l’IA oblige chacun à être meilleur dans son cœur de métier »",
+      "summary": "La révolution de l’intelligence artificielle en cours est comparable, par son ampleur, à la révolution industrielle. Mais ses effets sur l’emploi et sur la croissance seront plus lents et moins brutaux qu’annoncé, juge, dans un entretien au « Monde », Christopher Dembik, conseiller en stratégie d’investissement.",
+      "source": "Le Monde IA",
+      "category": "Actualité IA",
+      "url": "https://www.lemonde.fr/argent/article/2026/11/25/dans-la-finance-l-intelligence-artificielle-oblige-chacun-a-etre-meilleur-dans-son-c-ur-de-metier_6815096_1657007.html",
+      "publishedAt": "2026-11-25T13:00:09.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "Bulle de l'IA : qui paiera la note si elle éclate ?",
+      "originalTitle": "Bulle de l'IA : qui paiera la note si elle éclate ?",
+      "summary": "De janvier à septembre 2026, Microsoft, Alphabet, Amazon et Meta ont investi 99,7 % de la trésorerie que dégage leur activité, et prévoient de 720 à 740 milliards de dollars d'investissement sur l'année. Les revenus de l'IA, estimés entre 105 et 176,8 milliards de dollars par an, en restent loin. OpenAI a dépensé 260 dollars pour 100 encaissés en 2025 ; Anthropic gagne sur chaque requête mais a basculé dans le rouge au troisième trimestre ; les fabricants de mémoire et de puces font l'essentiel des profits. La dette, les locations hors bilan et la Bourse comblent l'écart, et les épargnants sont entrés avec l'introduction en Bourse d'Anthropic. Les signaux d'alerte portent sur le financement plus que sur la demande, et rien ne permet de dater un éclatement. S'il survenait, la note irait d'abord aux emprunteurs les plus fragiles, loueurs de puces, fonds hors bilan et laboratoires, puis aux.",
+      "source": "ActuIA",
+      "category": "Actualité IA",
+      "url": "https://www.actuia.com/actualite/bulle-de-lia-qui-paiera-la-note-si-elle-eclate/",
+      "publishedAt": "2026-11-25T14:29:54.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "La menace s’étend : le système OSINT de la CIA piraté, probablement par le même outil IA que la Commission européenne",
+      "originalTitle": "La menace s’étend : le système OSINT de la CIA piraté, probablement par le même outil IA que la Commission européenne",
+      "summary": "Selon le New York Times, des pirates ont compromis un système d'analyse en sources ouvertes de la CIA. Deux autres agences de renseignement américaines auraient été touchées.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/cyberguerre/2384431-la-menace-setend-le-systeme-osint-de-la-cia-pirate-probablement-par-le-meme-outil-ia-que-la-commission-europeenne.html",
+      "publishedAt": "2026-11-25T12:10:00.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-26T07:00:13.584Z"
+}
