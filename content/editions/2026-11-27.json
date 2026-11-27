@@ -1,0 +1,46 @@
+{
+  "slug": "2026-11-27",
+  "kind": "daily",
+  "dateLabel": "27 novembre 2026",
+  "weekday": "Vendredi",
+  "editionNumber": 210,
+  "readingMinutes": 4,
+  "dek": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu’à 40 % plus vit",
+  "stories": [
+    {
+      "rank": 1,
+      "title": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu’à 40 % plus vit",
+      "originalTitle": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu’à 40 % plus vite",
+      "summary": "Pendant une semaine, les nouveaux modèles d'OpenAI ont semblé étonnamment généreux. C'était une erreur. En la corrigeant, l'entreprise fait fondre les quotas de ses abonnés jusqu'à 40 % plus vite, deux jours après avoir annoncé un quota unique pour ChatGPT et Codex.",
+      "source": "Numerama IA",
+      "category": "Actualité IA",
+      "url": "https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html",
+      "publishedAt": "2026-11-26T14:47:30.000Z",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "title": "L'IA moins chère peut-elle appauvrir tout le monde ?",
+      "originalTitle": "L'IA moins chère peut-elle appauvrir tout le monde ?",
+      "summary": "L'IA ne fait pas que déplacer la richesse : elle peut en supprimer, quand elle produit ce que personne ne lit, efface un signal comme la lettre de motivation sur Freelancer.com, se vend sous son coût dans les forfaits ou pousse chacun à reconstruire son outil au lieu d'entretenir les logiciels libres communs. Chacun voit ce qu'il gagne comme client, rarement ce qu'il perd comme fournisseur quand les autres utilisent l'IA à la place de son travail, et le surplus de 172,3 milliards de dollars chiffré à Stanford ne compte que le premier. Les économistes répondent que les gains de productivité couvrent d'ordinaire les pertes des producteurs, mais Acemoglu estime ces gains à 0,66 % de productivité au plus en dix ans, et les essais en entreprise les trouvent minces. Avec un gain faible, production gaspillée, signal perdu et calcul subventionné peuvent faire pencher le bilan collectif du mauvai.",
+      "source": "ActuIA",
+      "category": "Produit / API",
+      "url": "https://www.actuia.com/actualite/si-lia-produit-moins-cher-comment-peut-elle-detruire-de-la-valeur/",
+      "publishedAt": "2026-11-26T08:30:39.000Z",
+      "accent": "violet"
+    },
+    {
+      "rank": 3,
+      "title": "« Pour la littérature, le recours à l’IA est un vrai naufrage ! » : après l’affaire Thélyson Orélien, les écrivains face",
+      "originalTitle": "« Pour la littérature, le recours à l’IA est un vrai naufrage ! » : après l’affaire Thélyson Orélien, les écrivains face à l’intelligence artificielle",
+      "summary": "Deux mois après la polémique suscitée par « C’était ça ou mourir », les écrivains sortent de la sidération. Pierre Bergounioux, François Bon, Eric Chevillard, Virginie Despentes, Sibylle Grimbert, Philippe Jaenada, Laurent Jenny, Amélie Nothomb, Véronique Ovaldé et Blandine Rinkel interrogent ce qui fonde l’authenticité littéraire.",
+      "source": "Le Monde IA",
+      "category": "Sécurité / gouvernance",
+      "url": "https://www.lemonde.fr/livres/article/2026/11/27/pour-la-litterature-le-recours-a-l-ia-est-un-vrai-naufrage-apres-l-affaire-thelyson-orelien-les-ecrivains-face-a-l-intelligence-artificielle_6815797_3260.html",
+      "publishedAt": "2026-11-27T05:00:06.000Z",
+      "accent": "orange"
+    }
+  ],
+  "audioUrl": null,
+  "generatedAt": "2026-11-27T07:00:14.262Z"
+}
